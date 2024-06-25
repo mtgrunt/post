@@ -1,3 +1,3 @@
 mtgrunt.github.io
 
-static folder for a website
+static folder and content for my website
