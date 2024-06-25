@@ -1,3 +1,7 @@
 [submodule "mtgrunt.github.io"]
 	path = mtgrunt.github.io
 	url = https://github.com/mtgrunt/mtgrunt.github.io.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
