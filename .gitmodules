@@ -1,13 +1,8 @@
 [submodule "mtgrunt.github.io"]
 	path = mtgrunt.github.io
 	url = https://github.com/mtgrunt/mtgrunt.github.io.git
-[submodule "themes/beautifulhugo"]
-	path = themes/beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "themes/themes/blowfish"]
 	path = themes/themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+
