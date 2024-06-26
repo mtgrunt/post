@@ -4,9 +4,8 @@
     <title>Tags on Miles Wallace</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Miles Wallace</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; | 2024 Miles Wallace | All Rights Reserved |</copyright>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

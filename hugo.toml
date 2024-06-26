@@ -1,4 +1,8 @@
 baseURL = 'https://mtgrunt.github.io'
 languageCode = 'en-us'
 title = 'Miles Wallace'
-theme = 'blowfish'
+theme = 'beautifulhugo'
+
+[module]
+    [[module.imports]]
+      path = 'github.com/spf13/hyde'
