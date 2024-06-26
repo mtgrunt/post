@@ -1,0 +1,6 @@
+baseURL = 'https://mtgrunt.github.io'
+languageCode = 'en-us'
+title = 'Miles Wallace'
+theme = 'blowfish'
+
+
