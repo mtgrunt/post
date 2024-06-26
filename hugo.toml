@@ -3,6 +3,5 @@ languageCode = 'en-us'
 title = 'Miles Wallace'
 theme = 'beautifulhugo'
 
-[module]
-    [[module.imports]]
-      path = 'github.com/spf13/hyde'
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
