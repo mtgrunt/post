@@ -5,6 +5,5 @@ theme = 'blowfish'
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
-[[module.imports]]
-  path = "github.com/nunocoracao/blowfish"
+
 
