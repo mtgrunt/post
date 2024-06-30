@@ -21,7 +21,7 @@ enableEmoji = true
 
 [imaging]
   anchor = 'Center'
-
+  
 [taxonomies]
   tag = "tags"
   category = "categories"
