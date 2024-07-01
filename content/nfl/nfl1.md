@@ -1,5 +1,5 @@
 ---
-title: NFL Lawsuit
+title: NFL Sunday Ticket Trial
 date: 2024-06-30
 ---
 The class action lawsuit against the National Football League (NFL), alleging price fixing in violation of federal antitrust laws regarding its Sunday Ticket service, has reached a significant verdict. The plaintiffs claimed that the NFL deliberately set prices for Sunday Ticket excessively high to coerce consumers into sticking with local broadcasts from CBS and Fox, thus protecting the NFL's relationships with these networks. The jury's conclusion was damning: they found the NFL guilty of antitrust violations, ruling that the pricing strategy unfairly restricted consumer choice.
