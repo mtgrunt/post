@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "NFL"
+  name = "nfl"
   weight = 20
 
 #[[main]]
