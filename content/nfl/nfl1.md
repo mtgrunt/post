@@ -2,6 +2,7 @@
 title: NFL Sunday Ticket Trial
 date: 2024-06-30
 ShowPostNavLinks: true
+showHero: true
 image: featured.png
 
 ---
