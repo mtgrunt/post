@@ -25,10 +25,10 @@
   pageRef = "about"
   weight = 30
 
-#[[main]]
-#  name = "Tech"
-#  pageRef = "tech"
-#  weight = 40
+[[main]]
+  name = "Tech"
+  pageRef = "tech"
+  weight = 40
 
 #[[subnavigation]]
 #  name = "An interesting topic"

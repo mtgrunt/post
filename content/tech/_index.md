@@ -1,7 +1,7 @@
 ---
-title: "Pages"
-description: "Learn about some of my projects."
-cascade:
-  showReadingTime: false
+title: First post
+date: 2024-06-30
+description: I supply in depth knowledge on creating websites. Furthermore, other tech topics, I find appealing. Also, I provide NFL charts, formations, schemes, etc.
 ---
-This section contains all my current projects.
+
+Always be coding and creating!
