@@ -1,6 +1,6 @@
 ---
 title: "NFL"
-description: "Learn about some of my projects."
+description: "Learn about some of my NFL projects."
 # cascade:
 #  showReadingTime: false  
 # featured_image: "featured.png"  
