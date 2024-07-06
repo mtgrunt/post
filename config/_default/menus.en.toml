@@ -18,12 +18,12 @@
 [[main]]
   name = "NFL"
   pageRef = "nfl"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Tech"
