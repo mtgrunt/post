@@ -16,7 +16,7 @@ title = "Miles Wallace"
 [author]
    name = "Miles Wallace"
    image = "miles.png"
-    headline = "Always be coding and creating!"
+   headline = "Always be coding and creating!"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },

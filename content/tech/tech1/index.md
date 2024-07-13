@@ -5,4 +5,4 @@ ShowPostNavLinks: true
 showHero: true
 ---
 
-Test...test...test
+Test.
