@@ -1,13 +1,13 @@
 ---
 title: Tech
-date: 2024-02-30
+date: 2024-03-30
 ShowPostNavLinks: true
 showHero: true
 description: "Raspberry Pi 5."
-tags: ["Raspberry Pi 5", "RAM", "PCIe", "NVMe", "MIP CSI/DSI ports", "4Kp60 HDMI display", "I/O performance", "single-board computer",  ]
+tags: ["Raspberry Pi 5", "RAM", "PCIe", "NVMe", "MIP CSI/DSI ports", "4Kp60 HDMI display", "I/O performance", "single-board computer"]
 ---
 ## "Raspberry Pi 5"
-#### _2/30/2024_ 
+#### 03/30/2024 
 
 The Raspberry Pi 5 represents a significant advancement in the world of single-board computers. One of the most notable improvements is the choice between 4GB and 8GB of RAM, offering users more flexibility when it comes to memory-intensive tasks and applications. This upgrade ensures smoother multitasking and enhanced performance, making the Raspberry Pi 5 a versatile computing platform for a wide range of projects.
 
