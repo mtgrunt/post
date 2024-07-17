@@ -1,20 +1,22 @@
 ---
 title: Tech
-date: 11/29/2023
+date: 2024-02-30
 ShowPostNavLinks: true
 showHero: true
-description: "Ubiquiti: UniFi Express."
-tags: ["Ubiquiti", "UniFi Express", "Unifi Dream Machine Pro", "access points", "USB-C", "LAN", "WAN", "Unify", "DHCP", "Wi-Fi 6", "VPN", "IDS", "IPS", "LCM", "MIMO",  ]
+description: "Raspberry Pi 5."
+tags: ["Raspberry Pi 5", "RAM", "PCIe", "NVMe", "MIP CSI/DSI ports", "4Kp60 HDMI display", "I/O performance", "single-board computer",  ]
 ---
-## "Ubiquiti: UniFi Express."
-#### 11/29/2023
+## "Raspberry Pi 5"
+#### _2/30/2024_ 
 
-UniFi Express from Ubiquiti is a game-changer for small and home networks, offering remarkable flexibility in a compact form factor. Its ability to function as a gateway with Wi-Fi 6 capabilities makes it a versatile solution for powering entire networks. The device can also be transformed into a mesh system, expanding wireless coverage effortlessly. Alternatively, it seamlessly integrates into existing networks in Access Point Only mode.
+The Raspberry Pi 5 represents a significant advancement in the world of single-board computers. One of the most notable improvements is the choice between 4GB and 8GB of RAM, offering users more flexibility when it comes to memory-intensive tasks and applications. This upgrade ensures smoother multitasking and enhanced performance, making the Raspberry Pi 5 a versatile computing platform for a wide range of projects.
 
-This device is an excellent entry point for those new to UniFi's network app and wireless access points. If you're already part of the UniFi ecosystem, the UniFi Express can easily integrate into your existing network. The small, all-white device measures just 3.5 inches in length and width, with a height of approximately one inch. Despite its plastic construction, an aluminum bottom aids in heat dissipation. Powered by USB-C, it features a gigabit LAN port and a gigabit WAN port, along with 2x2 MIMO support for both 2.4GHz and 5GHz frequencies, accommodating Wi-Fi 6 standards.
+At the heart of the Raspberry Pi 5 is a powerful quad-core Arm Cortex-A76 processor clocked at 2.4GHz, promising a remarkable 2-3x speed improvement over its predecessor. This substantial boost in processing power enables users to tackle more demanding tasks and run resource-intensive software with ease. Whether you're into AI and machine learning or simply need a faster computing experience, the Raspberry Pi 5 has you covered.
 
-Setting up the UniFi Express is a straightforward process. After adoption, users can manage the device via the UniFi network app on their mobile devices or through the web. The dashboard provides a comprehensive overview of network health and statistics. The application allows users to delve into different aspects of their network, such as topology, UniFi devices, client devices, ports, radios and more.
+The introduction of an on-board power button is a convenient addition that simplifies the overall user experience. No more fumbling with external switches or unplugging the device to power it on or off. This small yet practical feature is indicative of the Raspberry Pi's commitment to user-friendliness.
 
-The UniFi Express supports up to 8 unique SSIDs and can handle over 60 clients simultaneously, making it suitable for various scenarios. Its LCM screen displays network status, enhancing user visibility. The device's extensive feature set includes Wi-Fi optimization, VLAN configuration, VPN setup (including the innovative Teleport) and advanced security options. Notably, it lacks IDS and IPS, potentially for cost and performance reasons, but compensates with general security configurations.
+The Raspberry Pi 5 further expands its connectivity options with a single-lane PCIe port, allowing users to attach PCIe and NVMe devices for enhanced storage and I/O capabilities. This opens up a world of possibilities for those who require faster data transfer speeds or want to connect various peripherals and expansion cards to their Raspberry Pi.
 
-The UniFi Express caters to a wide range of users and scenarios. It's ideal for small businesses seeking a cost-effective yet powerful network solution with Wi-Fi 6 capabilities. For existing UniFi networks, it serves as an easy-to-add access point or mesh extender. Remote workers can connect securely to corporate networks through its VPN capabilities. At home, it offers a simple way to create a mesh network, and its compact size makes it suitable for travel routers. Its versatility makes it applicable to various use cases, from first-time users to prosumers and even specialized applications like remote tech support.
+Additionally, the Raspberry Pi 5 boasts dual 4-lane MIPI CSI/DSI ports, which provide increased bandwidth for connecting cameras and displays. This is particularly beneficial for applications like computer vision and digital signage where high-quality imaging and crisp displays are crucial. Furthermore, the dual 4Kp60 HDMI display output with HDR support ensures a visually stunning output for your projects.
+
+The Raspberry Pi 5, with its new silicon designed for enhanced I/O performance, is a true "everything computer." Whether you're a hobbyist, a student, a tinkerer, or a professional, the Raspberry Pi 5 offers a powerful and optimized computing platform that can be tailored to suit a wide range of projects and applications. With this latest iteration, the Raspberry Pi Foundation continues to push the boundaries of what's possible with a single-board computer.
