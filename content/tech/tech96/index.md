@@ -8,7 +8,7 @@ tags: ["llama", "llama3"]
 ---
 ## "Running Llama."
 #### 07/18/2024 
-
+___
 Running Llama 3 locally involves several steps, including setting up the environment, loading necessary components, and integrating it into applications. Below is a comprehensive guide to help you get started with running Llama 3 locally, along with examples and source code where applicable.
 
 Why Run Llama 3 Locally?
@@ -24,28 +24,28 @@ Python (version 3.6 or higher recommended)
 Pip (Python package installer)
 Setting Up Llama 3
 
-1. Installation
-First, clone the Llama 3 repository from GitHub:
-'''
-git clone https://github.com/llama3/llama3.git
-cd llama3
-'''
+Clone the Llama 3 repository from GitHub:
+
+    git clone https://github.com/llama3/llama3.git
+    cd llama3
+
 Install the required Python packages:
-'''
-pip install -r requirements.txt
-'''
-2. Serving Llama 3 Locally
+
+    pip install -r requirements.txt
+
+Serving Llama 3 Locally
 Llama 3 typically uses FastAPI for serving its API locally. Start the server:
 
+    uvicorn llama3.server.main:app --reload
 
-uvicorn llama3.server.main:app --reload
-This will start the server locally at http://localhost:8000.
+    This will start the server locally at http://localhost:8000.
 
-3. Accessing the API Using cURL
+Accessing the API Using cURL
 You can interact with the Llama 3 API using cURL commands. For example, to send a text query:
 
     curl -X POST "http://localhost:8000/llama3/query" -H "Content-Type: application/json" -d '{"query": "Your text query here"}'
-4. Accessing the API Using Python Package
+
+Accessing the API Using Python Package
 To access the API programmatically in Python, you can use the requests library:
 
     import requests
@@ -56,35 +56,36 @@ To access the API programmatically in Python, you can use the requests library:
 
     response = requests.post(url, json=payload, headers=headers)
     print(response.json())
+
 Integrating Llama 3 in VSCode
 To integrate Llama 3 in Visual Studio Code, set up a Python environment with the necessary dependencies and use the VSCode Python extension for development and debugging.
 
 Developing an AI Application Locally
-1. Loading Documents
+Loading Documents
     You can load documents into Llama 3 for indexing and retrieval. Example source code snippet:
 
-    from llama3.indexing import DocumentIndexer
+        from llama3.indexing import DocumentIndexer
 
-    indexer = DocumentIndexer()
-    indexer.add_document("document_id", "Document content goes here")
-    indexer.build_index()
+        indexer = DocumentIndexer()
+        indexer.add_document("document_id", "Document content goes here")
+        indexer.build_index()
 
-2. Building Langchain Chains for Q&A Retrieval System
+Building Langchain Chains for Q&A Retrieval System
     Langchains in Llama 3 are used for building question-answering (Q&A) systems. Example source code:
 
-    from llama3.langchains import QARetrievalChain
+        from llama3.langchains import QARetrievalChain
 
-    qa_chain = QARetrievalChain()
-    qa_chain.add_document("document_id", "Document content goes here")
-    qa_chain.build_chain()
+        qa_chain = QARetrievalChain()
+        qa_chain.add_document("document_id", "Document content goes here")
+        qa_chain.build_chain()
 
-3. Testing the Q&A Retrieval Chain
+Testing the Q&A Retrieval Chain
     Test your Q&A retrieval chain with sample queries:
 
-    result = qa_chain.answer_query("Your question here")
-    print(result)
+        result = qa_chain.answer_query("Your question here")
+        print(result)
 
-4. Building the AI Application
+Building the AI Application
     Integrate Llama 3 components into your AI application for various tasks.
 
     Conclusion
