@@ -86,7 +86,7 @@ Testing the Q&A Retrieval Chain
         print(result)
 
 Building the AI Application
-    Integrate Llama 3 components into your AI application for various tasks.
+Integrate Llama 3 components into your AI application for various tasks.
 
-    Conclusion
-    Running Llama 3 locally provides flexibility in developing AI applications and testing functionalities without relying on external services. By following the steps and using the provided examples and source code snippets, you can effectively set up and utilize Llama 3 in your local development environment.
+Conclusion    
+Running Llama 3 locally provides flexibility in developing AI applications and testing functionalities without relying on external services. By following the steps and using the provided examples and source code snippets, you can effectively set up and utilize Llama 3 in your local development environment.
