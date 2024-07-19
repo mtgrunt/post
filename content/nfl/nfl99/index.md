@@ -1,15 +1,14 @@
 ---
-title: NFL Sunday Ticket Trial
+title: Arizona Cardinals
 date: 2024-07-18
 ShowPostNavLinks: true
 showHero: true
 description: "Arizona Cardinals."
-tags: ["NFL", "Arizona Cardinals", "Jonathan Gannon", "Drew Petzing", "Nick Rallis", "Jonah Williams", "Justin Jones", "Sean Murphy-Bunting", "Bilal Nichols", "Marvin Harrison Jr.", "Darius Robinson", "Max Melton", "Trey Benson", "Isaiah Adams"] 
+tags: ["NFL", "Arizona Cardinals", "Jonathan Gannon", "Drew Petzing", "Nick Rallis", "Jonah Williams", "Justin Jones", "Sean Murphy-Bunting", "Bilal Nichols", "Marvin Harrison Jr", "Darius Robinson", "Max Melton", "Trey Benson", "Isaiah Adams",] 
 ---
 ## "Arizona Cardinals."
 #### 07/18/2024 
 
-Team: Arizona Cardinals
 Head Coach: Jonathan Gannon (Former Philadelphia Defensive Coordinator, 1 year)
 Offensive Coordinator: Drew Petzing (Former Clevelands’ Quarterback Coach, 1 year)
 Defensive Coordinator: Nick Rallis (Former Philadelphia Defensive Assistant, 1 year)
