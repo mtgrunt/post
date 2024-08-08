@@ -5,4 +5,4 @@ description: "Learn about some of my NFL projects."
 #  showReadingTime: false  
 # featured_image: "featured.png"  
 ---
-I provide NFL charts, formations, schemes, etc.
+I provide NFL charts, formations, personnel, schemes, etc.
