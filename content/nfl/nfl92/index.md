@@ -9,6 +9,15 @@ tags: ["NFL", "AFC East", "Buffalo Bills", "Miami Dolphins", "New England Patrio
 ## "AFC East"
 
 #### 08/14/2024 
+    Team:                   Buffalo Bills               Miami Dolphins
+    Head Coach:             Sean McDermott (7)          Mike McDaniel (2)
+    Offensive Coordinator:  Joe Brady (New)             Frank Smith (2)
+    Defensive Coordinator:  Bobby Babich (New)          Anthony Weaver (New)
+
+    Team:                   New England Patriots        New York Jets
+    Head Coach:             Jerod Mayo (New)            Robert Saleh (3)       
+    Offensive Coordinator:  Alex Van Pelt (New)         Nathaniel Hacket (1)
+    Defensive Coordinator:  DeMarcus Covington (New)    Jeff Ulbrich (3)
 
 #### Miami Dolphins (1)
 Miami Dolphins made significant strides under the guidance of head coach Mike McDaniel. Despite facing injury challenges, particularly with Tua Tagovailoa’s health. McDaniel’s adjustments from the previous year led to a notable improvement in their play action game and overall offensive efficiency. The Dolphins’ offense excelled on first downs and late downs, with significant year-over-year improvements in metrics such as air yards per attempt and expected points added per attempt. Their high-powered offense saw a successful season, though concerns about consistency and depth at the receiver position lingered.
