@@ -1,5 +1,5 @@
 ---
-title: Fantasy Football Preview
+title: Fantasy Football Preview STD
 date: 2024-08-17
 ShowPostNavLinks: true
 showHero: true
