@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIP CSI/DSI Ports on Miles Wallace</title>
+    <link>http://localhost:1313/tags/mip-csi/dsi-ports/</link>
+    <description>Recent content in MIP CSI/DSI Ports on Miles Wallace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mip-csi/dsi-ports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tech/tech98/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tech/tech98/</guid>
+      <description>&amp;ldquo;Raspberry Pi 5&amp;rdquo; # 03/30/2024 # The Raspberry Pi 5 represents a significant advancement in the world of single-board computers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tech/tech98/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

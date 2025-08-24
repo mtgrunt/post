@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LCM on Miles Wallace</title>
+    <link>http://localhost:1313/tags/lcm/</link>
+    <description>Recent content in LCM on Miles Wallace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lcm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tech/tech99/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tech/tech99/</guid>
+      <description>&amp;ldquo;Ubiquiti: UniFi Express.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tech/tech99/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

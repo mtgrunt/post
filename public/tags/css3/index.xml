@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS3 on Miles Wallace</title>
+    <link>http://localhost:1313/tags/css3/</link>
+    <description>Recent content in CSS3 on Miles Wallace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/css3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>👋 Hello.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
