@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arch on Miles Wallace</title>
-    <link>http://localhost:1313/tags/arch/</link>
+    <link>https://mtgrunt.github.io/tags/arch/</link>
     <description>Recent content in Arch on Miles Wallace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mtgrunt.github.io/tags/arch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tech/tech94/</link>
+      <link>https://mtgrunt.github.io/tech/tech94/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tech/tech94/</guid>
+      <guid>https://mtgrunt.github.io/tech/tech94/</guid>
       <description>&amp;ldquo;Embrace Arch Linux.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tech/tech94/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech94/featured.png" />
     </item>
     
   </channel>

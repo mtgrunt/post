@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>California on Miles Wallace</title>
-    <link>http://localhost:1313/tags/california/</link>
+    <link>https://mtgrunt.github.io/tags/california/</link>
     <description>Recent content in California on Miles Wallace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/california/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mtgrunt.github.io/tags/california/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://mtgrunt.github.io/about/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://mtgrunt.github.io/about/</guid>
       <description>👋 Hello.</description>
       
     </item>

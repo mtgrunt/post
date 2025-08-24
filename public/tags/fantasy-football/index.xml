@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fantasy Football on Miles Wallace</title>
-    <link>http://localhost:1313/tags/fantasy-football/</link>
+    <link>https://mtgrunt.github.io/tags/fantasy-football/</link>
     <description>Recent content in Fantasy Football on Miles Wallace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
-    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fantasy-football/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mtgrunt.github.io/tags/fantasy-football/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fantasy Football Preview HALF</title>
-      <link>http://localhost:1313/nfl/nfl89/</link>
+      <link>https://mtgrunt.github.io/nfl/nfl89/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nfl/nfl89/</guid>
+      <guid>https://mtgrunt.github.io/nfl/nfl89/</guid>
       <description>&amp;ldquo;Fantasy Football HALF&amp;rdquo; # 08/17/2024 # Player (Team/Bye) HALFChristian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Breece Hall NYJ (12)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)Amon-Ra St.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl89/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl89/featured.png" />
     </item>
     
     <item>
       <title>Fantasy Football Preview PPR</title>
-      <link>http://localhost:1313/nfl/nfl90/</link>
+      <link>https://mtgrunt.github.io/nfl/nfl90/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nfl/nfl90/</guid>
+      <guid>https://mtgrunt.github.io/nfl/nfl90/</guid>
       <description>&amp;ldquo;Fantasy Football PPR&amp;rdquo; # 08/17/2024 # Player (Team/Bye) PPR Christian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)Amon-Ra St.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl90/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl90/featured.png" />
     </item>
     
     <item>
       <title>Fantasy Football Preview STD</title>
-      <link>http://localhost:1313/nfl/nfl88/</link>
+      <link>https://mtgrunt.github.io/nfl/nfl88/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nfl/nfl88/</guid>
+      <guid>https://mtgrunt.github.io/nfl/nfl88/</guid>
       <description>&amp;ldquo;Fantasy Football STD&amp;rdquo; # 08/17/2024 # Player (Team/Bye) STDChristian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Bijan Robinson ATL (12)Breece Hall NYJ (12)Jonathan Taylor IND (14)Saquon Barkley PHI (5)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)A.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl88/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl88/featured.png" />
     </item>
     
   </channel>
