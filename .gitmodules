@@ -6,3 +6,6 @@
 	url = https://github.com/nunocoracao/blowfish
 	branch = main
 
+[submodule "public"]
+	path = public
+	url = https://github.com/mtgrunt/mtgrunt.github.io.git
