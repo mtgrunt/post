@@ -1,232 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Miles Wallace</title>
-    <link>https://mtgrunt.github.io/</link>
-    <description>Recent content on Miles Wallace</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; | Miles Wallace 2025 | All Rights Reserved |</copyright>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mtgrunt.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech94/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech94/</guid>
-      <description>&amp;ldquo;Embrace Arch Linux.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech94/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech95/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech95/</guid>
-      <description>&amp;ldquo;Running Claude.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech95/featured.png" />
-    </item>
-    
-    <item>
-      <title>NFL 2024 Odds</title>
-      <link>https://mtgrunt.github.io/nfl/nfl87/</link>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl87/</guid>
-      <description>&amp;ldquo;NFL 2024 Odds - Week 1&amp;rdquo; # 08/18/2024 # Team	Moneyline	Spread	Over-UnderRavens	130	3	46.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl87/featured.png" />
-    </item>
-    
-    <item>
-      <title>Fantasy Football Preview HALF</title>
-      <link>https://mtgrunt.github.io/nfl/nfl89/</link>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl89/</guid>
-      <description>&amp;ldquo;Fantasy Football HALF&amp;rdquo; # 08/17/2024 # Player (Team/Bye) HALFChristian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Breece Hall NYJ (12)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)Amon-Ra St.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl89/featured.png" />
-    </item>
-    
-    <item>
-      <title>Fantasy Football Preview PPR</title>
-      <link>https://mtgrunt.github.io/nfl/nfl90/</link>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl90/</guid>
-      <description>&amp;ldquo;Fantasy Football PPR&amp;rdquo; # 08/17/2024 # Player (Team/Bye) PPR Christian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)Amon-Ra St.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl90/featured.png" />
-    </item>
-    
-    <item>
-      <title>Fantasy Football Preview STD</title>
-      <link>https://mtgrunt.github.io/nfl/nfl88/</link>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl88/</guid>
-      <description>&amp;ldquo;Fantasy Football STD&amp;rdquo; # 08/17/2024 # Player (Team/Bye) STDChristian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Bijan Robinson ATL (12)Breece Hall NYJ (12)Jonathan Taylor IND (14)Saquon Barkley PHI (5)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)A.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl88/featured.png" />
-    </item>
-    
-    <item>
-      <title>AFC North</title>
-      <link>https://mtgrunt.github.io/nfl/nfl91/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl91/</guid>
-      <description>&amp;ldquo;AFC North&amp;rdquo; # 08/15/2024 # Team: Baltimore Ravens Cincinnati Bengals Head Coach: John Harbaugh (16) Zac Taylor (5)Offensive Coordinator: Todd Monken (1) Taylor calls playsDefensive Coordinator: Zachary Orr (New) Lou Anarumo (5)Team: Cleveland Browns Pittsburgh Steelers Head Coach: Kevin Stefanski (4) Mike Tomlin (17)Offensive Coordinator: Ken Dorsey (1) Arthur Smith (New)Defensive Coordinator: Jim Schwartz (1) Teryl Austin (2)Baltimore Ravens (1) # In the 2023 NFL season, the Baltimore Ravens demonstrated a potent combination of offensive efficiency and defensive prowess.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl91/featured.png" />
-    </item>
-    
-    <item>
-      <title>AFC East</title>
-      <link>https://mtgrunt.github.io/nfl/nfl92/</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl92/</guid>
-      <description>&amp;ldquo;AFC East&amp;rdquo; # 08/14/2024 # Team: Buffalo Bills Miami DolphinsHead Coach: Sean McDermott (7) Mike McDaniel (2)Offensive Coordinator: Joe Brady (New) Frank Smith (2)Defensive Coordinator: Bobby Babich (New) Anthony Weaver (New)Team: New England Patriots New York JetsHead Coach: Jerod Mayo (New) Robert Saleh (3) Offensive Coordinator: Alex Van Pelt (New) Nathaniel Hacket (1)Defensive Coordinator: DeMarcus Covington (New) Jeff Ulbrich (3)Miami Dolphins (1) # Miami Dolphins made significant strides under the guidance of head coach Mike McDaniel.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl92/featured.png" />
-    </item>
-    
-    <item>
-      <title>AFC South</title>
-      <link>https://mtgrunt.github.io/nfl/nfl93/</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl93/</guid>
-      <description>&amp;ldquo;AFC South.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl93/featured.png" />
-    </item>
-    
-    <item>
-      <title>AFC West</title>
-      <link>https://mtgrunt.github.io/nfl/nfl94/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl94/</guid>
-      <description>&amp;ldquo;AFC West.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl94/featured.png" />
-    </item>
-    
-    <item>
-      <title>NFC North</title>
-      <link>https://mtgrunt.github.io/nfl/nfl95/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl95/</guid>
-      <description>&amp;ldquo;NFC North.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl95/featured.png" />
-    </item>
-    
-    <item>
-      <title>NFC East</title>
-      <link>https://mtgrunt.github.io/nfl/nfl96/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl96/</guid>
-      <description>&amp;ldquo;NFC East.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl96/featured.png" />
-    </item>
-    
-    <item>
-      <title>NFC South</title>
-      <link>https://mtgrunt.github.io/nfl/nfl97/</link>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl97/</guid>
-      <description>&amp;ldquo;NFC South.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl97/featured.png" />
-    </item>
-    
-    <item>
-      <title>NFC West</title>
-      <link>https://mtgrunt.github.io/nfl/nfl98/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl98/</guid>
-      <description>&amp;ldquo;NFC West.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl98/featured.png" />
-    </item>
-    
-    <item>
-      <title>Arizona Cardinals</title>
-      <link>https://mtgrunt.github.io/nfl/nfl99/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl99/</guid>
-      <description>&amp;ldquo;Arizona Cardinals.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl99/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech96/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech96/</guid>
-      <description>&amp;ldquo;Running Llama.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech96/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://mtgrunt.github.io/about/</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/about/</guid>
-      <description>👋 Hello.</description>
-      
-    </item>
-    
-    <item>
-      <title>NFL Sunday Ticket Trial</title>
-      <link>https://mtgrunt.github.io/nfl/nfl100/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/nfl/nfl100/</guid>
-      <description>&amp;ldquo;NFL Sunday Ticket Trial.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/nfl/nfl100/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech97/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech97/</guid>
-      <description>&amp;ldquo;Principles of Git.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech97/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech98/</link>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech98/</guid>
-      <description>&amp;ldquo;Raspberry Pi 5&amp;rdquo; # 03/30/2024 # The Raspberry Pi 5 represents a significant advancement in the world of single-board computers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech98/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech99/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech99/</guid>
-      <description>&amp;ldquo;Ubiquiti: UniFi Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech99/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://mtgrunt.github.io/tech/tech100/</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtgrunt.github.io/tech/tech100/</guid>
-      <description>&amp;ldquo;Buy or Rent From Your ISP?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtgrunt.github.io/tech/tech100/featured.jpg" />
-    </item>
-    
-  </channel>
-</rss>
