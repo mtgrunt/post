@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Always be coding and creating!"
-date: 2024-07-03
+date: 2025-09-04
 tags: ["California", "HTML5", "CSS3", "Javascript", "Python", "Hugo", "Django", ]
 ---
 👋 Hello. Bonjour. Hallo. Hola. Konnichiwa.
