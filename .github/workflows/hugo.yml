@@ -1,10 +1,10 @@
- name: Deploy Hugo site to GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
-  on:
-    push:
-      branches:
-        - main
-    workflow_dispatch:
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
   permissions:
     contents: read
@@ -27,8 +27,7 @@
       steps:
         - name: Install Hugo CLI
           run: |
-            wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HU
-  GO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+            wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
             && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
         - name: Checkout
@@ -66,3 +65,6 @@
         - name: Deploy to GitHub Pages
           id: deployment
           uses: actions/deploy-pages@v4
+
+  The key fix is this line should be all on one line:
+  wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
