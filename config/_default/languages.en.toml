@@ -14,9 +14,9 @@ title = "Miles Wallace"
   copyright = "&copy; | Miles Wallace 2025 | All Rights Reserved |"
 
 [author]
-  name = "Miles Wallace"
-  image = "miles.png"
-  headline = "Always be coding and creating!"
+name = "Miles Wallace"
+image = "miles.png"
+headline = "Always be coding and creating!"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
