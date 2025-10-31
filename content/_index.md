@@ -1,3 +1,3 @@
- ---
-  title: "Miles Wallace"
-  ---
+---
+title: "Miles Wallace"
+---
