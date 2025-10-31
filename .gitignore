@@ -3,12 +3,24 @@ public/
 resources/
 exampleSite/resources/
 
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
+
+# IDE files
+ .vscode/
+ .idea/
+ *.swp
+ *.swo
+ *~
 
 # Test binary, built with `go test -c`
 *.test
@@ -22,6 +34,10 @@ exampleSite/resources/
 #others
 node_modules
 .hugo_build.lock
+
+# OS files
+ .DS_Store
+ Thumbs.db
 
 # OS generated files
 .DS_Store
