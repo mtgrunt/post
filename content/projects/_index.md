@@ -8,5 +8,5 @@ cascade:
 # featured_image: "featured.png"
 ---
 
-My project portfolio focuses on building high-impact systems across key areas: AI-powered developer tools, distributed systems infrastructure and machine learning platforms. The common thread is a focus on solving actual problems with measurable impact, not just building technology for its own sake.
+My project portfolio focuses on building high-impact systems across key areas: AI-powered developer tools, distributed systems infrastructure, machine learning platforms and Oracle/MySQL/PostgreSQL databases. The common thread is a focus on solving actual problems with measurable impact, not just building technology for its own sake.
 
