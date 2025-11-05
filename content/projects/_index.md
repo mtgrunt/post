@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Projects"
 description: "Learn about some of my projects."
 date: 2025-11-04
 tags: ["Project", ]
