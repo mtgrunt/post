@@ -7,4 +7,6 @@ cascade:
   showReadingTime: false
 # featured_image: "featured.png"
 ---
-Learn about some of my projects.
+
+My project portfolio focuses on building high-impact systems across key areas: AI-powered developer tools, distributed systems infrastructure and machine learning platforms. The common thread is a focus on solving actual problems with measurable impact, not just building technology for its own sake.
+
