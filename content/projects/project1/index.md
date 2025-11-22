@@ -1,6 +1,6 @@
 ---
-title: PostGres Database
-date: 2025-11-13
+title: PostgreSQL Database
+date: 2025-11-22
 ShowPostNavLinks: true
 showHero: true
 description: "11 powerful PostgreSQL features that can replace your entire tech stack - from caching to AI vectors to authentication."
