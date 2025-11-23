@@ -370,7 +370,7 @@ Transform your database into a GraphQL API without additional servers.
 Keep client-side data in sync automatically without WebSockets.
 
 ### Setup Electric SQL:
-
+    
     bash
 ### Install Electric SQL:
     npm install electric-sql
@@ -576,7 +576,7 @@ Automatically generate a RESTful API from your database schema.
     curl -X DELETE http://localhost:3000/users?id=eq.1
 
 ### Advanced Filtering:
-bash
+    bash
 ### Pagination:
     curl "http://localhost:3000/users?limit=10&offset=20"
 
