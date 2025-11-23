@@ -184,7 +184,7 @@ Create a fast cache layer using unlogged tables that live in RAM.
 
 ### Add/modify
 ### shared_buffers = 256MB  # Adjust based on available RAM
-# effective_cache_size = 1GB
+### effective_cache_size = 1GB
 
 ### Restart PostgreSQL:
     sudo systemctl restart postgresql
@@ -351,7 +351,7 @@ Transform your database into a GraphQL API without additional servers.
 
 ### Terminal Example:
     bash
-# Query via psql:
+### Query via psql:
     psql -U postgres -d mydb -c "
     SELECT graphql.resolve('{
     users {
@@ -372,10 +372,10 @@ Keep client-side data in sync automatically without WebSockets.
 ### Setup Electric SQL:
 
     bash
-# Install Electric SQL:
+### Install Electric SQL:
     npm install electric-sql
 
-# Configure with PostgreSQL:
+### Configure with PostgreSQL:
     npx electric-sql generate
 
 ### Enable Logical Replication:
@@ -536,11 +536,11 @@ Automatically generate a RESTful API from your database schema.
 
 ### Install PostgREST:
     bash
-# Download PostgREST:
+### Download PostgREST:
     wget https://github.com/PostgREST/postgrest/releases/download/v12.0.2/postgrest-v12.0.2-linux-static-x64.tar.xz
     tar -xf postgrest-v12.0.2-linux-static-x64.tar.xz
 
-# Create config file:
+### Create config file:
     cat > postgrest.conf << EOF
     db-uri = "postgresql://user:pass@localhost:5432/mydb"
     db-schemas = "public"
@@ -548,42 +548,42 @@ Automatically generate a RESTful API from your database schema.
     server-port = 3000
     EOF
 
-# Run PostgREST:
+### Run PostgREST:
     /postgrest postgrest.conf
 
 ### API Usage:
     bash
-# GET all users:
+### GET all users:
     curl http://localhost:3000/users
 
-# GET with filtering:
+### GET with filtering:
     curl "http://localhost:3000/users?age=gt.25&order=name.asc"
 
-# GET single record:
+### GET single record:
     curl http://localhost:3000/users?id=eq.1
 
-# POST new record:
+### POST new record:
     curl -X POST http://localhost:3000/users \\
         -H "Content-Type: application/json" \\
         -d '{"name": "Alice", "email": "alice@example.com"}'
 
-# PATCH update:
+### PATCH update:
     curl -X PATCH http://localhost:3000/users?id=eq.1 \\
         -H "Content-Type: application/json" \\
         -d '{"name": "Alice Updated"}'
 
-# DELETE:
+### DELETE:
     curl -X DELETE http://localhost:3000/users?id=eq.1
 
 ### Advanced Filtering:
 bash
-# Pagination:
+### Pagination:
     curl "http://localhost:3000/users?limit=10&offset=20"
 
-# Nested resources:
+### Nested resources:
     curl "http://localhost:3000/users?select=name,posts(title,content)"
 
-# Full-text search:
+### Full-text search:
     curl "http://localhost:3000/articles?content=fts.postgresql"
 
 ---
@@ -630,15 +630,15 @@ Here's a complete terminal script to set up a PostgreSQL database with multiple 
     bash
     #!/bin/bash
 
-# Install PostgreSQL:
+### Install PostgreSQL:
     sudo apt update
     sudo apt install -y postgresql postgresql-contrib build-essential git
 
-# Start PostgreSQL:
+### Start PostgreSQL:
     sudo systemctl start postgresql
     sudo systemctl enable postgresql
 
-# Create database:
+### Create database:
     sudo -u postgres psql << EOF
     CREATE DATABASE fullstack_db;
     \\c fullstack_db
