@@ -179,14 +179,14 @@ Create a fast cache layer using unlogged tables that live in RAM.
 
 ### Configuration for RAM Storage:
     bash
-# Edit postgresql.conf to increase shared buffers:
+### Edit postgresql.conf to increase shared buffers:
     sudo nano /etc/postgresql/16/main/postgresql.conf
 
-# Add/modify
-# shared_buffers = 256MB  # Adjust based on available RAM
+### Add/modify
+### shared_buffers = 256MB  # Adjust based on available RAM
 # effective_cache_size = 1GB
 
-# Restart PostgreSQL:
+### Restart PostgreSQL:
     sudo systemctl restart postgresql
 
 ---
@@ -198,7 +198,7 @@ Store and query vector embeddings for RAG (Retrieval-Augmented Generation) appli
 
 ### Install pgvector:
     bash
-# Install from source:
+### Install from source:
     cd /tmp
     git clone --branch v0.7.0 https://github.com/pgvector/pgvector.git
     cd pgvector
