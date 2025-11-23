@@ -21,24 +21,24 @@ First, you'll need a PostgreSQL database. You can use a managed service like [Ne
 
 ### Local Installation:
     bash
-# Ubuntu/Debian:
+### Ubuntu/Debian:
     sudo apt update
     sudo apt install postgresql postgresql-contrib
 
-# macOS:
+### macOS:
     brew install postgresql@16
     brew services start postgresql@16
 
-# Verify installation:
+### Verify installation:
     psql --version
 
 ### Connect to Your Database:
     bash
 
-# Connect to local PostgreSQL:
+### Connect to local PostgreSQL:
     psql -U postgres
 
-# Or connect to a remote database:
+### Or connect to a remote database:
     psql "postgresql://user:password@host:5432/dbname"
 ---
 ## 1. NoSQL with JSON Support:
@@ -80,7 +80,7 @@ PostgreSQL supports \`JSONB\` (binary JSON), allowing you to store and query uns
 
 ### Terminal Example:
     bash
-# Run the queries:
+### Run the queries:
     psql -U postgres -d mydb << EOF
     CREATE TABLE products (
         id SERIAL PRIMARY KEY,
@@ -133,13 +133,13 @@ Run scheduled tasks directly in your database without external services.
 
 ### Terminal Setup:
     bash
-# Add pg_cron to postgresql.conf:
+### Add pg_cron to postgresql.conf:
     echo "shared_preload_libraries = 'pg_cron'" | sudo tee -a /etc/postgresql/16/main/postgresql.conf
 
-# Restart PostgreSQL:
+### Restart PostgreSQL:
     sudo systemctl restart postgresql
 
-# Enable extension in your database:
+### Enable extension in your database:
     psql -U postgres -d mydb -c "CREATE EXTENSION pg_cron;"
 
 ---
