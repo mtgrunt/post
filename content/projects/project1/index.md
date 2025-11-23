@@ -19,12 +19,12 @@ This guide explores 11 powerful, sometimes unorthodox ways to use PostgreSQL to 
 
 First, you'll need a PostgreSQL database. You can use a managed service like [Neon](https://neon.tech) or install it locally.
 
-### Local Installation
+# Local Installation:
 
-\`\`\`bash
-# Ubuntu/Debian
-sudo apt update
-sudo apt install postgresql postgresql-contrib
+    \`\`\`bash
+# Ubuntu/Debian:
+    sudo apt update
+    sudo apt install postgresql postgresql-contrib
 
 # macOS
 brew install postgresql@16
