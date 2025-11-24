@@ -347,7 +347,7 @@ Transform your database into a GraphQL API without additional servers.
     }
     }
     $$);
-    \`\`\`
+
 
 ### Terminal Example:
     bash
