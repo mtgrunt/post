@@ -1,8 +1,9 @@
 ---
-title: "United States AI"
+title: United States AI
 date: 2025-11-24
-draft: false
-summary: "An overview of major U.S.-based AI companies and their flagship models, including Anthropic's Claude, Google's Gemini, Meta's Llama, OpenAI's GPT and xAI's Grok."
+ShowPostNavLinks: true
+showHero: true
+description: "An overview of major U.S.-based AI companies and their flagship models, including Anthropic's Claude, Google's Gemini, Meta's Llama, OpenAI's GPT and xAI's Grok."
 tags: ["AI", "Machine Learning", "LLM", "Artificial Intelligence","Anthropic", "Claude", "Google", "Gemini", "Meta", "Llama", "OpenAI", "GPT", "xAI", "Grok", ]
 ---
 
