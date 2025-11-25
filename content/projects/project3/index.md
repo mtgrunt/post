@@ -118,13 +118,11 @@ infrastructure.
 
 Instead of always routing to remote APIs, you can architect hybrid systems:
 
-┌─────────────────────────────────────┐
-│  Browser (Transformers.js)          │
-│  ├─ Local model handles simple tasks│
-│  ├─ Tool calls to MCP servers       │
-│  ├─ TypeScript function calls       │
-│  └─ Handoff to remote AI when needed│
-└─────────────────────────────────────┘
+Browser (Transformers.js)          
+Local model handles simple tasks
+Tool calls to MCP servers       
+TypeScript function calls       
+Handoff to remote AI when needed
 
 Most end-user AI tasks are quite simple and could be handled by local models:
 - Answering FAQs
