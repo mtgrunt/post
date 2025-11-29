@@ -63,7 +63,7 @@ title = "Miles Wallace"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-      { youtube = "https://youtube.com/@modestwalrus" },
+#     { youtube = "https://youtube.com/@modestwalrus" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
     ]
