@@ -123,29 +123,27 @@ tags: ["Happy New Year", "2026", ]
 
 <div class="countdown-container" id="countdownContainer">
     <div class="countdown-title">Countdown to New Year 2026</div>
-
-    <div class="countdown-display" id="countdownDisplay">
-        <div class="time-box">
-            <span class="time-number" id="days">05</span>
-            <span class="time-text">Days</span>
+        <div class="countdown-display" id="countdownDisplay">
+            <div class="time-box">
+                <span class="time-number" id="days">00</span>
+                <span class="time-text">Days</span>
+            </div>
+            <div class="time-box">
+                <span class="time-number" id="hours">00</span>
+                <span class="time-text">Hours</span>
+            </div>
+            <div class="time-box">
+                <span class="time-number" id="minutes">00</span>
+                <span class="time-text">Minutes</span>
+            </div>
+            <div class="time-box">
+                <span class="time-number" id="seconds">00</span>
+                <span class="time-text">Seconds</span>
+            </div>
         </div>
-        <div class="time-box">
-            <span class="time-number" id="hours">09</span>
-            <span class="time-text">Hours</span>
+        <div class="celebration-text" id="celebration">
+            🎉 HAPPY NEW YEAR! 🎊
         </div>
-        <div class="time-box">
-            <span class="time-number" id="minutes">17</span>
-            <span class="time-text">Minutes</span>
-        </div>
-        <div class="time-box">
-            <span class="time-number" id="seconds">05</span>
-            <span class="time-text">Seconds</span>
-        </div>
-    </div>
-
-    <div class="celebration-text" id="celebration">
-        🎉 HAPPY NEW YEAR! 🎊
-    </div>
 </div>
 
 <script>
