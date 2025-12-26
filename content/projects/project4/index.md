@@ -7,8 +7,6 @@ description: "Happy New Year"
 tags: ["Happy New Year", "2026", ]
 
 ---
-# Happy New Year 2026!
-
 <div style="text-align: center;">
 
 ## Pacific Time Zone
@@ -284,5 +282,5 @@ tags: ["Happy New Year", "2026", ]
 
 ---
 
-Celebrating the arrival of 2026 in **Pacific Time Zone** with lights, fireworks and festive animations!
+Celebrating the arrival of 2026 in **Pacific Time Zone**!!!
 
