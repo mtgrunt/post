@@ -20,7 +20,7 @@ models 100% locally in your browser. While this might
 initially seem like a developer curiosity, it
 represents a paradigm shift in how we build and deploy
 AI-powered applications. This technology has
-far-reaching implications for latency, privacy, cost,
+far-reaching implications for latency, privacy, cost
 and the overall user experience of web applications.
 
 ## What is Transformers.js?
@@ -37,7 +37,7 @@ applications.
 The library brings the entire ecosystem of
 transformer-based models—originally accessible only
 through Python—to the JavaScript world, making them
-available across browsers, Node.js, and even React
+available across browsers, Node.js and even React
 Native applications.
 
 ## Why This is a Bigger Deal Than It Appears

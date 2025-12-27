@@ -14,7 +14,7 @@ sitemap:
 
 ## Introduction
 
-Modern web development often involves juggling 20+ different services: Redis for caching, Elasticsearch for search, a vector database for AI, Algolia for full-text search, Auth0 for authentication, and the list goes on. But what if you could achieve 90% of these features using just **PostgreSQL**?
+Modern web development often involves juggling 20+ different services: Redis for caching, Elasticsearch for search, a vector database for AI, Algolia for full-text search, Auth0 for authentication and the list goes on. But what if you could achieve 90% of these features using just **PostgreSQL**?
 
 This guide explores 11 powerful, sometimes unorthodox ways to use PostgreSQL to simplify your stack and reduce dependencies.
 
