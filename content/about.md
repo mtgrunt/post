@@ -8,8 +8,6 @@ sitemap:
   changefreq: monthly
 ---
 
-# About Miles Wallace
-
 👋 Hello. Bonjour. Hallo. Hola. Konnichiwa.
 
 I'm Miles Wallace, a full-stack developer based in California with a passion for building robust web applications and exploring the endless possibilities of modern technology. Whether it's crafting elegant frontend interfaces or architecting powerful backend systems, I'm always driven by the philosophy: **always be coding and creating**.
