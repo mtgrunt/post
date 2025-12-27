@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Buy or Rent From Your ISP?"
 tags: ["Buy", "Rent", "Internet Service Provider", "ISP", "modem", "mesh", "wi-fi"]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Buy or Rent From Your ISP?"
 #### _04/05/2023_  

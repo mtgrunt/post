@@ -1,8 +1,11 @@
 ---
 title: "Projects"
-description: "Learn about some of my projects."
+description: "Explore web development projects featuring Python, Django, PostgreSQL, AI integrations, and modern JavaScript. Real-world solutions and technical deep-dives."
 date: 2025-11-04
 tags: ["Project"]
+sitemap:
+  priority: 0.9
+  changefreq: weekly
 cascade:
   showReadingTime: false
 # featured_image: "featured.png"

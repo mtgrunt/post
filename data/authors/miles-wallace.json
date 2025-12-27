@@ -1,0 +1,18 @@
+{
+  "name": "Miles Wallace",
+  "image": "miles.png",
+  "imageAlt": "Miles Wallace - Full-stack developer specializing in Python, Django, and PostgreSQL",
+  "bio": "Full-stack developer from California specializing in Python, Django, PostgreSQL, and modern web technologies.",
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/mtgrunt",
+      "icon": "github"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@modestwalrus",
+      "icon": "youtube"
+    }
+  ]
+}

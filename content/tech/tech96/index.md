@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Running Llama."
 tags: ["llama", "llama3"]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Running Llama."
 #### 07/18/2024 

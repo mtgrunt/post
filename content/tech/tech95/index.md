@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Running Claude (AI)."
 tags: ["claude", "AI"]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Running Claude."
 #### 09/01/2024 

@@ -3,6 +3,9 @@ title: "About Miles Wallace"
 description: "Full-stack developer from California specializing in Python, Django, PostgreSQL, and modern web technologies. Explore my journey in web development and tech."
 date: 2025-09-04
 tags: ["California", "HTML5", "CSS3", "Javascript", "Python", "Hugo", "Django", "MySQL", "Bootstrap", "Back-end Database", "PostGreSQL", "MongoDB",  ]
+sitemap:
+  priority: 0.9
+  changefreq: monthly
 ---
 
 # About Miles Wallace

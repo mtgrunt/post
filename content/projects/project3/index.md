@@ -3,10 +3,14 @@ title: "Transformers.js: AI Models Locally in Your Browser"
 date: 2025-11-25
 ShowPostNavLinks: true
 showHero: true
-description: "A comprehensive guide to Transformers.js and the future of client-side machine learning"
+description: "Run AI models 100% locally in your browser with Transformers.js. Complete guide to privacy-first machine learning using JavaScript and WebGPU technology."
 tags: ["AI", "Machine Learning", "JavaScript", "WebGPU", "Privacy", "Transformers"]
-
+sitemap:
+  priority: 0.8
+  changefreq: monthly
 ---
+
+# Transformers.js: Running AI Models Locally in Your Browser
 
 ## Introduction
 

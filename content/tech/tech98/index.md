@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Raspberry Pi 5."
 tags: ["Raspberry Pi 5", "RAM", "PCIe", "NVMe", "MIP CSI/DSI ports", "4Kp60 HDMI display", "I/O performance", "single-board computer"]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Raspberry Pi 5"
 #### 03/30/2024 

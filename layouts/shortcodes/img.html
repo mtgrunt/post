@@ -1,0 +1,38 @@
+{{/* Custom image shortcode with SEO optimization */}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
+{{- $loading := .Get "loading" | default "lazy" -}}
+{{- $class := .Get "class" -}}
+
+{{- if $src -}}
+  {{- $image := resources.Get $src -}}
+  {{- if $image -}}
+    {{/* Generate WebP version if possible */}}
+    {{- $webp := $image.Resize (printf "%dx%d webp" (int $width) (int $height)) -}}
+    {{- $fallback := $image.Resize (printf "%dx%d" (int $width) (int $height)) -}}
+
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <img
+        src="{{ $fallback.RelPermalink }}"
+        alt="{{ $alt }}"
+        {{- if $width }} width="{{ $width }}"{{ end }}
+        {{- if $height }} height="{{ $height }}"{{ end }}
+        loading="{{ $loading }}"
+        {{- if $class }} class="{{ $class }}"{{ end }}
+      >
+    </picture>
+  {{- else -}}
+    {{/* Fallback for images in static folder */}}
+    <img
+      src="{{ $src | relURL }}"
+      alt="{{ $alt }}"
+      {{- if $width }} width="{{ $width }}"{{ end }}
+      {{- if $height }} height="{{ $height }}"{{ end }}
+      loading="{{ $loading }}"
+      {{- if $class }} class="{{ $class }}"{{ end }}
+    >
+  {{- end -}}
+{{- end -}}

@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Principles of Git."
 tags: ["Git", "GitHub", "Git Bash", "Windows", "MacOS", "Linux", "Mac", "distributed", "Homebrew", "Terminal", "git clone", "git pull", "git push", "git add", "git commit"]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Principles of Git."
 #### 05/27/2024 

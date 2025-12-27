@@ -18,8 +18,15 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 defaultFeaturedImage = "mw.png" # used as default for featured images in all articles
+
+# Image optimization and SEO settings
+[images]
+  defaultAlt = "Miles Wallace - Full-stack developer"
+  lazyLoading = true
+  quality = 85
+  formats = ["webp", "png"]
 
 # highlightCurrentMenuArea = true
 # smartTOC = true

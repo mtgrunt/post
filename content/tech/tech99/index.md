@@ -5,6 +5,9 @@ ShowPostNavLinks: true
 showHero: true
 description: "Ubiquiti: UniFi Express."
 tags: ["Ubiquiti", "UniFi Express", "Unifi Dream Machine Pro", "access points", "USB-C", "LAN", "WAN", "Unify", "DHCP", "Wi-Fi 6", "VPN", "IDS", "IPS", "LCM", "MIMO",  ]
+sitemap:
+  priority: 0.4
+  changefreq: yearly
 ---
 ## "Ubiquiti: UniFi Express."
 #### 11/29/2023
