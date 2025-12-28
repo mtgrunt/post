@@ -1,0 +1,50 @@
+{{/* Breadcrumb Schema Markup for SEO */}}
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ $sections := split .RelPermalink "/" }}
+    {{ $len := len $sections }}
+    {{ $position := 2 }}
+    {{ $url := .Site.BaseURL }}
+
+    {{ range $index, $section := $sections }}
+      {{ if and (gt (len $section) 0) (ne $section (index $sections (sub $len 1))) }}
+        {{ $url = printf "%s%s/" $url $section }}
+        {{ $name := $section | replaceRE "-" " " | title }}
+        {{ if eq $section "projects" }}
+          {{ $name = "Projects" }}
+        {{ else if eq $section "tech" }}
+          {{ $name = "Tech" }}
+        {{ else if eq $section "about" }}
+          {{ $name = "About" }}
+        {{ end }}
+    ,{
+      "@type": "ListItem",
+      "position": {{ $position }},
+      "name": "{{ $name }}",
+      "item": "{{ $url }}"
+    }
+        {{ $position = add $position 1 }}
+      {{ end }}
+    {{ end }}
+
+    {{ if .Title }}
+    ,{
+      "@type": "ListItem",
+      "position": {{ $position }},
+      "name": "{{ .Title }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

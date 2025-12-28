@@ -1,0 +1,80 @@
+{{/* SEO Meta Tags - Open Graph, Twitter Cards, Canonical, Robots */}}
+
+{{/* Canonical URL */}}
+<link rel="canonical" href="{{ .Permalink }}" />
+
+{{/* Viewport - Critical for mobile-first indexing */}}
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+{{/* Robots Meta Tag */}}
+{{ if .Params.noindex }}
+<meta name="robots" content="noindex, follow" />
+{{ else }}
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+{{ end }}
+
+{{/* Open Graph Meta Tags */}}
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:locale" content="{{ .Site.Language.Lang }}" />
+
+{{/* Open Graph Image */}}
+{{ $image := "" }}
+{{ if .Params.featuredImage }}
+  {{ $image = .Params.featuredImage }}
+{{ else if .Params.images }}
+  {{ $image = index .Params.images 0 }}
+{{ else if .Site.Params.defaultFeaturedImage }}
+  {{ $image = .Site.Params.defaultFeaturedImage }}
+{{ end }}
+
+{{ if $image }}
+  {{ if hasPrefix $image "http" }}
+<meta property="og:image" content="{{ $image }}" />
+  {{ else }}
+<meta property="og:image" content="{{ $image | absURL }}" />
+  {{ end }}
+{{ end }}
+
+{{/* Article specific Open Graph tags */}}
+{{ if .IsPage }}
+  {{ if .PublishDate }}
+<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}" />
+  {{ end }}
+  {{ if .Lastmod }}
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
+  {{ end }}
+  {{ with .Params.author }}
+<meta property="article:author" content="{{ . }}" />
+  {{ end }}
+  {{ range .Params.tags }}
+<meta property="article:tag" content="{{ . }}" />
+  {{ end }}
+{{ end }}
+
+{{/* Twitter Card Meta Tags */}}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+
+{{ if $image }}
+  {{ if hasPrefix $image "http" }}
+<meta name="twitter:image" content="{{ $image }}" />
+  {{ else }}
+<meta name="twitter:image" content="{{ $image | absURL }}" />
+  {{ end }}
+{{ end }}
+
+{{ with .Site.Params.social.twitter }}
+<meta name="twitter:site" content="@{{ . }}" />
+<meta name="twitter:creator" content="@{{ . }}" />
+{{ end }}
+
+{{/* Additional SEO Meta Tags */}}
+<meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}Miles Wallace{{ end }}" />
+{{ with .Params.tags }}
+<meta name="keywords" content="{{ delimit . ", " }}" />
+{{ end }}
