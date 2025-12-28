@@ -22,11 +22,13 @@ disableTextInHeader = false
 defaultFeaturedImage = "mw.png" # used as default for featured images in all articles
 
 # Image optimization and SEO settings
-[images]
-  defaultAlt = "Miles Wallace - Full-stack developer"
-  lazyLoading = true
-  quality = 85
-  formats = ["webp", "png"]
+# NOTE: The [images] table causes conflicts with Hugo's internal image handling
+# Use per-page front matter for image configuration instead
+# [images]
+#   defaultAlt = "Miles Wallace - Full-stack developer"
+#   lazyLoading = true
+#   quality = 85
+#   formats = ["webp", "png"]
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
