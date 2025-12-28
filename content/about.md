@@ -46,7 +46,7 @@ I believe in continuous learning and staying current with emerging technologies.
 
 I'm always interested in discussing new technologies. You can find my code, contributions and latest projects on <a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a> where I share my work and engage with the developer community.
 
-Whether you're here to check out my projects, read technical articles, or just say hello—welcome! Feel free to explore the site and reach out if you'd like to connect.
+Whether you're here to check out my projects and read technical articles. Feel free to explore the site and reach out if you'd like to connect.
 
 ---
 
