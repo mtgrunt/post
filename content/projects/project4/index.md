@@ -4,7 +4,7 @@ date: 2025-12-26
 ShowPostNavLinks: true
 showHero: true
 description: "Interactive New Year 2026 countdown timer for Pacific Time Zone. Watch the live countdown with animated fireworks, confetti effects, and celebration display."
-tags: ["Happy New Year", "2026", ]
+tags: ["Happy New Year", "2026"]
 sitemap:
   priority: 0.8
   changefreq: monthly

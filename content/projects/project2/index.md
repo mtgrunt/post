@@ -4,7 +4,7 @@ date: 2025-11-24
 ShowPostNavLinks: true
 showHero: true
 description: "Compare major U.S. AI companies and their flagship models: Anthropic Claude, Google Gemini, Meta Llama, OpenAI GPT, and xAI Grok. Complete model overview."
-tags: ["AI", "Machine Learning", "LLM", "Artificial Intelligence","Anthropic", "Claude", "Google", "Gemini", "Meta", "Llama", "OpenAI", "GPT", "xAI", "Grok", ]
+tags: ["AI", "Machine Learning", "LLM", "Artificial Intelligence", "Anthropic", "Claude", "Google", "Gemini", "Meta", "Llama", "OpenAI", "GPT", "xAI", "Grok"]
 sitemap:
   priority: 0.8
   changefreq: monthly

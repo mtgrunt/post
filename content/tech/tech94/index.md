@@ -4,7 +4,7 @@ date: 2024-10-11
 ShowPostNavLinks: true
 showHero: true
 description: "Embrace Arch Linux"
-tags: ["Linux", "Arch", "Arch Linux", "Manual Install", "Pacman", ]
+tags: ["Linux", "Arch", "Arch Linux", "Manual Install", "Pacman"]
 sitemap:
   priority: 0.4
   changefreq: yearly
