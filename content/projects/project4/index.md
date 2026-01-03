@@ -157,7 +157,7 @@ sitemap:
 
     // Create floating lights
     function createFloatingLights() {
-        const colors = ['#ffd700', '#ff69b4', '#00ff00', '#00bfff', '#ff6347', '#000000ff', '#ffffff'];
+        const colors = ['#ffd700', '#ff69b4', '#00ff00', '#00bfff', '#ff6347', '#8b0101ff', '#ffffff'];
         for (let i = 0; i < 30; i++) {
             const light = document.createElement('div');
             light.className = 'light';
@@ -173,7 +173,7 @@ sitemap:
 
     // Create firework effect
     function createFirework(x, y) {
-        const colors = ['#ffd700', '#ff69b4', '#00ff00', '#00bfff', '#ff6347', '#000000ff'];
+        const colors = ['#ffd700', '#ff69b4', '#00ff00', '#00bfff', '#ff6347', '#8b0101ff'];
         const particles = 25;
 
         for (let i = 0; i < particles; i++) {
