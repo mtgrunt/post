@@ -125,7 +125,7 @@ sitemap:
 </style>
 
 <div class="countdown-container" id="countdownContainer">
-    <div class="countdown-title">Countdown to New Year 2026</div>
+    <div class="countdown-title">Countdown to New Year 2027</div>
         <div class="countdown-display" id="countdownDisplay">
             <div class="time-box">
                 <span class="time-number" id="days">00</span>
