@@ -1,16 +1,16 @@
 ---
-title: "Happy New Year 2026"
+title: "Happy New Year 2027"
 date: 2025-12-26
 ShowPostNavLinks: true
 showHero: true
-description: "Interactive New Year 2026 countdown timer for Pacific Time Zone. Watch the live countdown with animated fireworks, confetti effects, and celebration display."
-tags: ["Happy New Year", "2026"]
+description: "Interactive New Year 2027 countdown timer for Pacific Time Zone. Watch the live countdown with animated fireworks, confetti effects, and celebration display."
+tags: ["Happy New Year", "2027"]
 sitemap:
   priority: 0.8
   changefreq: monthly
 ---
 
-# Happy New Year 2026 - Interactive Countdown
+# Happy New Year 2027 - Interactive Countdown
 
 <div style="text-align: center;">
 
@@ -287,5 +287,5 @@ sitemap:
 
 ---
 
-Celebrating the arrival of 2026 in **Pacific Time Zone**!!!
+Celebrating the arrival of 2027 in **Pacific Time Zone**!!!
 
