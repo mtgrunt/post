@@ -12,10 +12,10 @@ sitemap:
 ## NFL Stats Draft Board 2026
 
 ### Big Board:
-    RANK  PLAYER            POSITION	TEAM	      HEIGHT    WEIGHT
-    1     Rueben Bain Jr.   DL/ED	    Miami	      6-3       275lbs
-    2     Caleb Downs       S         Ohio State  6-0       205lbs
-    3     Fernando Mendoza  QB        Indiana     6-5       225lbs
+    RANK  PLAYER              POSITION	TEAM	      HEIGHT    WEIGHT
+    1     Rueben Bain Jr.     DL/ED	    Miami	      6-3       275lbs
+    2     Caleb Downs         S         Ohio State  6-0       205lbs
+    3     Fernando Mendoza    QB        Indiana     6-5       225lbs
     Dante Moore	QB	Oregon	RS So	6-3	210lbs
     Arvell Reese	LB	Ohio State	Jr	6-4	238lbs
     Peter Woods	DL/ED	Clemson	Jr	6-3	315lbs
