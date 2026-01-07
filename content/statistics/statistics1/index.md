@@ -213,11 +213,11 @@ sitemap:
     198   Brandon Cisse       CB        S. Carolina   6-4       235lbs
     199   A.J. Harris         CB        Penn State    6-1       191lbs
     200   Kevin Concepcion    WR        Texas A&M     6-1       191lbs
-    201	Eric Singleton Jr.	WR	Auburn	5-11	187lbs
-    202	Emmanuel Pregnon	G	Oregon	5-11	190lbs
-    203	Trevor Goosby	T	Texas		
-    204	Nyck Harbor	WR	South Carolina		
-    205	Ian Strong	WR	Rutgers	6-5	235lbs
+    201   Eric Singleton Jr.  WR        Auburn        5-11      187lbs
+    202   Emmanuel Pregnon    G         Oregon        5-11      190lbs
+    203   Trevor Goosby       T         Texas         6-7       312lbs
+    204   Nyck Harbor         WR        S. Carolina   6-5       235lbs	
+    205   Ian Strong          WR        Rutgers       6-5       235lbs
     206	Cayden Green	OG	Missouri	6-3	211lbs
     207	Nicholas Singleton	RB	Penn State	6-5	316lbs
     208	Rod Moore	S	Michigan	6-0	227lbs
@@ -225,7 +225,7 @@ sitemap:
     210	Julian Neal	CB	Arkansas		
     211	CJ Allen	LB	Georgia		
     212	Eugene Wilson III	WR	Florida	6-1	235lbs
-    213	Niki Prongos	T	Stanford	5-10	183lbs
+    213	Niki Prongos	T	Stanford	6-7 310lbs
     214	Kenyatta Jackson Jr.	DE/ED	Ohio State		
     215	Xavier Chaplin	OT	Auburn	6-6	265lbs
     216	CJ Daniels	WR	Miami	6-7	348lbs
