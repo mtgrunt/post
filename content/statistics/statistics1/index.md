@@ -22,7 +22,7 @@ sitemap:
     7     Spencer Fano        OT        Utah          6-5       304lbs
     8     Francis Mauigoa     OT        Miami         6-6       315lbs
     9     T.J. Parker         DE/ED     Clemson       6-3       265lbs
-    10    Jordyn Tyson        WR        Arizona State	6-1       195lbs
+    10    Jordyn Tyson        WR        Arizona St.   6-1       195lbs
     11    Jeremiyah Love      RB        Notre Dame    6-0       206lbs
     12    Jermod McCoy        CB        Tennessee     6-0       193lbs
     13    Makai Lemon         WR        USC           5-11      190lbs
@@ -270,21 +270,21 @@ sitemap:
     255   Cole Brevard        DL        Texas         6-3       346lbs
     256   Adon Shuler         S         Notre Dame    6-0       207lbs
     257   Josh Hoover         QB        TCU           6-2       200lbs		
-    258   Landon Robinson     DE        Navy          6-2       200lbs
-    259	DJ McKinney	CB	Colorado		
-    260	Jackson Arnold	QB	Auburn	6-2	190lbs
-    261	Tree Babalade	OT	South Carolina	6-1	211lbs
-    262	Zavion Thomas	WR	LSU	6-6	338lbs
-    263	Rasheem Biles	LB	Pittsburgh		
-    264	Cameron Calhoun	CB	Utah	6-1	215lbs
-    265	Braylan Shelby	DE/ED	USC	6-0	177lbs
-    266	Smith Snowden	CB	Utah	6-5	265lbs
-    267	Tristan Leigh	OT	Clemson	5-10	185lbs
-    268	Quinten Joyner	RB	Texas Tech	6-6	315lbs
-    269	Jerry Wilson	CB	Florida State	5-11	216lbs
-    270	Jahiem White	RB	West Virginia		
-    271	Jordan Castell	S	Florida	5-7	195lbs
-    272	Noah Fifita	QB	Arizona	6-2	210lbs
+    258   Landon Robinson     DE        Navy          6-0       287lbs          
+    259   DJ McKinney         CB        Colorado      6-2       200lbs		
+    260   Jackson Arnold      QB        Auburn        6-2       190lbs
+    261   Tree Babalade       OT        S. Carolina   6-1       211lbs
+    262   Zavion Thomas       WR        LSU           6-6       338lbs
+    263   Rasheem Biles       LB        Pittsburgh    6-1       220lbs		
+    264   Cameron Calhoun     CB        Utah          6-1       215lbs
+    265   Braylan Shelby      DE/ED     USC           6-0       177lbs
+    266   Smith Snowden       CB        Utah          6-5       265lbs
+    267   Tristan Leigh       OT        Clemson       5-10      185lbs
+    268   Quinten Joyner      RB        Texas Tech    6-6       315lbs
+    269   Jerry Wilson        CB        Florida St.   5-11      216lbs
+    270   Jahiem White        RB        W. Virginia   5-7       190lbs   		
+    271   Jordan Castell      S         Florida       6-2       213lbs
+    272   Noah Fifita         QB        Arizona       6-2       210lbs
     273	Malachi Nelson	QB	UTEP	5-10	188lbs
     274	Eric McAlister	WR	TCU	6-3	190lbs
     275	TJ Guy	ED	Michigan		
