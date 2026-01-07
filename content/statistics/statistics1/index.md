@@ -17,7 +17,7 @@ sitemap:
     2     Caleb Downs         S         Ohio State    6-0       205lbs
     3     Fernando Mendoza    QB        Indiana       6-5       225lbs
     4     Dante Moore         QB        Oregon        6-3       210lbs
-    5	    Arvell Reese        LB        Ohio State    6-4       238lbs
+    5     Arvell Reese        LB        Ohio State    6-4       238lbs
     6     Peter Woods         DL/ED     Clemson       6-3       315lbs
     7     Spencer Fano        OT        Utah          6-5       304lbs
     8     Francis Mauigoa     OT        Miami         6-6       315lbs
@@ -206,13 +206,13 @@ sitemap:
     191   Keeshawn Silver     DL        USC           6-4       336lbs
     192   Eric Gentry         LB        USC           6-6       215lbs
     193   Carnell Tate        WR        Ohio State    6-6       315lbs
-    194   LT Overton          DE/ED     Alabama		
+    194   LT Overton          DE/ED     Alabama       6-5       278lbs
     195   LaNorris Sellers    QB        S. Carolina   6-5       283lbs
-    196	Anthony Hill Jr.	LB	Texas	6-3	242lbs
-    197	Sonny Styles	LB	Ohio State	6-3	235lbs
-    198	Brandon Cisse	CB	South Carolina	6-4	235lbs
-    199	A.J. Harris	CB	Penn State		
-    200	Kevin Concepcion	WR	Texas A&M	6-1	191lbs
+    196   Anthony Hill Jr.    LB        Texas         6-3       242lbs
+    197   Sonny Styles        LB        Ohio State    6-3       235lbs
+    198   Brandon Cisse       CB        S. Carolina   6-4       235lbs
+    199   A.J. Harris         CB        Penn State    6-1       191lbs
+    200   Kevin Concepcion    WR        Texas A&M     6-1       191lbs
     201	Eric Singleton Jr.	WR	Auburn	5-11	187lbs
     202	Emmanuel Pregnon	G	Oregon	5-11	190lbs
     203	Trevor Goosby	T	Texas		
