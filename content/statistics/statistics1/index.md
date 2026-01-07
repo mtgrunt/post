@@ -260,17 +260,17 @@ sitemap:
     245   Brenen Thompson     WR        Miss. State   5-10      192lbs
     246   Nico Iamaleava      QB        UCLA          6-6       215lbs	
     247   Dametrious Crown... T         Texas A&M     6-6       215lbs
-    248   Aaron Anderson      WR        LSU		
-    249	Jermaine Mathews Jr.	CB	Ohio State	5-9	184lbs
-    250	Duce Robinson	WR	Florida State	5-11	189lbs
-    251	Kobe Baynes	G	Kansas	6-6	220lbs
-    252	Monroe Mills	OT	Louisville		
-    253	Luke Hasz	TE	Ole Miss	6-7	315lbs
-    254	Kevin Coleman Jr.	WR	Missouri	6-3	241lbs
-    255	Cole Brevard	DI	Texas	5-11	180lbs
-    256	Adon Shuler	S	Notre Dame		
-    257	Josh Hoover	QB	TCU		
-    258	Landon Robinson	DI	Navy	6-2	200lbs
+    248   Aaron Anderson      WR        LSU           5-8       188lbs		
+    249   Jermaine Mathews    CB        Ohio State    5-9       184lbs
+    250   Duce Robinson       WR        Florida St.   5-11      189lbs
+    251   Kobe Baynes         G         Kansas        6-6       220lbs
+    252   Monroe Mills        OT        Louisville    6-6       315lbs
+    253   Luke Hasz           TE        Ole Miss      6-7       315lbs
+    254   Kevin Coleman Jr.   WR        Missouri      6-3       241lbs
+    255   Cole Brevard        DL        Texas         6-3       346lbs
+    256   Adon Shuler         S         Notre Dame    6-0       207lbs
+    257   Josh Hoover         QB        TCU           6-2       200lbs		
+    258   Landon Robinson     DE        Navy          6-2       200lbs
     259	DJ McKinney	CB	Colorado		
     260	Jackson Arnold	QB	Auburn	6-2	190lbs
     261	Tree Babalade	OT	South Carolina	6-1	211lbs
