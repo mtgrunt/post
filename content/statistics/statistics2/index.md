@@ -3,6 +3,7 @@ title: The Hidden Cost of the AI Revolution
 date: 2026-01-08
 ShowPostNavLinks: true
 showHero: true
+heroStyle: "big"
 description: "The Hidden Cost of the AI Revolution"
 tags: ["AI", "AI Revolution", "PJM grid", "American households", "ChatGPT", "Washington D.C.", "data center", "Carnegie Mellon", "Geopolitics", "U.S. electric grid"]
 sitemap:
