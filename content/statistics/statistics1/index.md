@@ -32,7 +32,7 @@ sitemap:
     17    Garrett Nussmeier   QB        LSU           6-2       200lbs 
     18    Kenyon Sadiq        TE        Oregon        6-3       245lbs
     19    Caleb Banks         DE/ED     Florida       6-6       325lbs
-    20    Kevin Concepcion    WR        Texas A&M     6-1       191lbs
+    20    Carnell Tate        WR        Ohio State    6-3       195lbs
     21    Cashius Howell      DL/ED     Texas A&M     6-4       245lbs
     22    Ty Simpson          QB        Alabama       6-2       215lbs
     23    Avieon Terrell      CB        Clemson       5-11      180lbs
@@ -45,7 +45,7 @@ sitemap:
     30    Gennings Dunker     OG        Iowa          6-5       291lbs
     31    Caleb Lomu          OT        Utah          6-5       295lbs
     32    Romello Height      ED        Texas Tech    6-3       235lbs
-    33    Carnell Tate        WR        Ohio State    6-6       315lbs
+    33    Kevin Concepcion    WR        Texas A&M     6-1       191lbs
     34    Kayden McDonald     DI        Ohio State    6-3       326lbs
     35    Jake Slaughter      C         Florida       6-5       308lbs
     36    Colton Hood         CB        Tennessee     6-0       195lbs
@@ -63,7 +63,7 @@ sitemap:
     48    Dani Dennis-Sutton  DE/ED     Penn State    6-5       272lbs
     49    Zane Durant         DT        Penn State    6-1       290lbs	
     50    Chris Johnson Jr.   RB        Miami         6-0       180lbs
-    51    Elijah Sarratt      WR        Indiana       6-2       209lbs
+    51    Germie Bernard      WR        Alabama       6-1       209lbs
     52    Austin Siereveld    OG        Ohio State    6-5       320lbs
     53    Keith Abney II      CB        Arizona St    6-0       190lbs
     54    Malik Muhammad      CB        Texas         6-0       190lbs
@@ -74,7 +74,7 @@ sitemap:
     59    Jonah Coleman       RB        Washington    5-9       229lbs
     60    Gabe Jacas          LB/ED     Illinois      6-3       275lbs
     61    Zion Young          ED        Missouri      6-5       262lbs
-    62    Germie Bernard      WR        Alabama       6-1       209lbs
+    62    Elijah Sarratt      WR        Indiana       6-2       209lbs
     63    Kamari Ramsey       S         USC           6-0       204lbs
     64    Caleb Tiernan       OT        Northwestern  6-7       329lbs
     65    Dontay Corleone     DT        Cincinnati    6-1       320lbs
