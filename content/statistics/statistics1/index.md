@@ -1,6 +1,6 @@
 ---
 title: "NFL Stats Draft Board 2026"
-date: 2025-1-7
+date: 2026-01-07
 ShowPostNavLinks: true
 showHero: true
 description: "NFL My Draft Board 2026"
