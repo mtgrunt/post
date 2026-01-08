@@ -331,16 +331,16 @@ sitemap:
     316   Rueben Owens        RB        Texas A&M     6-5       223lbs
     317   Tomas Rimac         G         Virginia Tech 6-0       205lbs
     318   Randon Fontenette   S         Vanderbilt    6-2       220lbs    		
-    319	Daniel Harris	CB	Georgia	6-2	214lbs
-    320	Jaquaize Pettaway	WR	East Carolina		
-    321	Josh Thompson	CB	LSU	5-10	189lbs
-    322	Micah Morris	OG	Georgia	6-0	194lbs
-    323	Jamari Lyons	DL	Florida	6-4	330lbs
-    324	Bryson Washington	HB	Baylor	6-4	304lbs
-    325	Denver Harris	CB	UTSA		
-    326	Kendal Daniels	S	Oklahoma State	6-0	190lbs
-    327	Kendrick Law	WR	Kentucky	6-4	235lbs
-    328	Ben Bell	ED	Virginia Tech	5-11	209lbs
+    319   Daniel Harris       CB        Georgia       6-2       214lbs
+    320   Jaquaize Pettaway   WR        East Carolina 6-0       194lbs		
+    321   Josh Thompson       CB        LSU           5-10      189lbs
+    322	  Micah Morris        OG        Georgia       6-0       194lbs
+    323   Jamari Lyons        DL        Florida       6-4       330lbs
+    324   Bryson Washington   RB        Baylor        6-4       304lbs
+    325   Denver Harris       CB        UTSA          6-0       190lbs		
+    326   Kendal Daniels      S         Oklahoma St.  6-0       190lbs
+    327   Kendrick Law        WR        Kentucky      6-4       235lbs
+    328   Ben Bell            ED        Virginia Tech 5-11      209lbs
     329	Preston Hodge	CB	Colorado		
     330	Jalil Farooq	WR	Maryland	6-0	195lbs
     331	Noah Whittington	HB	Oregon	6-1	207lbs
