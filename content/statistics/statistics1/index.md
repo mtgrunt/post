@@ -319,18 +319,18 @@ sitemap:
     304   Javien Toviano      S         LSU           6-2       200lbs
     305   Elijah Pritchett    T         Nebraska      6-1       201lbs
     306   Raion Strader       CB        Auburn        6-0       185lbs		
-    307	Dominic Zvada	PK	Michigan		
-    308	London Humphreys	WR	Georgia	6-3	180lbs
-    309	Tony Grimes	CB	Purdue	6-2	200lbs
-    310	Jake Retzlaff	QB	Tulane	6-2	190lbs
-    311	Jaylon Braxton	CB	Ole Miss		
-    312	Haynes King	QB	Georgia Tech	6-0	190lbs
-    313	Tosh Baker	OT	Notre Dame	6-3	215lbs
-    314	Johntay Cook II	WR	Washington	6-8	320lbs
-    315	Dasan McCullough	S	Nebraska	6-0	185lbs
-    316	Rueben Owens	RB	Texas A&M	6-5	223lbs
-    317	Tomas Rimac	G	Virginia Tech	6-0	205lbs
-    318	Randon Fontenette	S	Vanderbilt		
+    307   Dominic Zvada       PK        Michigan      6-3       187lbs		
+    308   London Humphreys    WR        Georgia       6-2       200lbs
+    309   Tony Grimes         CB        Purdue        6-2       195lbs
+    310   Jake Retzlaff       QB        Tulane        6-2       190lbs
+    311   Jaylon Braxton      CB        Ole Miss      6-0       190lbs		
+    312   Haynes King         QB        Georgia Tech  6-3       215lbs	
+    313   Tosh Baker          OT        Notre Dame    6-8       325lbs    
+    314   Johntay Cook II     WR        Syracuse      6-0       198lbs
+    315   Dasan McCullough    S         Nebraska      6-0       185lbs
+    316   Rueben Owens        RB        Texas A&M     6-5       223lbs
+    317   Tomas Rimac         G         Virginia Tech 6-0       205lbs
+    318   Randon Fontenette   S         Vanderbilt    6-2       220lbs    		
     319	Daniel Harris	CB	Georgia	6-2	214lbs
     320	Jaquaize Pettaway	WR	East Carolina		
     321	Josh Thompson	CB	LSU	5-10	189lbs
