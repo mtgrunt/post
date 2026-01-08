@@ -1,14 +1,14 @@
-----
+---
 title: The Hidden Cost of the AI Revolution
 date: 2026-01-08
 ShowPostNavLinks: true
 showHero: true
 description: "The Hidden Cost of the AI Revolution"
-tags: ["AI", "AI Revolution", "PJM grid", "American households", "ChatGPT", "Washington D.C.", "data center", "Carnegie Mellon", "Geopolitics", "U.S. electric grid", ]
+tags: ["AI", "AI Revolution", "PJM grid", "American households", "ChatGPT", "Washington D.C.", "data center", "Carnegie Mellon", "Geopolitics", "U.S. electric grid"]
 sitemap:
   priority: 0.8
   changefreq: monthly
-----
+---
 # The Hidden Cost of the AI Revolution: How Data Centers Are Reshaping America's Electricity Bills
 
 American households are facing an electricity crisis that few saw coming. The numbers tell a stark story: since February 2020, electricity prices have surged 40%—outpacing the 26% rise in overall inflation by 14 percentage points. The consequences are quantifiable and dire: 14 million households are now behind on their utility bills with an average overdue balance of $789 (up 32% from 2022). In New York City alone, disconnection rates have increased 500% in just one year. As winter approaches and heating demands intensify, millions of Americans are bracing for bills they cannot afford.
