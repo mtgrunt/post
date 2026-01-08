@@ -1,6 +1,6 @@
 ---
 title: "NFL Stats Draft Board 2026"
-date: 2025-12-31
+date: 2025-1-7
 ShowPostNavLinks: true
 showHero: true
 description: "NFL My Draft Board 2026"
@@ -112,7 +112,7 @@ sitemap:
     97    Michael Trigg       TE        Baylor        6-4       246lbs
     98    Keon Sabb           S         Alabama       6-1       206lbs
     99    CJ Allen            LB        Georgia       6-1       235lbs
-    100   Antonio Williams	  WR	      Clemson       5-11      190lbs
+    100   Antonio Williams    WR        Clemson       5-11      190lbs
     101   Brandon Cisse       CB        S. Carolina   6-4       235lbs
     102   LT Overton          DE/ED     Alabama       6-5       278lbs
     103   Justice Haynes      RB        Michigan      5-11      210lbs
