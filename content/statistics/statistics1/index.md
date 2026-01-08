@@ -84,7 +84,7 @@ sitemap:
     69    Eric Rivers         WR        Georgia Tech  5-11      174lbs
     70    Taurean York        LB        Texas A&M     6-0       235lbs
     71    Jadarian Price      RB        Notre Dame    5-11      209lbs
-    72    Jack Endries        TE        Texas         6-4       240lbs
+    72    Eli Raridon         TE        Notre Dame    6-7       251lbs
     73    Lee Hunter          DT        Texas Tech    6-4       320lbs
     74    Daylen Everette     CB        Georgia       6-1       190lbs
     75    Jake Golday         LB        Cinncinati    6-4       240lbs
@@ -98,8 +98,8 @@ sitemap:
     83    Max Iheanachor      OT        Arizona State 6-6       320lbs
     84    Suntarine Perkins   LB/ED     Ole Miss      6-1       210lbs
     85    Cade Klubnik        QB        Clemson       6-2       210lbs
-    86    Drayk Bowen         LB        Notre Dame    6-2       239lbs
-    87    Joe Royer           TE        Cincinnati    6-5       255lbs
+    86    Sonny Styles        LB        Ohio State    6-3       235lbs
+    87    Justin Joly         TE        NC State      6-3       251lbs
     88    Will Lee III        CB        Texas A&M     6-3       190lbs
     89    Jalon Kilgore       CB        S. Carolina   6-2       219lbs
     90    Akheem Mesidor      DL/ED     Miami         6-3       280lbs
@@ -107,37 +107,37 @@ sitemap:
     92    Malachi Fields      WR        Notre Dame    6-4       220lbs
     93    Michael Taaffe      S         Texas         6-0       195lbs
     94    Parker Brailsford   C         Alabama       6-2       290lbs
-    95    Zakee Wheatley      S         Penn State    6-2       200lbs
-    96    Genesis Smith       S         Arizona       6-2       205lbs
-    97    Justin Joly         TE        NC State      6-3       251lbs
+    95    Jack Endries        TE        Texas         6-4       240lbs
+    96    Eric Singleton Jr.  WR        Auburn        5-11      187lbs
+    97    Michael Trigg       TE        Baylor        6-4       246lbs
     98    Keon Sabb           S         Alabama       6-1       206lbs
-    99    Davison Igbinosun   CB        Ohio State    6-2       193lbs
-    100   Nic Anderson        WR        LSU           6-4       219lbs
-    101   Jaeden Roberts      OG        Alabama       6-5       310lbs
-    102   Jaishawn Barham     LB        Michigan      6-3       248lbs
+    99    CJ Allen            LB        Georgia       6-1       235lbs
+    100   Antonio Williams	  WR	      Clemson       5-11      190lbs
+    101   Brandon Cisse       CB        S. Carolina   6-4       235lbs
+    102   LT Overton          DE/ED     Alabama       6-5       278lbs
     103   Justice Haynes      RB        Michigan      5-11      210lbs
     104   Kage Casey          OT        Boise State   6-5       310lbs
     105   Xavier Scott        CB        Illinois      5-11      190lbs
     106   Isaac Smith         S         Miss. St      6-0       205lbs
     107   Anto Saka           DL/ED     Northwestern  6-4       255lbs
-    108   Michael Trigg       TE        Baylor        6-4       246lbs
+    108   Joe Royer           TE        Cincinnati    6-5       255lbs
     109   Deion Burks         WR        Oklahoma      5-9       190lbs
     110   Jude Bowry          OT        Boston Coll.  6-5       311lbs
     111   Tim Keenan III      DL        Alabama       6-2       326lbs
     112   Brian Parker II     OG        Duke          6-5       300lbs
     113   Gracen Halton       DL        Oklahoma      6-2       291lbs
-    114   Logan Jones         C         Iowa          6-3       293lbs
+    114   A.J. Harris         CB        Penn State    6-1       191lbs 
     115	  Skyler Gill-Howard  DT        Texas Tech    6-1       290lbs
     116   Drew Allar          QB        Penn State    6-5       238lbs
     117   J.C. Davis          OT        Illinois      6-5       320lbs
-    118   Bryce Lance         WR        N. Dakota St. 6-3       209lbs
+    118   Chris Brazzell II   WR        Tennessee     6-5       200lbs
     119   Terry Moore         S         Duke          6-1       200lbs
     120   Boubacar Traore     DL/ED     Notre Dame    6-4       240lbs
     121   Jacob Rodriguez     LB        Texas Tech    6-1       235lbs
     122   Amare Campbell      LB        Penn State    6-0       230lbs
     123   Tanner Koziol       TE        Houston       6-7       230lbs
-    124   Trinidad Chambliss  QB        Ole Miss      6-0       200lbs
-    125   Jaydn Ott           RB        Oklahoma      6-0       210lbs
+    124   Trinidad Chambliss  QB        Ole Miss      6-0       200lbs 
+    125   Trevor Goosby       T         Texas         6-7       312lbs
     126   Carson Beck         QB        Miami         6-4       220lbs
     127   Drew Shelton        OG        Penn St.      6-5       305lbs
     128   Isaiah Nwokobia     S         SMU           6-1       193lbs
@@ -153,7 +153,7 @@ sitemap:
     138   Jyaire Hill         CB        Michigan      6-2       185lbs
     139   Iapani Laloulu      C         Oregon        6-2       325lbs
     140   Bray Hubbard        S         Alabama       6-2       204lbs
-    141   Bud Clark           S         TCU           6-2       185lbs
+    141   Ian Strong          WR        Rutgers       6-5       235lbs
     142   Trey Moore          LB/ED     Texas         6-3       245lbs
     143   DJ Harvey           CB        San Jose St.  5-11      176lbs
     144   Terion Stewart      RB        Virginia Tech 5-9       220lbs
@@ -169,7 +169,7 @@ sitemap:
     154   Bishop Fitzgerald   S         USC           5-11      205lbs
     155   Earnest Greene III  OG        Georgia       6-4       320lbs
     156   Trey Zuhn III       OG        Texas A&M     6-7       315lbs
-    157   Taylen Green        QB        Arkansas      6-6       230lbs
+    157   Nyck Harbor         WR        S. Carolina   6-5       235lbs
     158   Desmond Reid        RB        Pittsburgh    5-8       175lbs
     159   Antonio Kite        CB        Auburn        6-0       175lbs
     160   Jaren Kanak         TE        Oklahoma      6-2       233lbs
@@ -205,25 +205,25 @@ sitemap:
     190   Kyron Drones        QB        Virginia Tech 6-2       234lbs
     191   Keeshawn Silver     DL        USC           6-4       336lbs
     192   Eric Gentry         LB        USC           6-6       215lbs
-    193   Chris Brazzell II   WR        Tennessee     6-5       200lbs
-    194   LT Overton          DE/ED     Alabama       6-5       278lbs
-    195   LaNorris Sellers    QB        S. Carolina   6-5       283lbs
+    193   Bryce Lance         WR        N. Dakota St. 6-3       209lbs
+    194   Jaishawn Barham     LB        Michigan      6-3       248lbs
+    195   Zakee Wheatley      S         Penn State    6-2       200lbs
     196   Anthony Hill Jr.    LB        Texas         6-3       242lbs
-    197   Sonny Styles        LB        Ohio State    6-3       235lbs
-    198   Brandon Cisse       CB        S. Carolina   6-4       235lbs
-    199   A.J. Harris         CB        Penn State    6-1       191lbs
-    200   Antonio Williams	  WR	      Clemson       5-11      190lbs
-    201   Eric Singleton Jr.  WR        Auburn        5-11      187lbs
-    202   Emmanuel Pregnon    G         Oregon        5-11      190lbs
-    203   Trevor Goosby       T         Texas         6-7       312lbs
-    204   Nyck Harbor         WR        S. Carolina   6-5       235lbs	
-    205   Ian Strong          WR        Rutgers       6-5       235lbs
+    197   Drayk Bowen         LB        Notre Dame    6-2       239lbs
+    198   Jaeden Roberts      OG        Alabama       6-5       310lbs
+    199   Logan Jones         C         Iowa          6-3       293lbs
+    200   Nic Anderson        WR        LSU           6-4       219lbs
+    201   Genesis Smith       S         Arizona       6-2       205lbs
+    202   Emmanuel Pregnon    G         Oregon        6-5       318lbs
+    203   Jaydn Ott           RB        Oklahoma      6-0       210lbs
+    204   Taylen Green        QB        Arkansas      6-6       230lbs
+    205   Bud Clark           S         TCU           6-2       185lbs
     206   Cayden Green        OG        Missouri      6-3       211lbs
     207   Nicholas Singleton  RB        Penn State    6-5       316lbs
     208   Rod Moore           S         Michigan      6-0       227lbs
     209   Anthony Lucas       ED        USC           6-0       198lbs
     210   Julian Neal         CB        Arkansas      6-2       200lbs	
-    211   CJ Allen            LB        Georgia       6-1       235lbs	
+    211   Davison Igbinosun   CB        Ohio State    6-2       193lbs	
     212   Eugene Wilson III   WR        Florida       6-1       235lbs
     213   Niki Prongos        T         Stanford      6-7       310lbs
     214   Kenyatta Jackson    DE/ED     Ohio State    6-6       265lbs	
@@ -341,77 +341,77 @@ sitemap:
     326   Kendal Daniels      S         Oklahoma St.  6-0       190lbs
     327   Kendrick Law        WR        Kentucky      6-4       235lbs
     328   Ben Bell            ED        Virginia Tech 5-11      209lbs
-    329	Preston Hodge	CB	Colorado		
-    330	Jalil Farooq	WR	Maryland	6-0	195lbs
-    331	Noah Whittington	HB	Oregon	6-1	207lbs
-    332	Datrell Jones	RB	Boston College		
-    333	Devon Dampier	QB	Utah	5-9	184lbs
-    334	Hank Beatty	WR	Illinois		
-    335	Davion Carter	G	Texas Tech		
-    336	Joey Aguilar	QB	Tennessee		
-    337	Brandon Cleveland	DI	NC State	6-3	224lbs
-    338	Jordan Hall	DL	Georgia		
-    339	Raymond Cottrell	WR	Kentucky	6-4	320lbs
-    340	Roman Hemby	RB	Maryland	6-3	210lbs
-    341	Damari Brown	CB	Miami	6-0	208lbs
-    342	Luke Petitbon	C	Florida State	6-2	195lbs
-    343	Colbie Young	WR	Georgia		
-    344	Roydell Williams	RB	Florida State	6-3	215lbs
-    345	Raheem Anderson	C	Michigan	5-10	214lbs
-    346	Ayden Williams	WR	Ole Miss	6-3	318lbs
-    347	Kamran James	DE/ED	Florida	6-3	205lbs
-    348	Dezz Ricks	CB	Texas A&M	6-6	267lbs
-    349	Michael Harris	LB	Maryland	6-1	195lbs
-    350	Evan Tengesdahl	OG	Cincinnati	6-0	216lbs
-    351	Zach Rice	C	North Carolina	6-4	315lbs
-    352	Caullin Lacy	WR	Louisville	6-5	305lbs
-    353	DeVonta Smith	CB	Notre Dame	5-10	190lbs
-    354	Markis Deal	DL	TCU	6-0	205lbs
-    355	Xavian Sorey Jr.	LB	Arkansas	6-5	325lbs
-    356	Korey Foreman	DL/ED	Fresno State	6-3	225lbs
-    357	Jager Burton	OG	Kentucky	6-4	245lbs
-    358	Malik Spencer	S	Michigan State	6-4	316lbs
-    359	Troy Bowles	LB	Michigan	6-1	200lbs
-    360	Cormani McClain	CB	Colorado	6-0	220lbs
-    361	Reid Carrico	LB	West Virginia	6-2	175lbs
-    362	Jason Henderson	LB	Old Dominion	6-2	232lbs
-    363	Tony Rojas	LB	Penn State	6-1	225lbs
-    364	Branson Robinson	RB	Georgia	6-2	239lbs
-    365	Ceyair Wright	CB	Nebraska	5-10	220lbs
-    366	Keaten Wade	DE/ED	Kentucky	6-0	180lbs
-    367	Tyler Van Dyke	QB	Wisconsin	6-4	245lbs
-    368	Sage Ryan	S	Ole Miss	6-4	225lbs
-    369	Zen Michalski	OT	Indiana	5-11	201lbs
-    370	Ty Thompson	QB	Tulane	6-6	319lbs
-    371	Preston Stone	QB	Northwestern	6-4	224lbs
-    372	Turner Corcoran	OT	Nebraska	6-1	219lbs
-    373	Dylan Brooks	DE	Kansas	6-6	310lbs
-    374	Avante Dickerson	CB	Utah State	6-4	240lbs
-    375	Gabriel Rubio	DL	Notre Dame	5-11	170lbs
-    376	Armoni Goodwin	RB	UAB	6-5	316lbs
-    377	Latrell McCutchin Sr.	CB	Houston	5-8	200lbs
-    378	Christian Leary	WR	Georgia Tech	6-1	180lbs
-    379	JoJo Earle	WR	UNLV	5-10	180lbs
-    380	Dacari Collins	WR	NC State	5-10	180lbs
-    381	Fred Davis	CB	Northwestern	6-4	212lbs
-    382	Malcolm Greene	CB	Virginia	6-1	192lbs
-    383	Jaiden Ausberry	LB	Notre Dame	5-10	191lbs
-    384	Samson Okunlola	OT	Miami	6-2	216lbs
-    385	Makari Vickers	CB	Colorado	6-6	300lbs
-    386	Squirrel White	WR	Tennessee	6-1	192lbs
-    387	Kaidon Salter	QB	Colorado	5-10	167lbs
-    388	Chris Marshall	WR	Boise State	6-1	200lbs
-    389	James Brockermeyer	C	Miami	6-3	208lbs
-    390	Damon Payne Jr.	DL	Michigan	6-3	295lbs
-    391	Sam Huard	QB	Utah	6-4	313lbs
-    392	Clayton Smith	DL/ED	Arizona State	6-2	200lbs
-    393	Savion Byrd	OT	SMU	6-4	240lbs
-    394	Nyland Green	CB	Arizona State	6-5	293lbs
-    395	Prince Kollie	LB	Vanderbilt	6-1	186lbs
-    396	Byron Cardwell Jr.	RB	California	6-1	221lbs
-    397	Jonathan Jefferson	DT	SMU	6-0	215lbs
-    398	Jaden Bray	WR	West Virginia	6-3	295lbs
-    399	Demon Clowney	DL/ED	Charlotte	6-2	205lbs
-    400	Gunner Stockton	QB	Georgia	6-5	225lbs
+    329   Preston Hodge       CB        Colorado      6-0       200lbs		
+    330   Jalil Farooq        WR        Maryland      6-0       195lbs
+    331   Noah Whittington    RB        Oregon        6-1       207lbs
+    332   Datrell Jones       RB        Boston Coll.  5-9       188lbs
+    333	  Devon Dampier       QB        Utah          5-9       184lbs
+    334   Hank Beatty         WR        Illinois      5-11      185lbs		
+    335   Davion Carter       G         Texas Tech    6-0       295lbs
+    336   Joey Aguilar        QB        Tennessee     6-3       225lbs	
+    337   Brandon Cleveland   DT        NC State      6-4       315lbs
+    338   Jordan Hall         DL        Georgia       6-4       320lbs		
+    339   Raymond Cottrell    WR        Kentucky      6-0       190lbs
+    340   Roman Hemby         RB        Maryland      6-3       210lbs
+    341   Damari Brown        CB        Miami         6-0       208lbs
+    342   Luke Petitbon       C         Florida St.   6-2       303lbs
+    343   Colbie Young        WR        Georgia       6-3       215lbs		
+    344   Roydell Williams    RB        Florida St.   5-10      214lbs
+    345   Raheem Anderson     C         Michigan      6-3       318lbs
+    346   Ayden Williams      WR        Ole Miss      6-3       205lbs
+    347   Kamran James        DE/ED     Florida       6-6       267lbs
+    348   Dezz Ricks          CB        Texas A&M     6-1       195lbs 
+    349   Michael Harris      LB        Maryland      6-0       216lbs
+    350   Evan Tengesdahl     OG        Cincinnati    6-4       315lbs
+    351   Zach Rice           C         N. Carolina   6-5       305lbs
+    352   Caullin Lacy        WR        Louisville    5-10      190lbs
+    353   DeVonta Smith       CB        Notre Dame    6-0       205lbs
+    354   Markis Deal         DL        TCU           6-5       325lbs
+    355   Xavian Sorey Jr.    LB        Arkansas      6-3       225lbs
+    356   Korey Foreman       DL/ED     Fresno State  6-4       245lbs
+    357   Jager Burton        OG        Kentucky      6-4       316lbs
+    358   Malik Spencer       S         Michigan St.  6-1       200lbs
+    359   Troy Bowles         LB        Michigan      6-0       220lbs
+    360   Cormani McClain     CB        Colorado      6-2       175lbs
+    361   Reid Carrico        LB        West Virginia 6-2       232lbs
+    362   Jason Henderson     LB        Old Dominion  6-1       225lbs
+    363   Tony Rojas          LB        Penn State    6-2       239lbs
+    364   Branson Robinson    RB        Georgia       5-10      220lbs
+    365   Ceyair Wright       CB        Nebraska      6-0       180lbs
+    366   Keaten Wade         DE/ED     Kentucky      6-4       245lbs
+    367   Tyler Van Dyke      QB        Wisconsin     6-4       225lbs
+    368   Sage Ryan           S         Ole Miss      5-11      201lbs
+    369   Zen Michalski       OT        Indiana       6-6       319lbs
+    370   Ty Thompson         QB        Tulane        6-4       224lbs
+    371   Preston Stone       QB        Northwestern  6-1       219lbs
+    372   Turner Corcoran     OT        Nebraska      6-6       310lbs
+    373   Dylan Brooks        DE        Kansas        6-4       240lbs
+    374   Avante Dickerson    CB        Utah State    5-11      170lbs
+    375   Gabriel Rubio       DL        Notre Dame    6-5       316lbs
+    376   Armoni Goodwin      RB        UAB           5-8       200lbs
+    377   Latrell McCutchin   CB        Houston       6-1       180lbs
+    378   Christian Leary     WR        Georgia Tech  5-10      180lbs
+    379   JoJo Earle          WR        UNLV          5-10      180lbs
+    380   Dacari Collins      WR        NC State      6-4       212lbs
+    381   Fred Davis          CB        Northwestern  6-1       192lbs
+    382   Malcolm Greene      CB        Virginia      5-10      191lbs
+    383   Jaiden Ausberry     LB        Notre Dame    6-2       228lbs
+    384   Samson Okunlola     OT        Miami         6-6       300lbs
+    385   Makari Vickers      CB        Colorado      6-1       192lbs
+    386   Squirrel White      WR        Tennessee     5-10      167lbs
+    387   Kaidon Salter       QB        Colorado      6-1       200lbs
+    388   Chris Marshall      WR        Boise State   6-3       208lbs
+    389   James Brockermeyer  C         Miami         6-3       295lbs
+    390   Damon Payne Jr.     DL        Michigan      6-4       313lbs 
+    391   Sam Huard           QB        Utah          6-2       200lbs
+    392   Clayton Smith       DL/ED     Arizona St.   6-4       240lbs
+    393	  Savion Byrd         OT        SMU           6-5       293lbs
+    394   Nyland Green        CB        Arizona St.   6-1       186lbs
+    395   Prince Kollie       LB        Vanderbilt    6-1       221lbs
+    396   Byron Cardwell Jr.  RB        California    6-0       215lbs
+    397   Jonathan Jefferson  DT        SMU           6-3       295lbs
+    398   Jaden Bray          WR        West Virginia 6-2       205lbs
+    399   Demon Clowney       DL/ED     Charlotte     6-5       225lbs
+    400   Gunner Stockton     QB        Georgia       6-1       215lbs       
    
     
