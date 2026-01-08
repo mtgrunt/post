@@ -1,5 +1,5 @@
 ----
-title: "The Hidden Cost of the AI Revolution"
+title: The Hidden Cost of the AI Revolution
 date: 2026-01-08
 ShowPostNavLinks: true
 showHero: true
@@ -20,22 +20,7 @@ At the heart of this crisis lies an unlikely culprit: the data centers powering 
 Yet the story is more nuanced than simply blaming data centers. The data reveals that regional energy policy and natural disasters matter as much as, if not more than, data center proliferation. Among the 22 states with above-average increases in wind and solar generation over the past four years, 12 states (55%) recorded power price hikes below the national average. This correlation is statistically significant.
 
 Consider the extremes: Nevada and North Dakota have kept residential price increases to just 8-12% through aggressive wind and solar expansion. Texas and Virginia, despite absorbing massive data center growth (Texas hosts the second-most data centers nationally), have seen only 18-22% increases. Meanwhile, California—despite heavy renewable investment—has experienced 42% increases due to wildfire damage requiring infrastructure rebuilds. The Northeast tells an even starker story: New York and New Jersey have seen 35-38% increases driven by blocked pipeline projects, closed nuclear plants (including Indian Point, which provided 25% of NYC's power) and reliance on increasingly expensive imported natural gas.
-
-    Comparative State Analysis: Price Increases vs Energy Policy
-
-    | State        | Price Increase (2020-2025) | Renewable Growth    | Data Center Density | Key Factor                        |
-    |--------------|----------------------------|---------------------|---------------------|-----------------------------------|
-    | Nevada       | 8%                         | High (Wind/Solar)   | Low                 | ✓ Renewable expansion             |
-    | North Dakota | 12%                        | High (Wind)         | Low                 | ✓ Renewable expansion             |
-    | Texas        | 18%                        | Medium              | High                | Balanced policy                   |
-    | Virginia     | 22%                        | Medium              | High                | Balanced policy                   |
-    | New York     | 35%                        | Low (Gas dependent) | Medium              | Pipeline blocks, nuclear closure  |
-    | New Jersey   | 38%                        | Low (Gas dependent) | Medium              | Gas price volatility              |
-    | California   | 42%                        | High but...         | Medium              | ✗ Wildfire infrastructure damage  |
-    | Ohio         | 45%                        | Low                 | High                | Data centers + limited renewables |
-
-    National Average: 40% | Inflation Baseline: 26%
-
+    
 ### The Inequality Embedded in the System
 
 What makes this crisis particularly quantifiable is the inequality baked into rate structures. Industrial electricity costs have risen significantly slower than residential rates with large technology companies negotiating special deals that residential customers can never access. The disparity is stark in real-world cases:
