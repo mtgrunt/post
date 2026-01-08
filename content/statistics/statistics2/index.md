@@ -1,9 +1,9 @@
 ----
-title: ""
+title: "The Hidden Cost of the AI Revolution"
 date: 2026-01-08
 ShowPostNavLinks: true
 showHero: true
-description: ""
+description: "The Hidden Cost of the AI Revolution"
 tags: ["AI", "AI Revolution", "PJM grid", "American households", "ChatGPT", "Louisiana", "New Hampshire", "Kentucky", "Nevada", "Illinois", "Washington D.C.", "Ohio", "data center", "Carnegie Mellon", "Geopolitics", "North Dakota", "Texas", "New York", "New Jersey", "California", "Nebraska", "U.S. electric grid", ]
 ----
 ## The Hidden Cost of the AI Revolution: How Data Centers Are Reshaping America's Electricity Bills
