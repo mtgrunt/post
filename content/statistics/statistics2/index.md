@@ -36,7 +36,7 @@ Consider the extremes: Nevada and North Dakota have kept residential price incre
 
     National Average: 40% | Inflation Baseline: 26%
 
-The Inequality Embedded in the System
+### The Inequality Embedded in the System
 
 What makes this crisis particularly quantifiable is the inequality baked into rate structures. Industrial electricity costs have risen significantly slower than residential rates with large technology companies negotiating special deals that residential customers can never access. The disparity is stark in real-world cases:
 
@@ -48,15 +48,15 @@ The U.S. electric grid's utilization statistics reveal another dimension of this
 
 Three Statistically-Supported Pathways Forward
 
-1. Accelerate Green Energy Production
+### Accelerate Green Energy Production
 
 The correlation between renewable expansion and price stability is empirically clear. States with above-average wind and solar growth showed a 55% likelihood of below-average price increases. Stanford professor Mark Jacobson's research demonstrates that renewable electricity generators and batteries reduce energy prices versus fossil fuels even when accounting for other cost factors. From 2008 to 2020, U.S. residential electricity prices remained flat as solar installation costs dropped 89% and wind costs fell 70%. The current administration's restrictions on renewable development directly contradict this evidence-based approach.
 
-2. Mandate Data Center Peak Demand Reduction
+### Mandate Data Center Peak Demand Reduction
 
 The mathematics are straightforward: with 50% average grid utilization and data centers consuming 6-12% of total electricity, requiring curtailment during just 22 hours annually (0.25% of time) could accommodate growth without residential impact. The Department of Energy's October 23, 2025 directive to the Federal Energy Regulatory Commission proposes exactly this, with bipartisan support reflecting the empirical strength of the case. Implementation through batteries, on-site generation, or demand-shifting represents a statistically minimal burden on operators with maximal benefit to residential users.
 
-3. Establish Utility Consumer Unions with Measurable Power
+### Establish Utility Consumer Unions with Measurable Power
 
 Large corporations negotiate rates; residential customers—representing 38% of total U.S. electricity consumption but 100 million+ households—remain atomized and powerless. Organizations like the National Association of State Utility Consumer Advocates (NASUCA) exist but lack systematic efficacy measurement. Creating collective bargaining mechanisms modeled on labor unions, with measurable advocacy outcomes and credible threat capacity, would address the $789 average arrears and 14 million households in collections through structural power rebalancing rather than individual appeals.
 
@@ -84,33 +84,31 @@ The ultimate irony emerges from long-term projections: we need far more electric
 
 The question before policymakers is not whether to build this electrical future, but who pays for it. Currently, 14 million households are in arrears, disconnection rates are spiking 500% in major cities, and residential bills are rising 54% faster than industrial rates (40% vs 26%). The data shows three interventions—renewable expansion, peak demand reduction and consumer unions—that could reverse these trends. The statistical evidence is clear. The political will remains the variable.
 
-Key Statistics Summary Box
-
 Crisis Metrics:
-- 40%: Residential electricity price increase since Feb 2020 (vs 26% inflation)
-- 14 million: Households in arrears or collections
-- $789: Average overdue utility balance (↑32% from 2022)
-- 500%: Increase in NYC disconnections year-over-year
+    40%: Residential electricity price increase since Feb 2020 (vs 26% inflation)
+    14 million: Households in arrears or collections
+    $789: Average overdue utility balance (↑32% from 2022)
+    500%: Increase in NYC disconnections year-over-year
 
 Data Center Impact:
-- 4.4% → 12%: Data center share of U.S. electricity (2023 → 2028 projection)
-- 173%: Projected consumption increase over 5 years
-- 267%: Maximum residential bill increase in high data center areas
-- $9.4 billion: Cost increase on PJM grid (serving 65M people)
-- 794,440 MWh/year: Consumption of largest U.S. data center (Meta, Nebraska)
-- 73,000 homes: Equivalent annual power for Meta's single facility
+    4.4% → 12%: Data center share of U.S. electricity (2023 → 2028 projection)
+    173%: Projected consumption increase over 5 years
+    267%: Maximum residential bill increase in high data center areas
+    $9.4 billion: Cost increase on PJM grid (serving 65M people)
+    794,440 MWh/year: Consumption of largest U.S. data center (Meta, Nebraska)
+    73,000 homes: Equivalent annual power for Meta's single facility
 
 Policy Outcomes:
-- 4 states: Without electricity price increases since ChatGPT launch (Nov 2022)
-- 55%: States with high renewable growth showing below-average price increases
-- 50%: Average U.S. grid utilization (showing slack capacity)
-- 22 hours/year: Time data centers would need to curtail to accommodate growth
-- 0.25%: Percentage of annual time representing minimal curtailment burden
+    4 states: Without electricity price increases since ChatGPT launch (Nov 2022)
+    55%: States with high renewable growth showing below-average price increases
+    50%: Average U.S. grid utilization (showing slack capacity)
+    22 hours/year: Time data centers would need to curtail to accommodate growth
+    0.25%: Percentage of annual time representing minimal curtailment burden
 
 Grid Inequality:
-- 30 data centers: Already committed in Columbus, OH (= Manhattan consumption)
-- 90 additional: Requested by tech companies (= entire NY state peak consumption)
-- 54%: How much faster residential rates rise vs industrial rates
+    30 data centers: Already committed in Columbus, OH (= Manhattan consumption)
+    90 additional: Requested by tech companies (= entire NY state peak consumption)
+    54%: How much faster residential rates rise vs industrial rates
 
 
 Analysis based on data from the U.S. Department of Energy, Bureau of Labor Statistics, Bloomberg, Carnegie Mellon University, PJM Connection independent monitor and utility company regulatory filings (2020-2025)
