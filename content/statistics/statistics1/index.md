@@ -74,7 +74,7 @@ sitemap:
     59    Jonah Coleman       RB        Washington    5-9       229lbs
     60    Gabe Jacas          LB/ED     Illinois      6-3       275lbs
     61    Zion Young          ED        Missouri      6-5       262lbs
-    62    Elijah Sarratt      WR        Indiana       6-2       209lbs
+    62    Malachi Fields      WR        Notre Dame    6-4       220lbs
     63    Kamari Ramsey       S         USC           6-0       204lbs
     64    Caleb Tiernan       OT        Northwestern  6-7       329lbs
     65    Dontay Corleone     DT        Cincinnati    6-1       320lbs
@@ -104,7 +104,7 @@ sitemap:
     89    Jalon Kilgore       CB        S. Carolina   6-2       219lbs
     90    Akheem Mesidor      DL/ED     Miami         6-3       280lbs
     91    Keionte Scott       CB        Miami         6-0       194lbs
-    92    Malachi Fields      WR        Notre Dame    6-4       220lbs
+    92    Elijah Sarratt      WR        Indiana       6-2       209lbs
     93    Michael Taaffe      S         Texas         6-0       195lbs
     94    Parker Brailsford   C         Alabama       6-2       290lbs
     95    Jack Endries        TE        Texas         6-4       240lbs
