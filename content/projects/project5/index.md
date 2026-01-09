@@ -53,6 +53,7 @@ Prerequisites:
     jupyter notebook
 #### 6. Open imdb_sentiment_analysis.ipynb and run all cells
 
+
 ## Usage
 #### Quick Start
 1. Open the imdb_sentiment_analysis.ipynb notebook
