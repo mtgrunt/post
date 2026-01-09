@@ -3,7 +3,7 @@ title: "IMDb Sentiment Analysis"
 date: 2026-01-09
 ShowPostNavLinks: true
 showHero: true
-description: "IMDb Sentiment Analysis"
+description: "This notebook performs comprehensive sentiment alalysis on IMDb reviews using pre-trained BERT models."
 tags: ["IMDb Sentiment", "Binary Sentiment Classification", "Detailed Insights", "Advanced Text Preprocessing", "Rich Visualizations", "Data Export", "Dataset", "Model", ]
 sitemap:
   priority: 0.8
