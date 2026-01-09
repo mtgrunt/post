@@ -1,6 +1,6 @@
 ---
 title: "IMDb Sentiment Analysis"
-date: 2025-01-09
+date: 2026-01-09
 ShowPostNavLinks: true
 showHero: true
 description: "IMDb Sentiment Analysis"
@@ -38,6 +38,7 @@ Uses distilbert-base-uncased-finetuned-sst-2-english - a pre-trained DistilBERT 
 Prerequisites:
     Python 3.8 or higher
     pip package manager
+
 ## Setup Steps
 #### 1. Clone or download this project:
     cd imdb-sentiment-analysis
