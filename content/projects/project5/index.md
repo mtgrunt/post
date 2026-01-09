@@ -23,7 +23,7 @@ Rich Visualizations: 10+ charts including word clouds, keyword comparisons and a
 Data Export: Save predictions to CSV and insights to JSON
 
 ## Dataset
-This project uses the<a href="https://huggingface.co/datasets/imdb" target="_blank">IMDb dataset</a> from HuggingFace, containing:   
+This project uses the <a href="https://huggingface.co/datasets/imdb" target="_blank">IMDb dataset</a> from HuggingFace, containing:   
     50,000 movie reviews (25,000 train, 25,000 test)
     Binary sentiment labels (positive/negative)
     Pre-split and ready to use
@@ -65,15 +65,15 @@ Prerequisites:
 - Generate visualizations
 - Export results to outputs/ directory
 
-#### Configuration 
-You can adjust settings in Cell 3 of the notebook:
-    CONFIG = {
-        'model_name': 'distilbert-base-uncased-finetuned-sst-2-english',
-        'max_samples': 1000,  # Set to None for full dataset (50k reviews)
-        'batch_size': 16,     # Adjust based on your RAM
-        'max_length': 512     # Maximum token length for BERT
-    }
-Tip: Start with max_samples=1000 for quick testing, then set to None for full analysis.
+#### Configuration: 
+    You can adjust settings in Cell 3 of the notebook:
+        CONFIG = {
+            'model_name': 'distilbert-base-uncased-finetuned-sst-2-english',
+            'max_samples': 1000,  # Set to None for full dataset (50k reviews)
+            'batch_size': 16,     # Adjust based on your RAM
+            'max_length': 512     # Maximum token length for BERT
+        }
+    Tip: Start with max_samples=1000 for quick testing, then set to None for full analysis.
 
 ## Output Files
 After running the notebook, you'll find:
