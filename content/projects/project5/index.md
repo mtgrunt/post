@@ -42,3 +42,9 @@ Prerequisites:
 ## Setup Steps
 #### 1. Clone or download this project:
     cd imdb-sentiment-analysis
+#### 2. Create a virtual environment (recommended)
+    python -m venv venv
+    source venv/bin/activate # On Windows: venv\Scripts\activate
+#### Install dependencies
+    pip install -r requirements.txt
+    
