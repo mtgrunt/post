@@ -13,14 +13,14 @@ sitemap:
 A comprehensive machine learning project that performs sentiment analysis on IMDb movie reviews using pre-trained BERT models. This beginner-friendly project demonstrates data science and machine learning applications in the entertainment industry.
 
 ## Features
-    Binary Sentiment Classification: Classifies reviews as positive or negative with confidence scores
-    Detailed Insights Extraction: Discovers what viewers liked/disliked about movies
-        TF-IDF keyword extraction
-        Aspect-based sentiment analysis (acting, plot, cinematography, music, etc.)
-        Named entity recognition for actors and directors
-    Advanced Text Preprocessing: Uses spaCy for stopword removal while preserving sentiment-bearing words
-    Rich Visualizations: 10+ charts including word clouds, keyword comparisons, and aspect analysis
-    Data Export: Save predictions to CSV and insights to JSON
+Binary Sentiment Classification: Classifies reviews as positive or negative with confidence scores
+Detailed Insights Extraction: Discovers what viewers liked/disliked about movies
+    TF-IDF keyword extraction
+    Aspect-based sentiment analysis (acting, plot, cinematography, music, etc.)
+    Named entity recognition for actors and directors
+Advanced Text Preprocessing: Uses spaCy for stopword removal while preserving sentiment-bearing words
+Rich Visualizations: 10+ charts including word clouds, keyword comparisons and aspect analysis
+Data Export: Save predictions to CSV and insights to JSON
 
 ## Dataset
 This project uses the<a href="https://huggingface.co/datasets/imdb" target="_blank">IMDb dataset</a> from HuggingFace, containing:   
