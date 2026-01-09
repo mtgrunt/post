@@ -9,7 +9,6 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 ---
-# IMDb Sentiment Analysis
 A comprehensive machine learning project that performs sentiment analysis on IMDb movie reviews using pre-trained BERT models. This beginner-friendly project demonstrates data science and machine learning applications in the entertainment industry.
 
 ## Features
