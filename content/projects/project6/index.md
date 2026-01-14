@@ -9,9 +9,6 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 ---
-
-# PostgreSQL Query Visualizer
-
 ## Introduction
 
 Understanding SQL query performance can be challenging, especially when you're learning database concepts or debugging slow queries. The **PostgreSQL Query Visualizer** is an interactive, browser-based tool that lets you write, execute, and analyze SQL queries against sample datasets—no database installation required.
