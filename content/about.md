@@ -42,8 +42,6 @@ On the hardware side, I'm a computer and network enthusiast who enjoys understan
 
 I believe in continuous learning and staying current with emerging technologies. The tech landscape evolves rapidly and I find excitement in exploring new frameworks, databases and development methodologies that can solve problems more effectively.
 
-## GitHub
-
 You can find my code, contributions and latest projects on <a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a> 
 ---
 
