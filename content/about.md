@@ -41,6 +41,7 @@ I'm particularly interested in PostgreSQL's advanced capabilities and have explo
 On the hardware side, I'm a computer and network enthusiast who enjoys understanding how systems work at every level, from the silicon to the software. This holistic perspective helps me write more efficient code and make better architectural decisions.
 
 I believe in continuous learning and staying current with emerging technologies. The tech landscape evolves rapidly and I find excitement in exploring new frameworks, databases and development methodologies that can solve problems more effectively. You can find my code, contributions and latest projects on <a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a>. 
+
 ---
 
 *Last updated: January 2026*
