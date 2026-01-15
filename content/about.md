@@ -44,7 +44,7 @@ I believe in continuous learning and staying current with emerging technologies.
 
 ## GitHub
 
- You can find my code, contributions and latest projects on <a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a> 
+You can find my code, contributions and latest projects on <a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a> 
 ---
 
 *Last updated: January 2026*
