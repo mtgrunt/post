@@ -385,7 +385,7 @@ export class SQLExecutor {
 
 ## Conclusion
 
-The PostgreSQL Query Visualizer demonstrates the power of modern web technologies—bringing database execution directly to the browser without sacrificing performance or functionality. Whether you're learning SQL, prototyping queries, or teaching database concepts, this tool provides an accessible, interactive experience.
+The PostgreSQL Query Visualizer demonstrates the power of modern web technologies, bringing database execution directly to the browser without sacrificing performance or functionality. Whether you're learning SQL, prototyping queries or teaching database concepts, this tool provides an accessible interactive experience.
 
 **[Launch the Application](/apps/pg-query-visualizer/)** and start exploring SQL today!
 

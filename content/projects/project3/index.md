@@ -426,7 +426,7 @@ applications, Transformers.js provides the tools to
 make it happen entirely in the browser.
 
 The era of client-side AI has arrived, and it is more
-capable, more private, and more practical than most
+capable, more private and more practical than most
 people realize at first glance.
 
 Resources
@@ -441,5 +441,5 @@ https://huggingface.co/models?library=transformers.js
 - WebNN Specification: https://www.w3.org/TR/webnn/
 
 ---
-The future of AI is distributed, private, and running right in your browser.
+The future of AI is distributed, private and running right in your browser.
 ---
