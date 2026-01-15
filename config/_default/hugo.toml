@@ -16,6 +16,8 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
+ignoreFiles = ["node_modules"]
+
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"

@@ -8,6 +8,8 @@ categories: ["Statistics", "Sports"]
 math: true
 ---
 
+{{< katex >}}
+
 ## Introduction
 
 The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, have built one of the NFL's most competitive rosters since 2017. But how effective have they actually been in the draft?
