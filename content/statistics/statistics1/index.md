@@ -18,22 +18,22 @@ sitemap:
     3     Fernando Mendoza    QB        Indiana       6-5       225lbs
     4     Dante Moore         QB        Oregon        6-3       210lbs
     5     Arvell Reese        LB        Ohio State    6-4       238lbs
-    6     Peter Woods         DL/ED     Clemson       6-3       315lbs
+    6     David Bailey        LB/ED     Texas Tech    6-3       240lbs
     7     Spencer Fano        OT        Utah          6-5       304lbs
     8     Francis Mauigoa     OT        Miami         6-6       315lbs
-    9     T.J. Parker         DE/ED     Clemson       6-3       265lbs
+    9     Keldric Faulk       DL/ED     Auburn        6-6       288lbs
     10    Jordyn Tyson        WR        Arizona St.   6-1       195lbs
     11    Jeremiyah Love      RB        Notre Dame    6-0       206lbs
     12    Jermod McCoy        CB        Tennessee     6-0       193lbs
     13    Makai Lemon         WR        USC           5-11      190lbs
-    14    Keldric Faulk       DL/ED     Auburn        6-6       288lbs
+    14    T.J. Parker         DE/ED     Clemson       6-3       265lbs
     15    Mansoor Delane      CB        LSU           6-1       187lbs
-    16    David Bailey        LB/ED     Texas Tech    6-3       240lbs
+    16    Cashius Howell      DL/ED     Texas A&M     6-4       245lbs  
     17    Garrett Nussmeier   QB        LSU           6-2       200lbs 
     18    Kenyon Sadiq        TE        Oregon        6-3       245lbs
     19    Caleb Banks         DE/ED     Florida       6-6       325lbs
     20    Carnell Tate        WR        Ohio State    6-3       195lbs
-    21    Cashius Howell      DL/ED     Texas A&M     6-4       245lbs
+    21    Peter Woods         DL/ED     Clemson       6-3       315lbs
     22    Ty Simpson          QB        Alabama       6-2       215lbs
     23    Avieon Terrell      CB        Clemson       5-11      180lbs
     24    Matayo Uiagalelei   DE/ED     Oregon        6-5       270lbs
@@ -54,7 +54,7 @@ sitemap:
     39    Dillon Thieneman    S         Oregon        6-0       207lbs
     40    A.J. Haulcy         S         LSU           6-0       222lbs
     41    Tyreak Sapp         DE/ED     Florida       6-3       272lbs
-    42    Joshua Josephs      DE/ED     Tennessee     6-3       245lbs
+    42    LT Overton          DE/ED     Alabama       6-5       278lbs
     43    Max Klare           TE        Ohio State    6-4       240lbs
     44    Austin Barber       OT        Florida       6-6       314lbs
     45    Chris Bell          WR        Louisville    6-2       220lbs
@@ -114,7 +114,7 @@ sitemap:
     99    CJ Allen            LB        Georgia       6-1       235lbs
     100   Antonio Williams    WR        Clemson       5-11      190lbs
     101   Brandon Cisse       CB        S. Carolina   6-4       235lbs
-    102   LT Overton          DE/ED     Alabama       6-5       278lbs
+    102   Joshua Josephs      DE/ED     Tennessee     6-3       245lbs
     103   Justice Haynes      RB        Michigan      5-11      210lbs
     104   Kage Casey          OT        Boise State   6-5       310lbs
     105   Xavier Scott        CB        Illinois      5-11      190lbs
