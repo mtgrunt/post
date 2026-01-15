@@ -11,9 +11,9 @@ sitemap:
 ---
 ## Introduction
 
-Understanding SQL query performance can be challenging, especially when you're learning database concepts or debugging slow queries. The **PostgreSQL Query Visualizer** is an interactive, browser-based tool that lets you write, execute, and analyze SQL queries against sample datasets—no database installation required.
+Understanding SQL query performance can be challenging, especially when you're learning database concepts or debugging slow queries. The **PostgreSQL Query Visualizer** is an interactive, browser-based tool that lets you write, execute and analyze SQL queries against sample datasets, no database installation required.
 
-Built with React, Monaco Editor (the same editor powering VS Code), and sql.js (SQLite compiled to WebAssembly), this tool brings the power of SQL execution directly to your browser.
+Built with React, Monaco Editor (the same editor powering VS Code) and sql.js (SQLite compiled to WebAssembly), this tool brings the power of SQL execution directly to your browser.
 
 **[Launch PostgreSQL Query Visualizer](/apps/pg-query-visualizer/)**
 
