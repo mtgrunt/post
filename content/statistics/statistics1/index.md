@@ -16,7 +16,7 @@ sitemap:
     1     Rueben Bain Jr.     DL/ED     Miami         6-3       275lbs
     2     Caleb Downs         S         Ohio State    6-0       205lbs
     3     Fernando Mendoza    QB        Indiana       6-5       225lbs
-    4     Dante Moore         QB        Oregon        6-3       210lbs
+    4     Dante Moore         QB        Oregon        6-3       210lbs  
     5     Arvell Reese        LB        Ohio State    6-4       238lbs
     6     David Bailey        LB/ED     Texas Tech    6-3       240lbs
     7     Spencer Fano        OT        Utah          6-5       304lbs
