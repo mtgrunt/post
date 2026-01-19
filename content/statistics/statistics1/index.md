@@ -16,8 +16,7 @@ sitemap:
     1     Rueben Bain Jr.     DL/ED     Miami         6-3       275lbs
     2     Caleb Downs         S         Ohio State    6-0       205lbs
     3     Fernando Mendoza    QB        Indiana       6-5       225lbs
-    4     Dante Moore         QB        Oregon        6-3       210lbs  
-    5     Arvell Reese        LB        Ohio State    6-4       238lbs
+    4     Arvell Reese        LB        Ohio State    6-4       238lbs
     6     David Bailey        LB/ED     Texas Tech    6-3       240lbs
     7     Spencer Fano        OT        Utah          6-5       304lbs
     8     Francis Mauigoa     OT        Miami         6-6       315lbs
@@ -36,8 +35,7 @@ sitemap:
     21    Peter Woods         DL/ED     Clemson       6-3       315lbs
     22    Ty Simpson          QB        Alabama       6-2       215lbs
     23    Avieon Terrell      CB        Clemson       5-11      180lbs
-    24    Matayo Uiagalelei   DE/ED     Oregon        6-5       270lbs
-    25    Christen Miller     DI        Georgia       6-4       305lbs
+    24    Christen Miller     DI        Georgia       6-4       305lbs
     26    Olaivavega Ioane    OG        Penn St       6-4       330lbs
     27    Denzel Boston       WR        Washington    6-4       209lbs
     28    Kadyn Proctor       OG        Alabama       6-7       369lbs
@@ -64,8 +62,7 @@ sitemap:
     49    Zane Durant         DT        Penn State    6-1       290lbs	
     50    Chris Johnson Jr.   RB        Miami         6-0       180lbs
     51    Germie Bernard      WR        Alabama       6-1       209lbs
-    52    Austin Siereveld    OG        Ohio State    6-5       320lbs
-    53    Keith Abney II      CB        Arizona St    6-0       190lbs
+    52    Keith Abney II      CB        Arizona St    6-0       190lbs
     54    Malik Muhammad      CB        Texas         6-0       190lbs
     55    Emmanuel Mcneil-W.  S         Toledo        6-2       202lbs
     56    Zachariah Branch    WR        Georgia       5-10      175lbs
@@ -110,8 +107,7 @@ sitemap:
     95    Jack Endries        TE        Texas         6-4       240lbs
     96    Eric Singleton Jr.  WR        Auburn        5-11      187lbs
     97    Michael Trigg       TE        Baylor        6-4       246lbs
-    98    Keon Sabb           S         Alabama       6-1       206lbs
-    99    CJ Allen            LB        Georgia       6-1       235lbs
+    98    CJ Allen            LB        Georgia       6-1       235lbs
     100   Antonio Williams    WR        Clemson       5-11      190lbs
     101   Brandon Cisse       CB        S. Carolina   6-4       235lbs
     102   Joshua Josephs      DE/ED     Tennessee     6-3       245lbs
@@ -137,8 +133,7 @@ sitemap:
     122   Amare Campbell      LB        Penn State    6-0       230lbs
     123   Tanner Koziol       TE        Houston       6-7       230lbs
     124   Trinidad Chambliss  QB        Ole Miss      6-0       200lbs 
-    125   Trevor Goosby       T         Texas         6-7       312lbs
-    126   Carson Beck         QB        Miami         6-4       220lbs
+    125   Carson Beck         QB        Miami         6-4       220lbs
     127   Drew Shelton        OG        Penn St.      6-5       305lbs
     128   Isaiah Nwokobia     S         SMU           6-1       193lbs
     129   Keylan Rutledge     OG        Georgia Tech  6-4       330lbs
@@ -152,8 +147,7 @@ sitemap:
     137   Rayshaun Benny      DL        Michigan      6-4       296lbs
     138   Jyaire Hill         CB        Michigan      6-2       185lbs
     139   Iapani Laloulu      C         Oregon        6-2       325lbs
-    140   Bray Hubbard        S         Alabama       6-2       204lbs
-    141   Ian Strong          WR        Rutgers       6-5       235lbs
+    140   Ian Strong          WR        Rutgers       6-5       235lbs
     142   Trey Moore          LB/ED     Texas         6-3       245lbs
     143   DJ Harvey           CB        San Jose St.  5-11      176lbs
     144   Terion Stewart      RB        Virginia Tech 5-9       220lbs
@@ -226,8 +220,7 @@ sitemap:
     211   Davison Igbinosun   CB        Ohio State    6-2       193lbs	
     212   Eugene Wilson III   WR        Florida       6-1       235lbs
     213   Niki Prongos        T         Stanford      6-7       310lbs
-    214   Kenyatta Jackson    DE/ED     Ohio State    6-6       265lbs	
-    215   Xavier Chaplin      OT        Auburn        6-6       265lbs
+    214   Xavier Chaplin      OT        Auburn        6-6       265lbs
     216   CJ Daniels          WR        Miami         6-7       348lbs
     217   Sam Leavitt         QB        Arizona St.   6-2       205lbs
     218   Whit Weeks          LB        LSU           6-2       200lbs
@@ -240,8 +233,7 @@ sitemap:
     225   Harold Perkins Jr.  LB        LSU           6-4       300lbs
     226   Tao Johnson         S         Utah          6-1       225lbs
     227   Albert Regis        DT        Texas A&M     6-1       193lbs
-    228   Bear Alexander      DT        Oregon        6-3       302lbs		
-    229   DJ Campbell         OG        Texas         6-3       315lbs
+    228   DJ Campbell         OG        Texas         6-3       315lbs
     230   Austin Romaine      LB        Kansas State  6-3       330lbs
     231   Malachi Lawrence    ED        UCF           6-2       242lbs
     232   CJ Baxter           RB        Texas         6-1       227lbs		
