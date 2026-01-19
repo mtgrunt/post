@@ -13,9 +13,9 @@ math: true
 ## Introduction
 *Update 01/19/2026:* 
 
-The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, have built one of the NFL's most competitive rosters since 2017. But how effective have they actually been in the draft?
+The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, have built one of the NFL's most competitive rosters since 2017. However, how effective have they actually been in the draft?
 
-Using custom statistical metrics, probability theory, and the Jimmy Johnson Trade Value Chart, I analyzed every 49ers draft pick from 2017-2025 to quantify their drafting efficiency and identify statistically significant patterns.
+Using custom statistical metrics, probability theory and the Jimmy Johnson Trade Value Chart, I analyzed every 49ers draft pick from 2017-2025 to quantify their drafting efficiency and identify statistically significant patterns.
 
 ## Methodology
 
