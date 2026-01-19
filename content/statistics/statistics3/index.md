@@ -11,6 +11,7 @@ math: true
 {{< katex >}}
 
 ## Introduction
+*Update 01/19/2026:* 
 
 The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, have built one of the NFL's most competitive rosters since 2017. But how effective have they actually been in the draft?
 
@@ -598,7 +599,6 @@ $$\text{Optimal Decision} = \arg\max_{strategy} \left[ E[AV] - \lambda \cdot Var
 5. **91.8% hit probability:** Across all 7 selections, near-certainty of finding at least one starter-quality player.
 
 ---
-Updated 01/19/2026: 
 *Analysis conducted using Python with pandas, numpy, scipy, and matplotlib. Statistical methods include frequentist hypothesis testing, Bayesian inference, linear and logistic regression, Monte Carlo simulation and ANOVA. Data sources: Pro Football Reference and Jimmy Johnson Trade Value Chart.*
 
 
