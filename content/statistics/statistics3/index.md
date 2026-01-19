@@ -598,7 +598,7 @@ $$\text{Optimal Decision} = \arg\max_{strategy} \left[ E[AV] - \lambda \cdot Var
 5. **91.8% hit probability:** Across all 7 selections, near-certainty of finding at least one starter-quality player.
 
 ---
-*Updated 01/19/2026*
+*Updated 01/19/2026:*
 *Analysis conducted using Python with pandas, numpy, scipy, and matplotlib. Statistical methods include frequentist hypothesis testing, Bayesian inference, linear and logistic regression, Monte Carlo simulation and ANOVA. Data sources: Pro Football Reference and Jimmy Johnson Trade Value Chart.*
 
 
