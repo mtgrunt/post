@@ -10,7 +10,7 @@ sitemap:
   changefreq: monthly
 ---
 ## NFL Stats Draft Board 2026
-*Update: 01/19/2026*
+*Updated: 01/19/2026*
 ### Big Board:
     RANK  PLAYER              POSITION	TEAM          HEIGHT    WEIGHT
     1     Rueben Bain Jr.     DL/ED     Miami         6-3       275lbs
