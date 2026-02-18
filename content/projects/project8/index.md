@@ -27,11 +27,9 @@ A multi-threaded port scanner built with Python's `concurrent.futures` module. I
 5. After all tasks finish, a summary lists open ports, closed ports and total scan time
 
 ## Code
----
 ```` Python
-
 #!/usr/bin/env python3
-"""Multi-threaded port scanner using concurrent.futures — reports OPEN and CLOSED ports."""
+"Multi-threaded port scanner using concurrent.futures — reports OPEN and CLOSED ports."
 
     import socket
     import concurrent.futures
@@ -103,13 +101,8 @@ A multi-threaded port scanner built with Python's `concurrent.futures` module. I
     if __name__ == "__main__":
         main()
 
-## Usage
-
-```bash
-python index.md.py
-```
+````
 
 Modify the `TARGET`, `PORT_RANGE` and `THREADS` constants to customize the scan.
-
 
 *Built with Python 3 standard library — no external dependencies required.*
