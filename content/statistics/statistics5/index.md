@@ -1,4 +1,13 @@
-# CS Enrollment Decline & the AI Migration
+---
+title: "Computer Science Enrollment Decline & AI Migration"
+date: 2026-02-19
+draft: false
+description: "Computer Science Enrollment Decline & AI Migration."
+tags: ["CS Enrollment Decline", "AI Migration", "Computer Science", "statistics", ]
+categories: ["Statistics", "Computer Science", "AI" ]
+math: true
+---
+CS Enrollment Decline & the AI Migration
 
 For the first time since the dot-com crash of the early 2000s, computer science enrollment at U.S. universities is in measurable decline. Across the University of California system, one of the most influential public university networks in the country. CS majors dropped 6% in 2025 to 12,652 students, following a 3% decline in 2024. That figure still represents nearly double the number of CS majors from a decade ago, making the reversal all the more striking. Harvey Mudd College, a school Where CS and STEM-related fields make up more than half of its graduates. Reported a 27% drop in applications from students listing computer science as their first-choice major over the last four years. A survey by the Computing Research Association found that 62% of computing departments nationally reported declining undergraduate enrollment in fall 2025. The granular breakdown is telling: 40% of those units reported slight decreases of 0–10%, 29% reported moderate decreases of 11–20% and 31% reported enrollment declines of more than 20%. Among declining departments, the average drop was 11–15%. At the graduate level, the contraction is even sharper. CS graduate enrollment fell 14.0% nationally, compared to -3.6% at the undergraduate level. These are not rounding errors or statistical noise, they represent a structural shift in how students and families perceive the value of a CS education in the age of artificial intelligence. The decline is happening against a backdrop of rising overall college attendance: total U.S. postsecondary enrollment climbed 2% in fall 2025, reaching 19.4 million students. CS is contracting even as the pool of students grows.
 
