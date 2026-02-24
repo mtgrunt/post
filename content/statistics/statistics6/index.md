@@ -6,8 +6,6 @@ description: "Network Theory, AI & LLMs: Nodes, Clusters and the Architecture of
 tags: ["Network Theory", "Computer Science", "statistics", "AI and LLM's", "Nodes", "Clusters", "Architecture of Connection", "Edges", "Cluster Effects", "Six Degrees of Separation",  ]
 categories: ["Statistics", "Computer Science", "AI",  ]
 ---
-# Network Theory, AI & LLMs: Nodes, Clusters and the Architecture of Connection
-
 ## Nodes & Edges
 
 Every network — social, biological, digital, or linguistic — is built from the same two primitives: nodes and edges. A node is any entity: a person, a web page, a protein, a word, a city, a transistor. An edge is a relationship between two nodes: a friendship, a hyperlink, a chemical bond, a flight route, a synaptic connection. The number of edges a node has is its degree, and degree is rarely distributed evenly. In virtually every real-world network studied to date, a tiny fraction of nodes accumulate the vast majority of edges. This follows a power law — P(k) ~ k^(-γ), where γ sits between 2 and 3 — meaning hubs emerge naturally, not by design. On Twitter, roughly 1% of accounts generate approximately 80% of all content. In the global air traffic network, just 40 airports handle over 70% of all passenger traffic. In academic publishing, the top 1% of scientists by citation count account for more than 20% of all references received. The web itself follows this pattern so sharply that Google's early insight — rank pages by incoming links, not content alone — was essentially an application of hub detection in a scale-free network.
