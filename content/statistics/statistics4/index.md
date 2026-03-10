@@ -7,8 +7,6 @@ tags: ["California", "California Housing Costs", "Housing Costs", "statistics", 
 categories: ["Statistics", "California Housing Costs", ]
 math: true
 ---
-California Housing Costs
-
 California has long been one of the most expensive places in the United States to own a home and conditions have only
 intensified in recent years. The median value of owner-occupied homes in California significantly exceeds the
 national average and wages have struggled to keep pace with these rising costs. This disparity has created a housing
