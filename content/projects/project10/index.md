@@ -4,7 +4,7 @@ date: 2026-04-23
 draft: false
 description: "AI statistics" 
 tags: ["statistics", "AI" , "Claude", ]
-categories: ["Statistics", ]
+categories: ["project", "AI",  ]
 math: false
 ---
 ## Prompts and Automating Statistics
