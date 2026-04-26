@@ -29,13 +29,13 @@ Building on the statistical framework from the 2017–2025 analysis, this articl
 | Round | Overall | Player               | Position | Pre-Draft Rank | SDS |
 |-------|---------|----------------------|----------|----------------|-----|
 | 2     | 33      | De'Zhaun Stribling   | WR       | 48             | +15 |
-| 3     | 70      | Romello Height       | EDGE     | 65             | −5  |
+| 3     | 70      | Romello Height       | DL       | 65             | −5  |
 | 3     | 90      | Kaelon Black         | RB       | 110            | +20 |
-| 4     | 107     | Gracen Halton        | DT       | 118            | +11 |
-| 4     | 127     | Carver Willis        | OT       | 122            | −5  |
-| 5     | 139     | Ephesians Prysock    | CB       | 152            | +13 |
-| 5     | 154     | Jaden Dugger         | LB       | 163            | +9  |
-| 6     | 179     | Enrique Cruz         | OT       | 194            | +15 |
+| 4     | 107     | Gracen Halton        | DL       | 118            | +11 |
+| 4     | 127     | Carver Willis        | OL       | 122            | −5  |
+| 4     | 139     | Ephesians Prysock    | CB       | 152            | +13 |
+| 4     | 154     | Jaden Dugger         | LB       | 163            | +9  |
+| 5     | 179     | Enrique Cruz Jr.     | OL       | 194            | +15 |
 
 ### Undrafted Free Agents Signed
 
@@ -99,7 +99,7 @@ Individual SDS values for the 2026 class:
 | Carver Willis        | 122       | 127       | −5  | Reach          |
 | Ephesians Prysock    | 152       | 139       | +13 | Value          |
 | Jaden Dugger         | 163       | 154       | +9  | Value          |
-| Enrique Cruz         | 194       | 179       | +15 | Value          |
+| Enrique Cruz Jr.     | 194       | 179       | +15 | Value          |
 
 **2026 class summary statistics:**
 
@@ -169,9 +169,9 @@ This baseline projects performance relative to round expectation, where each 50-
 | Kaelon Black         | 3     | 12      | +20 | 1.40      | Meets/Exceeds     |
 | Gracen Halton        | 4     | 8       | +11 | 1.22      | Meets/Exceeds     |
 | Carver Willis        | 4     | 8       | −5  | 0.90      | Underperform risk |
-| Ephesians Prysock    | 5     | 5       | +13 | 1.26      | Meets/Exceeds     |
-| Jaden Dugger         | 5     | 5       | +9  | 1.18      | Meets/Exceeds     |
-| Enrique Cruz         | 6     | 3       | +15 | 1.30      | Meets/Exceeds     |
+| Ephesians Prysock    | 4     | 8       | +13 | 1.26      | Meets/Exceeds     |
+| Jaden Dugger         | 4     | 8       | +9  | 1.18      | Meets/Exceeds     |
+| Enrique Cruz Jr.     | 5     | 5       | +15 | 1.30      | Meets/Exceeds     |
 
 **Class mean projected OAV:** $\bar{\widehat{OAV}}_{2026} = 1.19$
 
@@ -196,9 +196,9 @@ The 49ers entered the 2026 off-season projected to hold pick #27 (Round 1). The 
 | 90        | 3     | 145       |
 | 107       | 4     | 88        |
 | 127       | 4     | 48        |
-| 139       | 5     | 37        |
-| 154       | 5     | 27        |
-| 179       | 6     | 15        |
+| 139       | 4     | 37        |
+| 154       | 4     | 27        |
+| 179       | 5     | 15        |
 | **Total** |       | **1,180** |
 
 **Projected (pre-draft):**
@@ -402,20 +402,19 @@ This is the highest OAV of any 49ers pick in the dataset — a 3-standard-deviat
 
 ---
 
-**2023 — Grade: B+**
+**2023 — Grade: C+**
 
-A strong class that added multiple contributors. The 49ers used varied picks across rounds to address the offensive line and secondary, finding meaningful starters in the middle rounds.
+A disappointing class with no confirmed hits. Jake Moody was cut before contributing meaningfully as a starter, Ji'Ayir Brown has not established himself as the answer at safety, and Sam Womack III never developed into a reliable contributor. The 49ers' first pick (Round 3, #99) at kicker proved costly when Moody was released. This class reflects the depth-of-roster cost of the Lance trade era.
 
-$$CGS_{2023} = 0.45 \cdot \frac{0.429}{0.30} + 0.30 \cdot \frac{3.8 + 20}{40} + 0.25 \cdot \frac{1{,}340}{2{,}015} = 0.643 + 0.179 + 0.166 = 0.67$$
+$$CGS_{2023} = 0.45 \cdot \frac{0.0}{0.30} + 0.30 \cdot \frac{3.8 + 20}{40} + 0.25 \cdot \frac{1{,}340}{2{,}015} = 0.000 + 0.179 + 0.166 = 0.35$$
 
 | Pick | Player                | Position | SDS | Status    |
 |------|-----------------------|----------|-----|-----------|
-|      |                       | —        | —   | —         |
-| 99   | Jake Moody            | K        | +12 | Solid     |
-| 105  | Ji'Ayir Brown         | S        | +8  | Solid     |
+| 99   | Jake Moody            | K        | +12 | Bust      |
+| 105  | Ji'Ayir Brown         | S        | +8  | Below Avg |
 | 121  | Darrell Luter Jr.     | CB       | +6  | Average   |
-| 155  | Robert Beal Jr.       | DE       | +14 | Average   |
-| 199  | Sam Womack III        | CB       | +18 | Solid     |
+| 155  | Robert Beal Jr.       | DE       | +14 | Below Avg |
+| 199  | Sam Womack III        | CB       | +18 | Below Avg |
 | 226  | Cameron Latu          | TE       | +16 | Below Avg |
 
 ---
@@ -551,7 +550,7 @@ Kittle and Purdy are both beyond 3 and 2.8 standard deviations, respectively —
 | Carver Willis        | 127  | 8.4          |
 | Ephesians Prysock    | 139  | 7.1          |
 | Jaden Dugger         | 154  | 5.5          |
-| Enrique Cruz         | 179  | 2.7          |
+| Enrique Cruz Jr.     | 179  | 2.7          |
 
 **Total predicted AV (2026 class):**
 
@@ -595,10 +594,9 @@ UDFAs carry no pick cost. Each successful UDFA represents pure positive SDS — 
 
 | Position | Drafted            | UDFA                          | Total |
 |----------|--------------------|-------------------------------|-------|
-| WR       | 1 (Stribling)      | 2 (Grimes, Pauling)           | 3     |
-| OT       | 2 (Willis, Cruz)   | 0                             | 2     |
-| DT/DE    | 1 (Halton)         | 3 (Eason, Thompson, Kamara)   | 4     |
-| EDGE     | 1 (Height)         | 0                             | 1     |
+| WR       | 1 (Stribling)          | 2 (Grimes, Pauling)           | 3     |
+| OL       | 2 (Willis, Cruz Jr.)   | 0                             | 2     |
+| DL       | 2 (Height, Halton)     | 3 (Eason, Thompson, Kamara)   | 5     |
 | RB       | 1 (Black)          | 0                             | 1     |
 | CB       | 1 (Prysock)        | 0                             | 1     |
 | LB       | 1 (Dugger)         | 0                             | 1     |
@@ -625,13 +623,13 @@ $$PV_{pos, round} = E[AV \mid pos, round] \cdot \frac{1}{Salary_{pos}}$$
 | Player               | Pick | Position | Optimal Window | Fit                      |
 |----------------------|------|----------|----------------|--------------------------|
 | De'Zhaun Stribling   | 33   | WR       | 2nd–3rd        | ✓ Ideal                  |
-| Romello Height       | 70   | EDGE     | 1st–2nd        | △ Late for position      |
+| Romello Height       | 70   | DL       | 1st–2nd        | △ Late for position      |
 | Kaelon Black         | 90   | RB       | 3rd–4th        | ✓ Ideal                  |
-| Gracen Halton        | 107  | DT       | 3rd–5th        | ✓ Ideal                  |
-| Carver Willis        | 127  | OT       | 1st–2nd        | △ Late for position      |
+| Gracen Halton        | 107  | DL       | 3rd–5th        | ✓ Ideal                  |
+| Carver Willis        | 127  | OL       | 1st–2nd        | △ Late for position      |
 | Ephesians Prysock    | 139  | CB       | 2nd–3rd        | △ Slight stretch         |
 | Jaden Dugger         | 154  | LB       | 3rd–5th        | ✓ Ideal                  |
-| Enrique Cruz         | 179  | OT       | 1st–2nd        | ✗ Very late for position |
+| Enrique Cruz Jr.     | 179  | OL       | 1st–2nd        | ✗ Very late for position |
 
 Three picks land at positions where their round is below the optimal window (Height, Willis, Cruz). All three are offensive or defensive linemen — a deliberate strategy to build depth at premium-cost positions through draft capital rather than free agency.
 
@@ -761,23 +759,6 @@ We reject $H_0$ at $\alpha = 0.05$ — draft year does explain a statistically s
 4. **Two high-ceiling picks:** Stribling (WR, 6'4"+, #33) and Prysock (CB, #139, +13 SDS) have the profile of contributors who can exceed positional expectations.
 
 5. **Round 3 history is a warning:** The 49ers are 1 for 9 (11.1%) in Round 3 historically. Both Height (#70) and Black (#90) face the toughest historical round for this franchise.
-
-### Full Era Rankings
-
-| Rank | Year | Grade | CGS  | Key Player              |
-|------|------|-------|------|-------------------------|
-| 1    | 2022 | A     | 0.81 | Brock Purdy             |
-| 2    | 2023 | B+    | 0.67 | Ji'Ayir Brown / Moody   |
-| 3    | 2019 | B+    | 0.64 | Nick Bosa               |
-| 4    | 2026 | B*    | 0.52 | TBD                     |
-| 5    | 2020 | B−    | 0.48 | Brandon Aiyuk           |
-| 6    | 2018 | B−    | 0.46 | Fred Warner             |
-| 7    | 2017 | C     | 0.27 | George Kittle           |
-| 8    | 2021 | D     | 0.10 | — (Lance)               |
-| —    | 2024 | INC   | —    | Ricky Pearsall          |
-| —    | 2025 | INC   | —    | TBD                     |
-
-*2026 grade is projected; hit rate component defaults to league average.
 
 ### Optimal Decision Formula
 
