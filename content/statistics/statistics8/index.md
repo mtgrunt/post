@@ -318,19 +318,19 @@ $$CGS_{2018} = 0.45 \cdot \frac{0.286}{0.30} + 0.30 \cdot \frac{5.2 + 20}{40} + 
 
 **2019 — Grade: B+**
 
-The Bosa class. Trading up to secure the second overall pick for a generational pass rusher, while also finding Deebo Samuel in Round 2, makes this the second-best capital deployment of the era on a pure outcome basis.
+The Bosa class. Trading up to secure the second overall pick for a generational pass rusher, while also finding Deebo Samuel in Round 2, makes this the second-best capital deployment of the era on a pure outcome basis. Deebo Samuel has since departed the roster — his Solid classification reflects production earned during his tenure in San Francisco before his exit.
 
 $$CGS_{2019} = 0.45 \cdot \frac{0.40}{0.30} + 0.30 \cdot \frac{-9.8 + 20}{40} + 0.25 \cdot \frac{2{,}015}{2{,}015} = 0.600 + 0.077 + 0.250 = 0.64$$
 
 The negative mean SDS (−9.8) reflects the "reach" optics of picking Bosa at #2 (ranked ~4th on many boards), but outcomes validate the deviation.
 
-| Pick | Player                | Position | SDS | Status    |
-|------|-----------------------|----------|-----|-----------|
-| 2    | Nick Bosa             | EDGE     | −4  | **Elite** |
-| 36   | Deebo Samuel          | WR       | +8  | Solid     |
-| 67   | Jalen Jelks           | DE       | +12 | Bust      |
-| 173  | Mitch Wishnowsky      | P        | +22 | Average   |
-| 208  | Justin Skule          | OT       | +18 | Below Avg |
+| Pick | Player                | Position | SDS | Status           |
+|------|-----------------------|----------|-----|------------------|
+| 2    | Nick Bosa             | EDGE     | −4  | **Elite**        |
+| 36   | Deebo Samuel          | WR       | +8  | Solid (departed) |
+| 67   | Jalen Jelks           | DE       | +12 | Bust             |
+| 173  | Mitch Wishnowsky      | P        | +22 | Average          |
+| 208  | Justin Skule          | OT       | +18 | Below Avg        |
 
 ---
 
@@ -421,7 +421,7 @@ $$CGS_{2023} = 0.45 \cdot \frac{0.0}{0.30} + 0.30 \cdot \frac{3.8 + 20}{40} + 0.
 
 **2024 — Grade: Incomplete**
 
-First full class with post-Lance capital restored. Ricky Pearsall (Round 1) showed early promise before injury. Patrick Paul and Renardo Green represent the key developmental bets. Grade pending after 2025 and 2026 seasons.
+First full class with post-Lance capital restored. Ricky Pearsall (Round 1) is active on the roster. Isaac Guerendo has emerged as a legitimate backfield contributor. Dominick Puni has stepped into a starting guard role on the offensive line — the early standout of this class. Grade pending full development across 2025 and 2026 seasons.
 
 | Pick | Player                | Position | SDS | Status |
 |------|-----------------------|----------|-----|--------|
@@ -431,6 +431,7 @@ First full class with post-Lance capital restored. Ricky Pearsall (Round 1) show
 | 102  | Isaac Guerendo        | RB       | +18 | TBD    |
 | 143  | Dominique Lovett      | WR       | +12 | TBD    |
 | 180  | Cade Stover           | TE       | +8  | TBD    |
+| 187  | Dominick Puni         | G        | +10 | TBD    |
 | 213  | Nick Emmanwori        | S        | +22 | TBD    |
 
 ---
