@@ -264,15 +264,15 @@ Weights reflect the primacy of actual outcomes (45%), draft efficiency (30%), an
 
 | Year | Picks | Elite | Solid | HR | $\bar{SDS}$ | JJ Value | CGS | Grade |
 |------|-------|-------|-------|-----|------------|----------|-----|-------|
-| 2017 | 8 | 1 | 0 | 12.5% | −8.4 | 1,842 | 0.27 | C |
-| 2018 | 7 | 1 | 1 | 28.6% | +5.2 | 1,520 | 0.46 | B− |
-| 2019 | 5 | 1 | 1 | 40.0% | −9.8 | 2,015 | 0.64 | B+ |
-| 2020 | 7 | 0 | 2 | 28.6% | −2.1 | 1,895 | 0.48 | B− |
-| 2021 | 5 | 0 | 0 | 0.0% | −18.3 | 1,105 | 0.10 | D |
-| 2022 | 5 | 1 | 2 | 60.0% | +12.4 | 960 | 0.81 | A |
-| 2023 | 7 | 1 | 2 | 42.9% | +3.8 | 1,340 | 0.67 | B+ |
-| 2024 | 7 | 0 | 1 | TBD | +1.2 | 1,280 | INC | INC |
-| 2025 | 7 | 0 | 0 | TBD | −0.8 | 1,150 | INC | INC |
+| 2017 | 10 | 1 | 0 | 10.0% | −8.4 | 1,842 | 0.27 | C |
+| 2018 | 9 | 1 | 1 | 22.2% | +5.2 | 1,520 | 0.46 | B− |
+| 2019 | 8 | 1 | 1 | 25.0% | −9.8 | 2,015 | 0.64 | B+ |
+| 2020 | 5 | 0 | 2 | 40.0% | −2.1 | 1,895 | 0.48 | B− |
+| 2021 | 8 | 0 | 1 | 12.5% | −18.3 | 1,105 | 0.10 | D |
+| 2022 | 9 | 1 | 1 | 22.2% | +12.4 | 960 | 0.81 | A |
+| 2023 | 9 | 0 | 0 | 0.0% | +3.8 | 1,340 | 0.35 | C+ |
+| 2024 | 8 | 0 | 1 | TBD | +1.2 | 1,280 | INC | INC |
+| 2025 | 11 | 0 | 0 | TBD | TBD | 1,150 | INC | INC |
 | **2026** | **8** | **TBD** | **TBD** | **TBD** | **+9.1** | **1,180** | **0.52*** | **B** |
 
 *2026 CGS uses projected OAV and SDS only; HR component defaults to league average (0.30) pending outcomes.
@@ -288,19 +288,21 @@ $$CGS_{2017} = 0.45 \cdot \frac{0.125}{0.30} + 0.30 \cdot \frac{-8.4 + 20}{40} +
 | Pick | Player                | Position | SDS | Status    |
 |------|-----------------------|----------|-----|-----------|
 | 3    | Solomon Thomas        | DE       | −18 | Bust      |
-| 34   | Reuben Foster         | LB       | −12 | Bust      |
-| 66   | CJ Beathard           | QB       | −4  | Bust      |
-| 111  | Ahkello Witherspoon   | CB       | +8  | Below Avg |
+| 31   | Reuben Foster         | LB       | −12 | Bust      |
+| 66   | Ahkello Witherspoon   | CB       | +8  | Below Avg |
+| 104  | CJ Beathard           | QB       | −4  | Bust      |
+| 121  | Joe Williams          | RB       | —   | Bust      |
 | 146  | George Kittle         | TE       | +42 | **Elite** |
 | 177  | Trent Taylor          | WR       | +5  | Below Avg |
-| 214  | Adrian Colbert        | S        | +12 | Bust      |
-| 232  | Pita Taumoepenu       | LB       | +18 | Bust      |
+| 198  | D.J. Jones            | DL       | —   | Average   |
+| 202  | Pita Taumoepenu       | DL       | +18 | Bust      |
+| 229  | Adrian Colbert        | S        | +12 | Bust      |
 
 ---
 
 **2018 — Grade: B−**
 
-Fred Warner at pick 70 is the hidden gem of this class, projecting as an eventual All-Pro. McGlinchey provided solid starting value at left tackle for several seasons. Dante Pettis (Round 2) and Jalen Hurd (Round 3, injury) were the misses that dragged the grade down.
+Fred Warner at pick 70 is the hidden gem of this class, projecting as an eventual All-Pro. McGlinchey provided solid starting value at tackle for several seasons. Dante Pettis (Round 2) and Kentavius Street (Round 4, injury) were the misses that dragged the grade down.
 
 $$CGS_{2018} = 0.45 \cdot \frac{0.286}{0.30} + 0.30 \cdot \frac{5.2 + 20}{40} + 0.25 \cdot \frac{1{,}520}{2{,}015} = 0.429 + 0.189 + 0.188 = 0.46$$
 
@@ -308,11 +310,13 @@ $$CGS_{2018} = 0.45 \cdot \frac{0.286}{0.30} + 0.30 \cdot \frac{5.2 + 20}{40} + 
 |------|-----------------------|----------|-----|-----------|
 | 9    | Mike McGlinchey       | OT       | −5  | Solid     |
 | 44   | Dante Pettis          | WR       | −8  | Bust      |
-| 67   | Jalen Hurd            | WR       | +6  | Bust      |
 | 70   | Fred Warner           | LB       | +12 | **Elite** |
-| 104  | Trent Taylor top-up   | —        | —   | —         |
-| 128  | Richie James          | WR       | +18 | Average   |
-| 221  | Jalen Jelks           | DE       | +24 | Bust      |
+| 95   | Tarvarius Moore       | DB       | —   | Below Avg |
+| 128  | Kentavius Street      | DL       | —   | Bust      |
+| 142  | D.J. Reed             | CB       | —   | Solid     |
+| 184  | Marcell Harris        | S        | —   | Below Avg |
+| 223  | Jullian Taylor        | DT       | —   | Bust      |
+| 240  | Richie James          | WR       | +18 | Average   |
 
 ---
 
@@ -328,9 +332,12 @@ The negative mean SDS (−9.8) reflects the "reach" optics of picking Bosa at #2
 |------|-----------------------|----------|-----|------------------|
 | 2    | Nick Bosa             | EDGE     | −4  | **Elite**        |
 | 36   | Deebo Samuel          | WR       | +8  | Solid (departed) |
-| 67   | Jalen Jelks           | DE       | +12 | Bust             |
-| 173  | Mitch Wishnowsky      | P        | +22 | Average          |
-| 208  | Justin Skule          | OT       | +18 | Below Avg        |
+| 67   | Jalen Hurd            | WR       | —   | Bust             |
+| 110  | Mitch Wishnowsky      | P        | +22 | Average          |
+| 148  | Dre Greenlaw          | LB       | —   | Solid            |
+| 176  | Kaden Smith           | TE       | —   | Below Avg        |
+| 183  | Justin Skule          | OT       | +18 | Below Avg        |
+| 198  | Tim Harris            | CB       | —   | Bust             |
 
 ---
 
@@ -344,17 +351,15 @@ $$CGS_{2020} = 0.45 \cdot \frac{0.286}{0.30} + 0.30 \cdot \frac{-2.1 + 20}{40} +
 |------|-----------------------|----------|-----|-----------|
 | 14   | Javon Kinlaw          | DT       | −6  | Below Avg |
 | 25   | Brandon Aiyuk         | WR       | −2  | Solid     |
-| 117  | Colton McKivitz       | OG       | +8  | Average   |
-| 153  | Charlie Woerner       | TE       | +14 | Below Avg |
-| 187  | Jauan Jennings        | WR       | +22 | Solid     |
-| 234  | Alex Barrett          | DE       | +28 | Bust      |
-| 248  | Marcell Harris        | S        | +20 | Bust      |
+| 153  | Colton McKivitz       | OL       | +8  | Average   |
+| 190  | Charlie Woerner       | TE       | +14 | Below Avg |
+| 217  | Jauan Jennings        | WR       | +22 | Solid     |
 
 ---
 
 **2021 — Grade: D**
 
-The Trey Lance trade was the most consequential — and statistically catastrophic — transaction of the Lynch/Shanahan era. Surrendering three first-round picks for a player who accumulated minimal AV before being traded represents an expected value destruction of historic proportions.
+The Trey Lance trade was the most consequential and statistically catastrophic transaction of the Lynch/Shanahan era. Surrendering three first-round picks for a player who accumulated minimal AV before being traded represents an expected value destruction of historic proportions.
 
 $$CGS_{2021} = 0.45 \cdot \frac{0.0}{0.30} + 0.30 \cdot \frac{-18.3 + 20}{40} + 0.25 \cdot \frac{1{,}105}{2{,}015} = 0.000 + 0.013 + 0.137 = 0.10$$
 
@@ -373,10 +378,13 @@ This single transaction destroyed more draft capital than any two prior drafts c
 | Pick | Player                | Position | SDS | Status    |
 |------|-----------------------|----------|-----|-----------|
 | 3    | Trey Lance            | QB       | −18 | Bust      |
+| 48   | Aaron Banks           | G        | —   | Average   |
+| 88   | Trey Sermon           | RB       | —   | Bust      |
 | 102  | Ambry Thomas          | CB       | +14 | Below Avg |
-| 155  | Deommodore Lenoir     | CB       | +12 | Average   |
-| 185  | Elijah Mitchell       | RB       | +22 | Solid     |
-| 194  | Jaylon Moore          | OT       | +16 | Bust      |
+| 155  | Jaylon Moore          | OT       | +16 | Bust      |
+| 172  | Deommodore Lenoir     | CB       | +12 | Average   |
+| 180  | Talanoa Hufanga       | S        | —   | **Elite** |
+| 194  | Elijah Mitchell       | RB       | +22 | Solid     |
 
 ---
 
@@ -395,27 +403,34 @@ This is the highest OAV of any 49ers pick in the dataset — a 3-standard-deviat
 | Pick | Player                | Position | SDS | Status    |
 |------|-----------------------|----------|-----|-----------|
 | 61   | Drake Jackson         | EDGE     | +6  | Average   |
-| 93   | Danny Gray            | WR       | +14 | Below Avg |
-| 105  | Spencer Burford       | OG       | +10 | Solid     |
-| 169  | Tariq Castro-Fields   | CB       | +18 | Average   |
+| 93   | Tyrion Davis-Price    | RB       | —   | Bust      |
+| 105  | Danny Gray            | WR       | +14 | Below Avg |
+| 134  | Spencer Burford       | OL       | +10 | Solid     |
+| 172  | Samuel Womack         | CB       | —   | Below Avg |
+| 187  | Nick Zakelj           | OL       | —   | Bust      |
+| 220  | Kalia Davis           | DL       | —   | Bust      |
+| 221  | Tariq Castro-Fields   | CB       | +18 | Average   |
 | 262  | Brock Purdy           | QB       | +82 | **Elite** |
 
 ---
 
 **2023 — Grade: C+**
 
-A disappointing class with no confirmed hits. Jake Moody was cut before contributing meaningfully as a starter, Ji'Ayir Brown has not established himself as the answer at safety, and Sam Womack III never developed into a reliable contributor. The 49ers' first pick (Round 3, #99) at kicker proved costly when Moody was released. This class reflects the depth-of-roster cost of the Lance trade era.
+A disappointing class with no confirmed hits. Jake Moody was cut before contributing meaningfully as a starter, Ji'Ayir Brown has not established himself as the answer at safety, and Cameron Latu never developed into a reliable contributor. The 49ers' second pick (Round 3, #99) at kicker proved costly when Moody was released. This class reflects the depth-of-roster cost of the Lance trade era.
 
 $$CGS_{2023} = 0.45 \cdot \frac{0.0}{0.30} + 0.30 \cdot \frac{3.8 + 20}{40} + 0.25 \cdot \frac{1{,}340}{2{,}015} = 0.000 + 0.179 + 0.166 = 0.35$$
 
 | Pick | Player                | Position | SDS | Status    |
 |------|-----------------------|----------|-----|-----------|
+| 87   | Ji'Ayir Brown         | S        | +8  | Below Avg |
 | 99   | Jake Moody            | K        | +12 | Bust      |
-| 105  | Ji'Ayir Brown         | S        | +8  | Below Avg |
-| 121  | Darrell Luter Jr.     | CB       | +6  | Average   |
-| 155  | Robert Beal Jr.       | DE       | +14 | Below Avg |
-| 199  | Sam Womack III        | CB       | +18 | Below Avg |
-| 226  | Cameron Latu          | TE       | +16 | Below Avg |
+| 101  | Cameron Latu          | TE       | +16 | Below Avg |
+| 155  | Darrell Luter Jr.     | CB       | +6  | Average   |
+| 173  | Robert Beal Jr.       | DE       | +14 | Below Avg |
+| 216  | Dee Winters           | LB       | —   | Below Avg |
+| 247  | Brayden Willis        | TE       | —   | Bust      |
+| 253  | Ronnie Bell           | WR       | —   | Bust      |
+| 255  | Jalen Graham          | LB       | —   | Bust      |
 
 ---
 
@@ -426,19 +441,33 @@ First full class with post-Lance capital restored. Ricky Pearsall (Round 1) is a
 | Pick | Player                | Position | SDS | Status |
 |------|-----------------------|----------|-----|--------|
 | 31   | Ricky Pearsall        | WR       | +4  | TBD    |
-| 40   | Renardo Green         | S        | +8  | TBD    |
-| 68   | Patrick Paul          | OT       | −5  | TBD    |
-| 102  | Isaac Guerendo        | RB       | +18 | TBD    |
-| 143  | Dominique Lovett      | WR       | +12 | TBD    |
-| 180  | Cade Stover           | TE       | +8  | TBD    |
-| 187  | Dominick Puni         | G        | +10 | TBD    |
-| 213  | Nick Emmanwori        | S        | +22 | TBD    |
+| 64   | Renardo Green         | CB       | +8  | TBD    |
+| 86   | Dominick Puni         | OL       | +10 | TBD    |
+| 124  | Malik Mustapha        | S        | —   | TBD    |
+| 129  | Isaac Guerendo        | RB       | +18 | TBD    |
+| 135  | Jacob Cowing          | WR       | +12 | TBD    |
+| 215  | Jarrett Kingston      | OL       | —   | TBD    |
+| 251  | Tatum Bethune         | LB       | —   | TBD    |
 
 ---
 
 **2025 — Grade: Incomplete**
 
-The 2025 class is too early to evaluate. All players remain TBD.
+The 2025 class is too early to evaluate. All players remain TBD. The 49ers held 11 picks, their largest class of the era, led by EDGE Mykel Williams at pick 11 — the first Round 1 pick since Ricky Pearsall in 2024.
+
+| Pick | Player                | Position | SDS | Status |
+|------|-----------------------|----------|-----|--------|
+| 11   | Mykel Williams        | EDGE     | —   | TBD    |
+| 43   | Alfred Collins        | DT       | —   | TBD    |
+| 75   | Nick Martin           | LB       | —   | TBD    |
+| 100  | Upton Stout           | CB       | —   | TBD    |
+| 113  | CJ West               | DT       | —   | TBD    |
+| 138  | Jordan Watkins        | WR       | —   | TBD    |
+| 147  | Jordan James          | RB       | —   | TBD    |
+| 160  | Marques Sigle         | S        | —   | TBD    |
+| 227  | Kurtis Rourke         | QB       | —   | TBD    |
+| 249  | Connor Colby          | OG       | —   | TBD    |
+| 252  | Junior Bergen         | WR       | —   | TBD    |
 
 ---
 
@@ -767,7 +796,7 @@ $$\text{Optimal Draft Strategy} = \arg\max_{strategy} \left[E[AV] - \lambda \cdo
 
 For the 2026 class, the 49ers implemented a **volume-over-ceiling** strategy — accepting the loss of a Round 1 ceiling pick in exchange for 8 at-bats and a statistically exceptional SDS profile. If one or two of those at-bats become Elite/Solid contributors, the class will justify itself. If Round 3 continues its historical failure rate for this organization, the grade will settle in the C range.
 
-**2026 class final projected grade: B** — pending player development over the 2026 and 2027 seasons.
+**2026 class final projected grade: C** — pending player development over the 2026 and 2027 seasons.
 
 ---
 
