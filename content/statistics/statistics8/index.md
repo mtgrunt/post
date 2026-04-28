@@ -12,13 +12,13 @@ math: true
 
 ## Introduction
 
-The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, completed the 2026 NFL Draft with 8 selections and no first-round pick. Their first pick — wide receiver De'Zhaun Stribling at 33rd overall — opened a class that addressed multiple positional needs across both lines and secondary, supplemented by eight undrafted free agents.
+The San Francisco 49ers, under head coach Kyle Shanahan and general manager John Lynch, completed the 2026 NFL Draft with 8 selections and no first-round pick. Their first pick, wide receiver De'Zhaun Stribling at 33rd overall. Opened a class that addressed multiple positional needs across both lines and secondary, supplemented by eight undrafted free agents.
 
 However, how effective have they actually been in the draft?
 
-Using custom statistical metrics, probability theory and the Jimmy Johnson Trade Value Chart, I analyzed every 49ers draft pick from 2017–2025 to quantify their drafting efficiency and identify statistically significant patterns.
+Using custom statistical metrics, probability theory and the Jimmy Johnson Trade Value Chart. I analyzed every 49ers draft pick from 2017–2025 to quantify their drafting efficiency and identify statistically significant patterns.
 
-Building on the statistical framework from the 2017–2025 analysis, this article evaluates the 2026 class using the same SDS, OAV, and JTE metrics — then provides year-by-year class grades for the entire Shanahan/Lynch era (2017–2026).
+Building on the statistical framework from the 2017–2025 analysis, this article evaluates the 2026 class using the same SDS, OAV and JTE metrics. Then provides year-by-year class grades for the entire Shanahan/Lynch era (2017–2026).
 
 ---
 
@@ -218,7 +218,7 @@ The 49ers traded away Round 1 (680 JJ) and received additional picks, converting
 
 $$JTE_{2026} = \frac{1{,}180 - 1{,}278}{1} = -98.0 \text{ JJ pts}$$
 
-This is a modest negative — substantially better than the era's historical JTE of −122.97 per major trade event. The 49ers traded capital (single 1st) for volume (multiple mid-round picks), which aligns with the statistically optimal multi-pick strategy.
+This is a modest negative, substantially better than the era's historical JTE of −122.97 per major trade event. The 49ers traded capital (single 1st) for volume (multiple mid-round picks), which aligns with the statistically optimal multi-pick strategy.
 
 **Pick volume benefit:**
 
@@ -380,7 +380,7 @@ This single transaction destroyed more draft capital than any two prior drafts c
 
 ---
 
-**2022 — Grade: A**
+**2022 — Grade: B-**
 
 The greatest capital-efficiency class of the era. With limited draft capital (no Round 1 due to the Lance trade), the 49ers drafted Drake Jackson, Danny Gray, and closed the board with Brock Purdy at pick 262 — the single highest-OAV selection in 49ers history and arguably NFL Draft history.
 
@@ -419,7 +419,7 @@ $$CGS_{2023} = 0.45 \cdot \frac{0.0}{0.30} + 0.30 \cdot \frac{3.8 + 20}{40} + 0.
 
 ---
 
-**2024 — Grade: Incomplete**
+**2024 — Grade: B-**
 
 First full class with post-Lance capital restored. Ricky Pearsall (Round 1) is active on the roster. Isaac Guerendo has emerged as a legitimate backfield contributor. Dominick Puni has stepped into a starting guard role on the offensive line — the early standout of this class. Grade pending full development across 2025 and 2026 seasons.
 
