@@ -654,7 +654,7 @@ $$PV_{pos, round} = E[AV \mid pos, round] \cdot \frac{1}{Salary_{pos}}$$
 |----------------------|------|----------|----------------|--------------------------|
 | De'Zhaun Stribling   | 33   | WR       | 2nd–3rd        | ✓ Ideal                  |
 | Romello Height       | 70   | DL       | 1st–2nd        | △ Late for position      |
-| Kaelon Black         | 90   | RB       | 3rd–4th        | ✓ Ideal                  |
+| Kaelon Black         | 90   | RB       | 3rd–4th        | △ Late for position               |
 | Gracen Halton        | 107  | DL       | 3rd–5th        | ✓ Ideal                  |
 | Carver Willis        | 127  | OL       | 1st–2nd        | △ Late for position      |
 | Ephesians Prysock    | 139  | CB       | 2nd–3rd        | △ Slight stretch         |
