@@ -7,8 +7,6 @@ tags: ["statistics", "AI" , "Antivirus", "tracing", "polymorphism", ]
 categories: ["project", "AI", "antivirus", "polymorphism", ]
 math: false
 ---
-## The Endless Arms Race
-
 Many people understand that AI systems can generate code. From that, it’s often assumed they could produce endless variations of the same program to evade antivirus detection. That assumption is not quite accurate.
 
 A useful analogy helps clarify this: imagine you run an art gallery that frequently experiences theft. You give your security guard a list of known thieves and descriptions of their typical clothing; instructing the guard to remove anyone matching those appearances. Naturally, thieves respond by changing their outfits. Relying on appearance alone proves ineffective.
