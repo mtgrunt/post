@@ -12,7 +12,7 @@ math: false
 Many people understand that AI systems can generate code. From that, it’s often assumed they could produce endless variations of the same program to evade antivirus detection. That assumption is not quite accurate.
 
 A useful analogy helps clarify this: imagine you run an art gallery that frequently experiences theft. You give your security guard a list of known thieves and descriptions of their typical clothing; instructing the guard to remove anyone matching those appearances. Naturally, thieves respond by changing their outfits. Relying on appearance alone proves ineffective.
-A better strategy is to focus on behavior: instead of identifying how thieves look, identify what they do—stealing paintings. Detecting suspicious actions is far more reliable than matching superficial traits. This shift mirrors how antivirus technology has evolved.
+A better strategy is to focus on behavior; instead of identifying how thieves look, identify what they do: stealing paintings. Detecting suspicious actions is far more reliable than matching superficial traits. This shift mirrors how antivirus technology has evolved.
 
 Earlier generations of antivirus software relied on “signatures”; specific patterns in code that identified known threats. These signatures acted like fingerprints: flagging programs that matched known malicious structures. However, there are effectively infinite ways to write code that performs the same function. Attackers exploited this by rewriting their programs to avoid matching known signatures.
 
