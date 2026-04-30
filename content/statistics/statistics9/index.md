@@ -502,11 +502,11 @@ $$\Sigma = \begin{pmatrix} 0.302 & -0.176 & -0.198 \\ -0.176 & 0.160 & 0.094 \\ 
 
 | Scenario         | Definition                                        | Probability |
 |------------------|---------------------------------------------------|-------------|
-| Soft landing     | $g > 2.0\%$, $\pi < 2.5\%$, $u < 4.5\%$         | 14.2%       |
-| Stagflation      | $\pi > 2.5\%$, $u > 4.5\%$                       | 42.1%       |
-| Mild stagflation | $2.0\% < \pi < 2.5\%$, $u > 4.5\%$              | 18.6%       |
+| Soft landing     | $g > 2.0\%$, $\pi < 2.5\%$, $u < 4.5\%$           | 14.2%       |
+| Stagflation      | $\pi > 2.5\%$, $u > 4.5\%$                        | 42.1%       |
+| Mild stagflation | $2.0\% < \pi < 2.5\%$, $u > 4.5\%$                | 18.6%       |
 | Recession        | $g < 0\%$                                         | 4.8%        |
-| Goldilocks       | $1.5\% < g < 2.5\%$, $\pi < 2.5\%$, $u < 4.5\%$ | 11.3%       |
+| Goldilocks       | $1.5\% < g < 2.5\%$, $\pi < 2.5\%$, $u < 4.5\%$   | 11.3%       |
 | Other            | Remaining                                         | 9.0%        |
 
 The simulation assigns a **42.1% probability** to a stagflationary outcome. The soft landing scenario has only a **14.2% probability** given the current trajectory.
