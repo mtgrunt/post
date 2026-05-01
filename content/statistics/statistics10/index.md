@@ -69,7 +69,7 @@ Precipitation by Hydrological Region (Water Year to Date)
 | Colorado River    | 91%                     |
 | North Coast       | 88%                     |
 
-*Updated May 1, 2026. Source: California Water Watch via PRISM / Oregon State University.*
+*Updated May 1, 2026.* 
 
 Urban Water Conservation Since July 2021
 
@@ -88,4 +88,4 @@ Urban Water Conservation Since July 2021
 | **Statewide**     | **-6.0%**                |
 
 ---
-*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard, CA State Water Resources Control Board.*
+*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard, CA State Water Resources Control Board, California Water Watch via PRISM / Oregon State University.*
