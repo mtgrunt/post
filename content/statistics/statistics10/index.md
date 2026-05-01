@@ -87,7 +87,5 @@ Urban Water Conservation Since July 2021
 | Colorado River    | -2.1%                    |
 | **Statewide**     | **-6.0%**                |
 
-*Cumulative savings between January 2023 and July 2021 compared to a 2020 baseline. Source: CA State Water Resources Control Board.*
-
 ---
-*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard.*
+*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard, Source: CA State Water Resources Control Board.*
