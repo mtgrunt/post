@@ -20,5 +20,74 @@ Below the surface, the picture grows more concerning. Some 26% of monitored grou
 
 California's water story in 2026 is one of a reprieve, not a resolution. Full reservoirs and absent drought mask persistent vulnerabilities: a weak snowpack, chronically depleted aquifers and a distribution system under mounting climate pressure. The state has water today; whether it will reliably have it tomorrow depends on decisions being made now.
 
+Key Numbers at a Glance
+
+| Metric                                                         | Value                                  |
+| -------------------------------------------------------------- | -------------------------------------- |
+| Total reservoir capacity                                       | 38.10 million acre-feet                |
+| Current reservoir storage                                      | 32.80 million acre-feet (119% of avg.) |
+| State Water Project reservoirs at 75%+ capacity                | 7 of 12                                |
+| Statewide precipitation (water year to date)                   | 100% of historical average             |
+| Snowpack — April 1, 2026                                       | 18% of historical average              |
+| State Water Project allocation (2025–26)                       | 10% of contractor requests             |
+| Urban water use change (Jul 2021 to Jan 2023 vs. 2020)         | -6% statewide                          |
+| Residential use — April 2024                                   | 61 gallons per capita per day          |
+| Groundwater wells at historic lows                             | 26% of ranked wells                    |
+| Area experiencing drought — April 28, 2026                     | 5% of state total                      |
+| Households reporting water shortage (past 365 days)            | 0                                      |
+| Californians without reliable drinking water (on any given day)| ~200,000                               |
+
+Reservoir Snapshot — Major State Reservoirs
+
+| Reservoir   | Capacity        | Level vs. Historical Average |
+| ----------- | --------------- | ---------------------------- |
+| Shasta      | 4.6M acre-feet  | 120.9%                       |
+| Oroville    | 3.5M acre-feet  | 126.9%                       |
+| Trinity     | 2.4M acre-feet  | 125.8%                       |
+| New Melones | 2.4M acre-feet  | 132.1%                       |
+| San Luis    | 2.0M acre-feet  | 102.4%                       |
+| Don Pedro   | 2.0M acre-feet  | 100.4%                       |
+| McClure     | 1.0M acre-feet  | 131.9%                       |
+| Pine Flat   | 1.0M acre-feet  | 119.5%                       |
+| Folsom      | 977K acre-feet  | 82.9%                        |
+| Millerton   | 521K acre-feet  | 83.8%                        |
+| Castaic Lake| 325K acre-feet  | 104.0%                       |
+| Perris      | 131K acre-feet  | 353.8%                       |
+
+Precipitation by Hydrological Region (Water Year to Date)
+
+| Region            | % of Historical Average |
+| ----------------- | ----------------------- |
+| Central Coast     | 118%                    |
+| Tulare Lake       | 113%                    |
+| South Lahontan    | 111%                    |
+| South Coast       | 107%                    |
+| North Lahontan    | 106%                    |
+| Sacramento River  | 104%                    |
+| San Joaquin River | 97%                     |
+| San Francisco Bay | 92%                     |
+| Colorado River    | 91%                     |
+| North Coast       | 88%                     |
+
+*Updated May 1, 2026. Source: California Water Watch via PRISM / Oregon State University.*
+
+Urban Water Conservation Since July 2021
+
+| Region            | Change vs. 2020 Baseline |
+| ----------------- | ------------------------ |
+| North Coast       | -15.0%                   |
+| San Francisco Bay | -11.4%                   |
+| North Lahontan    | -9.3%                    |
+| Sacramento River  | -7.8%                    |
+| South Lahontan    | -6.3%                    |
+| South Coast       | -4.9%                    |
+| Central Coast     | -4.7%                    |
+| San Joaquin River | -4.7%                    |
+| Tulare Lake       | -3.2%                    |
+| Colorado River    | -2.1%                    |
+| **Statewide**     | **-6.0%**                |
+
+*Cumulative savings between January 2023 and July 2021 compared to a 2020 baseline. Source: CA State Water Resources Control Board.*
+
 ---
 *Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard.*
