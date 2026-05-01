@@ -88,4 +88,4 @@ Urban Water Conservation Since July 2021
 | **Statewide**     | **-6.0%**                |
 
 ---
-*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard, Source: CA State Water Resources Control Board.*
+*Sources: California Water Watch (cww.water.ca.gov), USGS California Water Science Center, CA Department of Water Resources, U.S. Drought Monitor, CalMatters Water Dashboard, CA State Water Resources Control Board.*
