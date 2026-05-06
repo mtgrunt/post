@@ -8,7 +8,6 @@ categories: ["President", "President Elect", "Candidates", "Andy Beshear", "Cory
 math: false
 ---
 ## Potential Democratic Candidates
-<a href="https://www.github.com/mtgrunt" target="_blank">GitHub</a>
 
 ### [Andy Beshear](https://en.wikipedia.org/wiki/Andy_Beshear)
 
