@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
+Sitemap: {{ "sitemap.xml" | absURL }}
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
