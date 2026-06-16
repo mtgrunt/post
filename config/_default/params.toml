@@ -83,7 +83,7 @@ defaultFeaturedImage = "mw.png" # used as default for featured images in all art
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = ["linkedin", "twitter", "reddit", "facebook", "email"]
+  sharingLinks = []
   showZenMode = false
 
 [list]
