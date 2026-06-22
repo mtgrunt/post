@@ -1,25 +1,92 @@
 ---
-title: "A Rust Research Aggregator"
+title: "Building a URL Shortener in Rust"
 date: 2026-06-22
 draft: false
-description: "Build a Rust based aggregator that pulls GitHub repos, Reddit threads, YouTube tutorials and newsletter articles about the Rust ecosystem into a single SQLite database."
-tags: ["Rust", "GitHub API", "Reddit API", "YouTube Data API", "SQLite", "rusqlite", "reqwest", "serde", "tokio", "RSS", "Data Aggregation", ]
-categories: ["Rust", "GitHub API", "Reddit API", "YouTube Data API", "SQLite", "rusqlite", "reqwest", "serde", "tokio", "RSS", "Data Aggregation", ]
+description: "Build a URL shortener in Rust that takes long URLs and shortens them, creating concise and easy-to-share links."
+tags: ["Rust", "URL Shortener", "Base62", "SQLite", "rusqlite", "axum", "Hashing", "Redirect", "Web Service", ]
+categories: ["Rust", "URL Shortener", "Base62", "SQLite", "rusqlite", "axum", "Hashing", "Redirect", "Web Service", ]
 ---
-Keeping up with a fast moving ecosystem like Rust means checking half a dozen places that never agree on a format. GitHub shows which crates and tools are gaining stars this week. Reddit's r/rust shows what the community is actually arguing about. YouTube surfaces the tutorials people are watching to learn the language right now. Newsletters like This Week in Rust and the official Rust blog summarize what the core team and working groups shipped. Each of these is useful on its own and each is locked behind a different API shape, a different rate limit and a different idea of what a timestamp looks like. A small Rust program that normalizes all four into one schema turns four browser tabs into one query.
+A URL shortener looks trivial from the outside: take a long URL, hand back a short one, redirect anyone who visits the short one to the original. The interesting part is not the redirect itself but the small set of decisions hiding behind it, how a short code gets generated, where the mapping lives and how fast that lookup has to be once a link starts getting shared. A link that goes viral on social media can take thousands of hits within minutes of being posted, so the path from a six-character code to a 301 response is the one piece of the whole system that has to be fast every single time.
 
-The natural shape for this kind of tool is a single async binary built on tokio with one module per source. Each module is responsible for exactly one job: talk to its API, deserialize the response into a typed struct with serde and hand back a plain Rust value that has nothing left over from the source's particular JSON quirks. Keeping that boundary strict matters more than it looks. GitHub nests star counts under a repository object, Reddit nests score and comment count under a "data" object inside a "child" inside a "children" array and the YouTube Data API splits a single video's information across a search result and a separate statistics lookup. None of that should leak past the module boundary. By the time data leaves the GitHub module it is a flat struct with a repo name, owner, description, star count, primary language and a last-updated timestamp and the rest of the program never has to know it came from GitHub's REST API rather than somewhere else.
+At its core the service is a key-value mapping between a short code and the original URL, with a web layer in front of it handling two routes. A POST endpoint accepts a long URL and returns a freshly generated short code. A GET endpoint accepts that code, looks up the original URL and issues a redirect to it. Building both on axum keeps the routing, request parsing and response handling in one async-friendly framework, with each handler doing nothing more than parse input, hit storage and shape a response.
 
-The GitHub module is the simplest because the REST API's search endpoint is built for exactly this. A query for repositories tagged with the Rust language, sorted by stars, returns description, star count, fork count and last push date in one response, with reqwest handling the HTTP call and serde_json deserializing the body directly into a struct that mirrors the fields you actually want to keep. Authenticated requests via a personal access token read from an environment variable raise the rate limit from sixty requests an hour to five thousand, which matters the moment the aggregator runs on a schedule rather than by hand.
+```rust
+let app = Router::new()
+    .route("/shorten", post(create_short_link))
+    .route("/:code", get(redirect_short_link))
+    .with_state(state);
+```
 
-Reddit is the messiest of the four because its public JSON endpoints were never meant to be a stable API. Appending .json to a subreddit listing URL like r/rust/top still works and returns the top posts for a chosen time window without authentication, but the response wraps every post in the listing envelope described above and Reddit can change the shape or start requiring OAuth without much warning. The more durable path is registering a script application through Reddit's developer console and using the OAuth token flow, which returns the same post data, title, score, comment count and permalink, through a stable authenticated endpoint that is far less likely to break silently.
+Generating the short code itself has a few reasonable approaches and they trade off differently. An auto-incrementing counter encoded in base62, using the sixty-two characters from 0-9, a-z and A-Z, guarantees uniqueness for free since no two rows in the table ever share a counter value and a six-character base62 code already covers more than fifty-six billion distinct links before running out of room. Hashing the URL with something like SHA-256 and truncating the result to the first few characters is tempting because it produces the same short code for the same URL every time, but truncated hashes collide far more often than a counter does, which means the insert path needs a collision check it would not otherwise need. The counter-based approach is the simpler one to reason about and is what most production shorteners actually use under the hood.
 
-YouTube's Data API v3 splits what feels like one piece of information into two calls. A search request for "rust tutorial" filtered by relevance or view count returns video IDs and titles, but view counts and like counts live behind a separate videos.list call keyed by those IDs. The aggregator has to chain the two: search first, collect the IDs, then batch them into a statistics lookup before a result is complete enough to store. The API key based authentication is simpler than Reddit's OAuth dance, but the daily quota is the tightest constraint of the four sources, which pushes the YouTube module toward querying a small, fixed set of search terms on each run rather than anything exploratory.
+```rust
+const ALPHABET: &[u8] = b"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-Newsletters and blog posts are the easiest data to reach and the hardest to query reliably, because there is no API at all, only RSS and Atom feeds. The feed-rs crate parses both formats into one unified item type with a title, link, published date and summary, which means the same parsing code handles This Week in Rust's weekly digest and the official Rust blog's release announcements without caring which format either one happens to publish in. The tradeoff is that a feed only exposes what its publisher chose to put in it, so a summary field is sometimes a full article and sometimes a single truncated sentence with a link to follow.
+fn to_base62(mut n: u64) -> String {
+    if n == 0 {
+        return "0".to_string();
+    }
+    let mut chars = Vec::new();
+    while n > 0 {
+        chars.push(ALPHABET[(n % 62) as usize]);
+        n /= 62;
+    }
+    chars.reverse();
+    String::from_utf8(chars).unwrap()
+}
+```
 
-Every module ultimately needs to land in the same place, which is a SQLite database opened through rusqlite. A normalized schema with one items table holding source, external_id, title, url, score, collected_at and a json blob column for source-specific extras avoids needing a new table every time a fifth source gets added later. The external_id and source pair is given a unique constraint so that re-running the aggregator against a Reddit thread or a GitHub repo it already saw becomes an upsert that updates the score and collected_at columns rather than a duplicate row. That single design choice is what turns a one-shot scrape into something that can run on a timer and build a real history.
+Storage is a single table behind rusqlite with the short code as the primary key, the original long URL, a created_at timestamp and a click_count column that increments on every redirect. Keeping the table this narrow matters because the redirect handler runs this query far more often than the create handler ever runs its insert, so every column it has to read back adds latency to the one code path where latency is most visible to whoever clicked the link.
 
-With four modules each returning a Vec of their own struct, the top level of the program becomes a short orchestration layer: spawn each fetch as its own async task with tokio::join! so a slow YouTube quota wait does not block the GitHub call sitting right next to it, collect whatever came back even if one source errored out and hand every result to the same insert function that knows how to serialize a struct into the items table's columns. Isolating failures at this level matters because the four sources fail in different ways and on different schedules. A Reddit OAuth token expiring should not stop the GitHub stars from being recorded that day and a GitHub outage should not silently drop the Reddit data that already came back successfully.
+```sql
+CREATE TABLE links (
+    short_code  TEXT PRIMARY KEY,
+    long_url    TEXT NOT NULL,
+    created_at  INTEGER NOT NULL,
+    click_count INTEGER NOT NULL DEFAULT 0,
+    expires_at  INTEGER
+);
+```
 
-None of this is interesting on its own. The reason to build it is the second program that reads from the same database once a few weeks of history have accumulated: which crates are gaining stars fastest this month, which Reddit threads correlate with a spike in stars on the repo they are discussing, which YouTube channels keep showing up across unrelated search terms and whether a newsletter mention precedes or follows a jump in GitHub activity. None of those questions can be answered from a single API response taken in isolation. They only become answerable once the same shape of data has been landing in the same table long enough to compare one week against the next, which is the entire point of normalizing four incompatible APIs into one schema in the first place.
+A plain SQLite lookup on every redirect works fine at low volume but becomes the bottleneck the moment a single link gets shared somewhere with real traffic, since each redirect now means a disk-backed query competing with every other redirect happening at the same moment. Putting a cache in front of storage, either a simple HashMap behind a RwLock for single-instance deployments or a crate like moka for one with proper eviction, turns the hot path into an in-memory lookup that only falls through to SQLite on a cache miss. The create endpoint writes to both the database and the cache at once so a brand new short code is redirectable immediately rather than waiting for a first cache miss to populate it.
+
+```rust
+async fn redirect_short_link(
+    Path(code): Path<String>,
+    State(state): State<AppState>,
+) -> Result<Redirect, StatusCode> {
+    if let Some(url) = state.cache.get(&code) {
+        return Ok(Redirect::permanent(&url));
+    }
+
+    let url = state.db.lookup(&code).map_err(|_| StatusCode::NOT_FOUND)?;
+    state.cache.insert(code, url.clone());
+    Ok(Redirect::permanent(&url))
+}
+```
+
+Letting a caller choose their own short code instead of an auto-generated one, something marketing links and branded redirects rely on constantly, means the create handler needs a uniqueness check before it writes anything. A unique constraint on the short code column makes SQLite itself enforce this and the insert simply fails when someone requests a custom code that is already taken. Routing that failure back to the caller as a clear conflict response rather than a generic error is what makes the difference between a usable API and a frustrating one.
+
+```rust
+async fn create_short_link(
+    State(state): State<AppState>,
+    Json(req): Json<CreateRequest>,
+) -> Result<Json<CreateResponse>, StatusCode> {
+    let code = match req.custom_code {
+        Some(custom) => custom,
+        None => to_base62(state.db.next_id().map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?),
+    };
+
+    state
+        .db
+        .insert(&code, &req.url)
+        .map_err(|_| StatusCode::CONFLICT)?;
+    state.cache.insert(code.clone(), req.url.clone());
+
+    Ok(Json(CreateResponse { code }))
+}
+```
+
+Expiration is the other practical feature worth building in from the start rather than bolting on later, since a links table with no concept of expiry only grows and a temporary promotional link has no reason to outlive the promotion. An optional expires_at column checked at redirect time lets the handler return a not-found response for a code that technically still exists in the table but is past its useful life, with a periodic cleanup job free to delete those rows later without anything depending on their continued presence.
+
+What makes a URL shortener a genuinely good systems exercise, despite looking like a toy project on paper, is that almost every interesting decision lives on the read path rather than the write path. Creating a short code happens once. Redirecting through it can happen millions of times and the choices made early, base62 over hashing, a cache in front of SQLite, a narrow table with only the columns the hot path actually needs, are the ones that decide whether the service stays fast under load or falls over the first time a link actually takes off.
