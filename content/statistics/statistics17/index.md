@@ -52,15 +52,15 @@ Headline Economy vs. Household Reality
 | Inflation rate     | Cooling, rate of increase slowing | Prices still ~25% higher than 2020       |
 | Wage growth        | Modest gains reported             | ~10% raise against a ~25% rise in prices |
 
-Retirement and Net Worth by Generation (approximate)
+Retirement and Net Worth by Age Group
 
-| Age group (generation) | Average 401(k) balance | Median net worth        |
-| ---------------------- | ---------------------- | ----------------------- |
-| 20s (Gen Z)            | ~$15,000               | Minimal, just beginning |
-| 30s (Millennials)      | ~$45,000               | ~$50,000-$100,000       |
-| 40s (Gen X)            | ~$105,000              | ~$250,000               |
-| 50s (Gen X / Boomers)  | ~$190,000              | ~$350,000+              |
-| 60s (Boomers)          | ~$230,000              | ~$400,000+              |
+| Age group | Average 401(k) balance | Median net worth        |
+| --------- | ---------------------- | ----------------------- |
+| 20s       | ~$15,000               | Minimal, just beginning |
+| 30s       | ~$45,000               | ~$50,000-$100,000       |
+| 40s       | ~$105,000              | ~$250,000               |
+| 50s       | ~$190,000              | ~$350,000+              |
+| 60s       | ~$230,000              | ~$400,000+              |
 
 ---
 *Sources: Federal Reserve Survey of Consumer Finances; LendingClub/PYMNTS Paycheck-to-Paycheck Consumer Report; Bankrate Annual Emergency Savings Report; Federal Reserve Economic Data (FRED) and U.S. Bureau of Labor Statistics Consumer Price Index data on cumulative inflation since 2020; retirement-savings survey data from the Federal Reserve and the Employee Benefit Research Institute; New York Federal Reserve Quarterly Report on Household Debt and Credit; U.S. Bureau of Economic Analysis personal saving rate data; Federal Reserve Distributional Financial Accounts; Fidelity and Vanguard retirement account balance reports.*
