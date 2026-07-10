@@ -1,6 +1,6 @@
 ---
 title: "OSIRIS: A GPU-Accelerated OSINT Dashboard for Live Global Intelligence"
-date: 2026-06-30
+date: 2026-07-09
 draft: false
 description: "Building a real-time OSINT dashboard that aggregates flight tracking, CCTV networks, seismic activity, conflict zones, crypto wallet tracing and 24/7 news feeds into a single WebGL-rendered map, with a RECON toolkit for port scanning, WHOIS, DNS and OFAC sanctions cross-checking."
 tags: ["Next.js", "TypeScript", "MapLibre", "OSINT", "WebGL", "Reconnaissance", "Real-Time Data", "Threat Intelligence", ]
