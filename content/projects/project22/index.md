@@ -1,0 +1,15 @@
+---
+title: "Stratoshark: Bringing Wireshark's Analysis Engine to System Calls and Cloud Logs"
+date: 2026-09-21
+draft: false
+description: "Stratoshark reuses Wireshark's dissection, filtering and UI to inspect Linux system calls and cloud audit logs instead of network packets, built on the Falco project's libsinsp and libscap libraries after Sysdig donated the tool to the Wireshark Foundation."
+tags: ["Stratoshark", "Wireshark", "Falco", "libsinsp", "libscap", "Cloud Security", "System Calls", "CloudTrail", "Networking", ]
+categories: ["Security", "Networking"]
+---
+[Stratoshark](https://stratoshark.org) applies Wireshark's approach to packet analysis to a different kind of data entirely: system calls and log messages rather than network traffic. It shares Wireshark's dissection engine, display filters and interface, so the same instinct for drilling into a packet capture carries over directly to reading through what a process, container or cloud service actually did. The project is still young and general-purpose in ambition, but its first release deliberately targets cloud-based workloads, where "what happened on this machine" is often scattered across system activity and provider-side audit trails rather than contained in a single log file.
+
+That cloud focus comes directly from where the data pipeline sits underneath the UI. Stratoshark doesn't implement its own capture layer; it builds on libsinsp and libscap, two libraries that originated in Sysdig's runtime security work and now live in the Falco ecosystem. Libscap handles the low-level job of pulling system calls off a Linux kernel module or eBPF probe, and libsinsp sits above it, enriching that raw stream with process, container and file context before handing it to Stratoshark for display. Because those same libraries can also ingest structured events from outside the kernel, including AWS CloudTrail and GCP audit logs, Stratoshark ends up able to correlate what a workload did locally with what it did against a cloud provider's control plane, all inside one filterable timeline.
+
+The project's lineage explains why the pairing works as smoothly as it does. Stratoshark was built jointly by Wireshark's original creator, Gerald Combs, and Falco's creator, Loris Degioanni, launching publicly in January 2025 as a Sysdig-backed sibling to Wireshark before Sysdig handed the project to the nonprofit Wireshark Foundation a few months later. That history is also why Stratoshark can read the same capture file format Sysdig and Falco already use, letting a `.scap` file move between tools rather than locking analysis into just one of them.
+
+The current release only captures on Linux, with Windows and macOS support planned as the project matures, which fits its early focus on cloud infrastructure that is overwhelmingly Linux-based anyway. For anyone who already reaches for Wireshark when a network problem needs a closer look, Stratoshark is the same reflex applied one layer down and one hop further out: syscalls instead of packets and cloud audit trails instead of a second network tap.
