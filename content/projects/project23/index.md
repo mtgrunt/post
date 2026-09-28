@@ -30,3 +30,8 @@ npm run dev
 ```
 
 That's enough to get the map itself running, though several layers stay dark until their keys are supplied. Ships need a free `AIS_API_KEY` from aisstream.io, air quality needs an OpenAQ v3 key now that v2 is retired and Cloudflare Radar needs its own token, each set as an environment variable before the dev server picks it up. Cameras, satellites, flights, fires, earthquakes and the rest of the static and public-API layers work with no configuration at all.
+
+Resources:
+*Open Source Intelligence & Reconnaissance Integrated System
+Live Demo Support OSIRIS Next.js TypeScript MapLibre License
+A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping and 24/7 news feeds into a single GPU-accelerated interface.*
