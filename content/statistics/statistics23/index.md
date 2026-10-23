@@ -103,3 +103,5 @@ Sources:
 - [Over 350 killed, nearly 800 missing in Kursk region, Moscow Times](https://www.themoscowtimes.com/2025/05/27/over-350-people-killed-and-nearly-800-still-missing-in-kursk-region-after-ukrainian-incursion-prosecutor-says-a89232)
 - [Levada Center: Conflict with Ukraine in December 2025](https://www.levada.ru/en/2026/01/13/conflict-with-ukraine-in-december-2025/)
 - [Russian Support for Peace With Ukraine Hits New High, Bloomberg](https://www.bloomberg.com/news/articles/2026-03-04/russian-support-for-peace-with-ukraine-hits-new-high-poll-shows)
+
+Featured map: ["2022 Russian invasion of Ukraine"](https://commons.wikimedia.org/wiki/File:2022_Russian_invasion_of_Ukraine.svg) by Viewsridge, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), cropped from the original.
