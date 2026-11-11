@@ -1,7 +1,7 @@
 ---
 title: "A Used Cisco 2960-X in a UniFi Home Lab: Password Recovery, a Forgotten Config Archive and a Management VLAN"
 date: 2026-11-10
-draft: true
+draft: false
 description: "Bringing a secondhand Cisco Catalyst 2960-X into a segmented UniFi network: verifying the hardware, recovering from a lockout with the MODE button, finding a previous owner's config archive that survived the reset, and managing the switch over SSH on its own VLAN behind a zone-based firewall."
 tags: ["Cisco", "IOS", "VLAN", "802.1Q", "UniFi", "Zone-Based Firewall", "SSH", "Password Recovery", "Home Lab", "Network Segmentation"]
 categories: ["Networking", "Security"]
