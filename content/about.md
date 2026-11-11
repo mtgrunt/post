@@ -10,31 +10,13 @@ sitemap:
 
 👋 Hello. Bonjour. Hallo. Hola. Konnichiwa.
 
-I'm Miles Wallace, a full-stack developer based in California with a passion for building robust web applications and exploring the endless possibilities of modern technology. Whether it's crafting elegant frontend interfaces or architecting powerful backend systems, I'm always driven by the philosophy: **always be coding and creating**.
+I'm Miles Wallace, a full-stack developer based in California with a passion for building robust web applications and exploring the endless possibilities of modern technology. Whether it's crafting elegant frontend interfaces, architecting powerful backend systems, or hardware; I'm always driven by the philosophy: **always be coding and creating**.
 
 ## My Technical Journey
 
-My development journey centers around creating practical, efficient web solutions using a diverse technology stack. I specialize in **Python** and **Django**, which I've used to build database-driven applications with **PostgreSQL** as my go-to relational database. My experience spans both frontend and backend development, allowing me to tackle full-stack challenges with confidence.
+My development journey centers around creating practical, efficient web solutions using a diverse technology stack. I specialize in Python and Django, which I've used to build database-driven applications with PostgreSQL as my go-to relational database. My experience spans both frontend and backend development, allowing me to tackle full-stack challenges with confidence.
 
-On the frontend, I work with **HTML5**, **CSS3** and **JavaScript** to create responsive, user-friendly interfaces. I've leveraged frameworks like **Bootstrap** to accelerate development while maintaining design consistency. This website itself is built with **Hugo**, a powerful static site generator that demonstrates my interest in modern web technologies and performant web architectures.
-
-## Development Experience
-
-In the past, I've built complex web applications using **Django 4.0** with **PostgreSQL** backends, focusing on scalable database design and efficient query optimization. These projects taught me the importance of proper database architecture and the power of PostgreSQL's advanced features—from JSONB support to full-text search capabilities.
-
-Beyond traditional web development, I've also contributed to gaming communities by assisting with a **Grand Theft Auto 5 modification** and server infrastructure. This experience gave me valuable insight into real-time systems, multiplayer architecture and community-driven development.
-
-## Technology Stack
-
-My current toolkit includes:
-
-- **Backend**: Python, Django, PostgreSQL, MySQL, MongoDB
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Static Site Generation**: Hugo
-- **Database Technologies**: PostgreSQL, MySQL, MongoDB
-- **Development Tools**: Git, GitHub, various DevOps tools
-
-I'm particularly interested in PostgreSQL's advanced capabilities and have explored its features for everything from NoSQL-style JSON storage to vector databases for AI applications. You can see some of my technical deep-dives in my [projects section](/projects/).
+On the frontend, I work with HTML5, CSS3 and JavaScript to create responsive, user-friendly interfaces. I've leveraged frameworks like Bootstrap to accelerate development while maintaining design consistency. This website itself is built with Hugo, a markdown files, a powerful static site generator that demonstrates my interest in modern web technologies.
 
 ## Beyond the Code
 
@@ -44,4 +26,4 @@ I believe in continuous learning and staying current with emerging technologies.
 
 ---
 
-*Last updated: January 2026*
+*Last updated: November 2026*
