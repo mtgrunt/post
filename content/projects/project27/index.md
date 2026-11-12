@@ -1,7 +1,7 @@
 ---
 title: "Giving a Cisco Switch a Memory: NTP and Remote Syslog Across Firewalled VLANs"
 date: 2026-11-11
-draft: true
+draft: false
 description: "A switch with no clock battery and no remote logging can't tell you what happened or when. Fixing both on a Cisco 2960-X in a segmented UniFi network: an NTP source that never answered, a clock stuck in 1974, a filtered rsyslog receiver and one narrow firewall policy."
 tags: ["Cisco", "IOS", "NTP", "Syslog", "rsyslog", "UniFi", "Zone-Based Firewall", "Logging", "Home Lab", "Blue Team"]
 categories: ["Networking", "Security"]
